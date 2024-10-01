@@ -1,0 +1,236 @@
+Testing notes
+
+Objective: Learn to use classifier:
+	http://mallet.cs.umass.edu/quick-start.php
+	http://mallet.cs.umass.edu/classification.php
+
+Using a playground folder in .../themes/play/
+Using the builtin test data
+
+Note: icloud drive may be messing with files by adding invisible .icloud extensions.
+
+########
+step 1:
+cd /Users/mlafleur/Desktop/themes/
+rm /Users/mlafleur/Desktop/themes/play/.DS_Store
+
+#########
+step 2: (note: need full path)
+mallet import-dir --input /Users/mlafleur/Desktop/themes/mallet-2.0.8/sample-data/web/en  --output /Users/mlafleur/Desktop/themes/play/web.mallet --keep-sequence
+
+
+mallet train-topics \
+	--input ~/Desktop/themes/play/web.mallet \
+	--output-state ~/Desktop/themes/play/web-topic-state.gz     \
+	--output-doc-topics ~/Desktop/themes/play/web-doc-topics  \
+	--output-model ~/Desktop/themes/play/web-model.lda \
+	--output-topic-keys ~/Desktop/themes/play/web-topic-keys  
+
+
+
+
+########	
+step 2b: trying classifier as per example
+mallet train-classifier \
+	--input /Users/mlafleur/Desktop/themes/play/web.mallet \
+	--trainer MaxEnt --trainer NaiveBayes  --training-portion 0.9 --num-trials 10
+
+
+##ok, something happened. Now how to interpret and use
+
+##instructions are using a .vector file. I'm interpreting that this is to be used when a single file with the corpus is used. I'm using folders, so ignoring this. I'll try just input as above.
+—————————————————————————————	
+
+#########
+step 2c: http://mallet.cs.umass.edu/ge-classification.php
+
+*****It looks like I can run mallet on the constraints directly, by feeding it a constraints file with probabilities. 
+But if I want to create the constraints, I can run the java code. 
+So do the second of these first, then run the train-classifier
+
+mallet code (note the --trainer  option):
+mallet train-classifier \
+--training-file   baseball-hockey.unlabeled.vectors \
+--testing-file    baseball-hockey.test.vectors \
+--trainer "MaxEntGETrainer,gaussianPriorVariance=0.1,
+  constraintsFile=\"baseball-hockey.constraints\"" \
+--report test:accuracy
+
+Obtaining constraints via code (need java -cp syntax as below): 
+java cc.mallet.classify.tui.Vectors2FeatureConstraints \
+--input baseball-hockey.train.vectors \
+--output baseball-hockey.features \
+--feature-selection lda \
+--lda-file baseball-hockey.train.lda \
+--targets none \
+--num-constraints 10 
+
+
+
+
+java -cp "/Users/mlafleur/Desktop/themes/mallet-2.0.8/class:/Users/mlafleur/Desktop/themes/mallet-2.0.8/lib/mallet-deps.jar" \
+	cc.mallet.classify.tui.Vectors2FeatureConstraints \
+  	--input /Users/mlafleur/Desktop/themes/play/web.mallet \
+	--output /Users/mlafleur/Desktop/themes/play/constraints.constraints \
+	--features-file /Users/mlafleur/Desktop/themes/play/constraints.labeled_features \
+	--targets heuristic 
+
+
+
+To run these classes, the syntax is as follows: 
+I need the command "java -cp" (-cp is class path)
+
+see example of usage here: 
+http://mallet.cs.umass.edu/sequences.php
+hough@gobur:~/tagger-test$ java -cp  "/home/hough/mallet/class:/home/hough/mallet/lib/mallet-deps.jar" cc.mallet.fst.SimpleTagger --train true --model-file nouncrf  sample
+
+https://stackoverflow.com/questions/19219351/mallet-simpletagger-classpath
+C:\mallet> java -cp "C:\mallet\class;C:\mallet\lib\mallet-deps.jar" cc.mallet.fst.SimpleTagger --model-file G:\test1-model G:\test2-feats.txt
+	Actually, what is done with this code is that two different paths are determined as the classpath, one is the folder which includes .class files of mallet (C:\mallet\class) and the other one includes all required jar files (C:\mallet\lib\mallet-deps.jar) and you need to separate them with ";".
+
+
+
+Let's see how to do "Machine-provided Candidate Features"
+
+
+##this works!
+java -cp "/Users/mlafleur/Desktop/themes/mallet-2.0.8/class:/Users/mlafleur/Desktop/themes/mallet-2.0.8/lib/mallet-deps.jar" \
+	cc.mallet.classify.tui.Vectors2FeatureConstraints \
+	--input ~/Desktop/themes/play/web.mallet \
+	--output ~/Desktop/themes/play/web.features \
+	--feature-selection lda \
+	--lda-file ~/Desktop/themes/play/web-model.lda \
+	--targets none \
+	--num-constraints 100 
+
+
+Note: The lda-file is a serialized LDA model file, output from training the model with option --output-model [FILENAME]. 
+
+
+Let's keep going down the examples on the webpage:
+Oracle method (above is "unsupervised")
+
+note: I think I need a split between training and testing dataset. I'll ignore this for now and use the same dataset
+
+java -cp "/Users/mlafleur/Desktop/themes/mallet-2.0.8/class:/Users/mlafleur/Desktop/themes/mallet-2.0.8/lib/mallet-deps.jar" \
+	cc.mallet.classify.tui.Vectors2FeatureConstraints \
+	--input ~/Desktop/themes/play/web.mallet \
+	--output ~/Desktop/themes/play/web-oracle.features \
+	--feature-selection infogain \
+	--targets none \
+	--num-constraints 100 
+##some error. Need to fix this. The heuristic option brakes things in the previous code. Something about Machine-provided Target Expectations isn't working
+I had to reinstall java completely. See online. Also, remove jdk from here cd /Library/Java/JavaVirtualMachines
+
+
+
+java -cp "/Users/mlafleur/Desktop/themes/mallet-2.0.8/class:/Users/mlafleur/Desktop/themes/mallet-2.0.8/lib/mallet-deps.jar" \
+	cc.mallet.classify.tui.Vectors2FeatureConstraints \
+	--input ~/Desktop/themes/play/web.mallet \
+	--output ~/Desktop/themes/play/constraints2.constraints \
+	--features-file ~/Desktop/themes/play/web.features \
+	--targets heuristic 
+##same error
+
+	
+NOTE: it seems that this works by having documents (files) of a single class (topic?) in a directory. Each class is a separate directory. I guess the directories are the labels that we want to divide into classes. I should try this. https://www.cs.cmu.edu/afs/cs.cmu.edu/project/cmt-40/Nice/Urdu-MT/code/Tools/POS/postagger/mallet_0.4/doc/command-line-classification.html
+"The files should be organized in directories, such that all documents with the same class label are contained within a directory. (MALLET does not directly support classification tasks in which individual documents have multiple class labels. We recommend handling this as a series of binary classification tasks.)"
+
+Example here: /Users/mlafleur/Desktop/themes/play/sdg-classifier
+
+#############################################
+###### starting over: train on sdg representative texts and use model to classify larger corpus (see note)
+step 3:
+
+Test with SDG data: using corpus that excludes hlpf (see note)
+
+mallet import-dir --input /Users/mlafleur/Desktop/themes/play/sdg-pre-hlpf/  --output /Users/mlafleur/Desktop/themes/play/test/topic-input.mallet --keep-sequence --remove-stopwords --extra-stopwords /Users/mlafleur/Desktop/themes/extra-exclude-words.txt --keep-sequence-bigrams --gram-sizes 1,2 
+
+
+mallet train-topics --input /Users/mlafleur/Desktop/themes/play/test/topic-input.mallet --output-state /Users/mlafleur/Desktop/themes/play/test/topic-state.gz --output-doc-topics /Users/mlafleur/Desktop/themes/play/test/doc-topics  --output-topic-keys /Users/mlafleur/Desktop/themes/play/test/topic-keys   --optimize-interval 10 --num-topics 18 --output-model /Users/mlafleur/Desktop/themes/play/test/model
+
+##18 topics. 17 sdg+1 catch all (un-topic)
+##this works very well. see note
+
+
+Next step is to save model and use it on desa corpus
+idea for corpus: overview for each wess, as a representative text of the wess with more manageable size
+
+
+I think this is called topic inferencing. See here: https://diliprajbaral.com/2017/06/04/topic-modelling-lda-mallet/
+But the example doesn't work. See here instead: https://stackoverflow.com/questions/41218622/mallet-topic-inference
+Best example on bottom of here: http://mallet.cs.umass.edu/topics.php
+
+create inferencer:
+mallet train-topics --input-model /Users/mlafleur/Desktop/themes/play/test/model --inferencer-filename /Users/mlafleur/Desktop/themes/play/test/inferencer.mallet --num-iterations 0
+
+
+
+#need to import new data to be inferred. Notice the pipe option
+
+mallet import-dir --input /Users/mlafleur/Desktop/themes/inputs/wess  --output /Users/mlafleur/Desktop/themes/play/test/sdg-inferring.mallet --keep-sequence --remove-stopwords --extra-stopwords /Users/mlafleur/Desktop/themes/extra-exclude-words.txt --keep-sequence-bigrams --gram-sizes 1,2  --use-pipe-from /Users/mlafleur/Desktop/themes/play/test/topic-input.mallet
+
+
+mallet infer-topics --input /Users/mlafleur/Desktop/themes/play/test/sdg-inferring.mallet --inferencer /Users/mlafleur/Desktop/themes/play/test/inferencer.mallet --output-doc-topics /Users/mlafleur/Desktop/themes/play/test/doc-topics-inferred.txt
+
+##THERE IT IS!!!
+
+
+
+One issue: the doc-topics output doesn't list the topic. Just the weight. Is it ordered (0-17)? This is a problem for flattening file for gephi
+info here: https://github.com/mimno/Mallet/issues/41
+The format was changed in 2.0.8. Order is not topicnum file topic0weight topic1weight topic2weight ...
+Possible to get the older format with option --doc-topics-threshold with a value larger than 0.0
+But probably not needed. Just work in excel. Probably no longer need the mallet-to-gephi stacker and need to do by hand
+
+
+
+
+
+I think I need to use train-classifier (not train-topics) to save the classifier and use it. Never tried it. Lets see
+
+
+##training a classifier
+using this as guide:http://mallet.cs.umass.edu/classification.php
+
+mallet train-classifier --input /Users/mlafleur/Desktop/themes/play/test/topic-input.mallet --output-classifier /Users/mlafleur/Desktop/themes/play/test/sdg.classifier
+
+
+
+
+##Applying a Saved Classifier to New Unlabeled Data: 
+
+mallet classify-dir --input datadir --output --output-doc-topics /Users/mlafleur/Desktop/themes/play/test/classified --classifier classifier
+Using the above commands, classifications are written to standard output. Note that the input for these commands is a raw text file, not an imported Mallet file. This command is designed to be used in "production" mode, where labels are not available.
+
+mallet classify-dir --input /Users/mlafleur/Desktop/themes/inputs/wess --output /Users/mlafleur/Desktop/themes/play/test/sdg-classified --classifier /Users/mlafleur/Desktop/themes/play/test/sdg.classifier
+
+
+
+Note: create a script with all commands
+
+If you run -history-, you will see a numbered list of previous commands. If you want, say, to run commands 123, 124, and 125 in sequence from your history, you can do this:
+
+$ !123; !124; !125
+
+$ echo "!123 && !124 && !125" > my_cool_script.sh
+$ chmod +x my_cool_script.sh
+$ ./my_cool_script.sh
+
+
+You can separate commands with && or ;.
+
+&& only runs the next command if the previous one exited with status 0 (was successful) :
+command1 && command2 && command3
+; runs every commands, even if the previous one exits with a non zero status :
+command1; command2; command3
+You can combine these separators as you wish.
+
+
+
+
+
+
+
+
+

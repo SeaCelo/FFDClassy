@@ -1,0 +1,59 @@
+Train inferencer and infer on new corpus
+Train on sdg representative texts and use model to classify larger corpus (see note)
+
+######
+Notes:
+a) Remember to remove all .DS_store files in all paths or they show up in the output
+b) Working in the /themes/play directory for testing. Adjust for final
+
+
+########
+step 1:
+cd ~/Desktop/themes/play
+rm ~/Desktop/themes/play/.DS_Store
+rm ~/Desktop/themes/play/sdg-pre-hlpf/.DS_Store
+rm ~/Desktop/themes/play/test/.DS_Store
+rm ~/Desktop/themes/inputs/wess/.DS_Store
+
+
+########
+step 2:
+
+Test with SDG data: using corpus that excludes hlpf (see note)
+
+##import training corpus
+mallet import-dir --input /Users/mlafleur/Desktop/themes/play/sdg-pre-hlpf/  --output /Users/mlafleur/Desktop/themes/play/test/topic-input.mallet --keep-sequence --remove-stopwords --extra-stopwords /Users/mlafleur/Desktop/themes/extra-exclude-words.txt --keep-sequence-bigrams --gram-sizes 1,2 
+
+##train model. note --output-model option
+mallet train-topics --input /Users/mlafleur/Desktop/themes/play/test/topic-input.mallet --output-state /Users/mlafleur/Desktop/themes/play/test/topic-state.gz --output-doc-topics /Users/mlafleur/Desktop/themes/play/test/doc-topics  --output-topic-keys /Users/mlafleur/Desktop/themes/play/test/topic-keys   --optimize-interval 10 --num-topics 18 --output-model /Users/mlafleur/Desktop/themes/play/test/model
+
+18 topics. 17 sdg+1 catch all (un-topic)
+this works very well. see note
+
+#########
+Step 3: 
+##create the inferencer
+mallet train-topics --input-model /Users/mlafleur/Desktop/themes/play/test/model --inferencer-filename /Users/mlafleur/Desktop/themes/play/test/inferencer.mallet --num-iterations 0
+
+
+This is called topic inferencing. See here: https://diliprajbaral.com/2017/06/04/topic-modelling-lda-mallet/
+But the example doesn't work. 
+See here instead: https://stackoverflow.com/questions/41218622/mallet-topic-inference
+Best example on bottom of here: http://mallet.cs.umass.edu/topics.php
+
+
+##########
+Step 4: 
+With saved model, use it to infer the topics on wess corpus
+(future idea for corpus: overview for each wess, as a representative text of the wess with more manageable size)
+
+##need to import new data to be inferred. Notice the pipe option
+mallet import-dir --input /Users/mlafleur/Desktop/themes/inputs/wess  --output /Users/mlafleur/Desktop/themes/play/test/sdg-inferring.mallet --keep-sequence --remove-stopwords --extra-stopwords /Users/mlafleur/Desktop/themes/extra-exclude-words.txt --keep-sequence-bigrams --gram-sizes 1,2  --use-pipe-from /Users/mlafleur/Desktop/themes/play/test/topic-input.mallet
+
+##infer the topics
+mallet infer-topics --input /Users/mlafleur/Desktop/themes/play/test/sdg-inferring.mallet --inferencer /Users/mlafleur/Desktop/themes/play/test/inferencer.mallet --output-doc-topics /Users/mlafleur/Desktop/themes/play/test/doc-topics-inferred.txt
+
+##Done
+
+Step 5: move to gephi to graph. See other note
+

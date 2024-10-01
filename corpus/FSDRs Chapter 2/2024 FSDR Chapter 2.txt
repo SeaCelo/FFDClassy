@@ -1,0 +1,189 @@
+II.	The global economic context and its implications for sustainable development
+
+1.	Introduction
+
+At the midpoint for achieving the 2030 Agenda for Sustainable Development, the world economy is lacking dynamism and grappling with an array of risks and challenges. After a period of rapid economic expansion early in the millennium, the global economy’s momentum has waned since, creating a challenging environment for financing development. Global investment, trade and productivity growth all decelerated, amidst a series of major crises and economic and non-economic shocks, spanning from the 2007/2008 food price crisis and the 2008 financial and economic crisis to the recent COVID-19 pandemic and escalating geopolitical conflicts. Hard-earned development gains have been reversed, particularly in poor and vulnerable countries, which have yet to fully recover from the pandemic shock; these countries are also most affected by ever-increasing climate challenges that jeopardize people’s lives, health, and productivity, and pose substantial economic tail risks. 
+
+In this highly challenging environment, the global economic outlook remains fragile, with growth prospects subdued. The world economy avoided the worst-case scenario of a recession in 2023, with growth estimated at 2.7 per cent. But global growth, on a market exchange rate basis, is projected to slow to 2.4 per cent in 2024, before experiencing a moderate improvement to 2.7 per cent in 2025,  and is expected to remain weak in the medium term, amidst subdued investment and high levels of debt. Downside risks include commodity price spikes and supply disruptions due to conflicts and further escalation of geopolitical tensions, a prolonged period of tight financing conditions, persistent inflation, and trade fragmentation. On the other hand, faster disinflation could ease financing conditions; a less-contractionary-than-expected fiscal stance across countries, as well as stronger economic performance of major economies provide additional upside risks to the forecasts.
+
+The global shift in monetary policy since 2022 – from ultra-loose to restrictive stances – has exacerbated public finance pressures and is weighing on investment prospects. Globally synchronized monetary tightening to address surging inflationary pressure in 2022 has resulted in more restrictive global financial conditions and pushed up borrowing costs. While global inflation declined in 2023, real policy interest rates are expected to remain elevated for some time, due to concerns over a resurgence of inflationary pressures. Against this backdrop, many developing countries are expected to face constrained access to international financial markets and elevated borrowing costs, which will likely limit countries’ capacity to invest in the SDGs, boost long-term productivity, and combat climate change.
+
+To boost investment and improve medium-term growth and sustainable development prospects, national actions and international cooperation must be stepped up. Comprehensive national policy packages that foster macroeconomic stability and promote structural transformations have shown to be effective at driving investment.  At the same time, greater global cooperation is more important than ever, across the action areas of the Addis Agenda, to reduce debt distress and provide relief where needed, facilitate trade integration and technology transfer, alleviate food insecurity, scale up climate finance and stimulate investment in the SDGs. Without a concerted effort, the world faces a protracted period of weak investment, slow growth, and high debt service burdens, which would put the SDGs out of reach. 
+2.	Global and regional growth trends and outlook
+
+The past twenty years have been marked by several large crises alongside major shifts in the geopolitical and economic landscape. In the early 2000s, the global economy experienced a period of significant expansion, driven by globalization, advancements in technology, and robust economic growth in large developing countries, notably China and India. The rise in global demand during this period fuelled a commodity boom. Global trade activities were also buoyed by the proliferation of global value chains, as well as key milestones in trade liberalization, including China’s accession to the World Trade Organization in 2001 as well as the earlier formation of the European Union in 1995. Against this backdrop, global foreign direct investment (FDI) flows grew rapidly. This strong performance came to a halt in 2008. Developed economies were hit hard by the 2008 crisis, which caused severe recessions and massive job losses. A prolonged period of deficient demand combined with stagnant productivity growth raised fears of economic stagnation. Developing economies initially demonstrated resilience, but the crisis reverberated across the world and affected global financial markets and trade. The decade following it was eventually characterized by a noticeable slowdown in growth across developed and developing economies. In 2020, the COVID-19 pandemic then sent the world economy into a free fall, triggering the most severe global economic crisis in the past century (figure II.1). 
+
+Figure II.1 
+Global growth, 1995-2025
+Percentage
+ 
+Source: UN/DESA, based on estimates and forecasts produced with the UN DESA World Economic Forecasting Model.
+Note: f = forecasts.
+
+Over the past four years, a series of severe and mutually reinforcing shocks have led to a substantial reversal in development progress, particularly for some of the world’s poorest countries. The COVID-19 pandemic exposed systemic vulnerabilities in the world economy, while inflicting extensive damage on lives and livelihoods. By the end of 2023, nearly 7 million people had lost their lives directly due to the virus.   The pandemic triggered the worst global economic crisis since the Great Depression, as widespread mobility restrictions led to a collapse in consumer spending and investment, massive job losses, and severe disruptions to global supply chains. Recovery from the crisis was uneven and more subdued in developing countries, due to slower vaccination progress and more limited macro-policy support in countries with very limited fiscal and monetary policy space. The war in Ukraine in early 2022 then exacerbated rising prices and led to a global cost-of-living crisis. Acute supply disruptions drove food and energy prices to record levels, disproportionately impacting the most vulnerable populations. As global inflation surged to a two-decade high, central banks worldwide tightened monetary policy stances in efforts to rein in inflationary pressures. The aggressive pace of interest rate hikes by the United States Federal Reserve generated spillovers on developing countries, with many experiencing bouts of sizeable capital outflows and currency depreciations. For many developing countries, the sharp tightening of global financial conditions has intensified debt vulnerabilities and balance of payment pressures. 
+
+Against this backdrop of lingering risks and uncertainties, global growth is expected to weaken further in 2024 before picking up modestly in 2025. The United Nations World Economic Situation and Prospects 2024 projects that global growth will decelerate to 2.4 per cent in 2024, from 2.7 per cent in 2023. Growth is forecast to improve moderately to 2.7 per cent in 2025 but will remain below the pre-pandemic average growth rate of 3.1 per cent. A protracted period of low growth would make a full recovery of pandemic losses ever more elusive for vulnerable countries. Indeed, in 2023, the cumulative output losses from recent crises – calculated as the sum of the annual difference between pre-pandemic projections of GDP and actual GDP – amounted to about 40 per cent of the 2019 GDP in the small island developing States (SIDS) and about 30 per cent in the least developed countries (LDCs) (figure II.2).
+
+Figure II.2
+Cumulative output losses relative to pre-pandemic projections, 2020-2023
+
+(a) Country groupings
+(Percentage of 2019 GDP)
+ 	(b) Developing regions
+(Percentage of 2019 GDP)
+ 
+Source: UN DESA, based on estimates produced with the UN DESA World Economic Forecasting Model.
+Notes: e = estimates. Cumulative output losses are calculated as the sum of the annual difference between actual GDP levels and pre-pandemic GDP projections.
+
+While immediate risks to the global outlook appear more balanced, downside risks remain and prospects are subpar in the medium term. Global inflation is projected to moderate further. Fiscal stances that are less contractionary than expected across countries, as well as faster growth in China and sustained growth in the United States would also lift growth prospects. On the other hand, there are several major downside risks that threaten short-and medium-term prospects. First, energy and food prices could surge again due to escalating conflicts and the increasing likelihood of climate shocks. Major central banks could keep interest rates “higher for longer” as inflation risks remain. This would weigh on aggregate demand and further increase debt sustainability risks. Second, global merchandise trade and global industrial production remain exceptionally weak amid cyclical and structural headwinds. This weakness is partly attributable to tighter financial conditions and a continued shift towards spending on services, but it also reflects heightened economic and trade policy uncertainties associated with geopolitical tensions and fragmentation. A more fragmented global economy poses risk to production efficiency and spillovers of technology and knowledge, which – together with subdued investment – would dampen medium-term growth prospects. The International Monetary Fund estimates that geoeconomic fragmentation could cause a permanent world gross product loss of 7 per cent through disruptions in trade alone.  Third, and relatedly, digitalization and related frontier technologies such as artificial intelligence have the potential to stimulate global growth, but digitalization gaps persist between developed and the developing countries, due to lack of required infrastructure, technology equipment, and human resources and expertise.  Such digital divide will affect people’s access to the benefits of technologies and risk further exacerbating economic and social divides. Fourth, the ever-increasing adverse impacts of climate change pose a major risk to global development, especially for vulnerable countries such as LDCs and SIDS, which are already facing severe economic challenges and have limited fiscal space to respond. 
+
+Poverty, hunger, and inequality
+
+The highly challenging macroeconomic environment threatens to significantly set back global poverty eradication. Over the past two decades, tremendous progress has been achieved in alleviating poverty across the world. Between 2000 and 2019, the number of people living in extreme poverty ($2.15 per day or less) globally declined from 1.8 billion to 701 million.  However, even before the pandemic, the pace of progress was slowing. Between 2015 and 2019, global poverty rate fell by around 0.54 percentage points by year, less than half the reduction observed between 2000 and 2014. The pandemic, the war in Ukraine and the global energy and food price shock then reversed gains, with an additional 75 million to 95 million people being pushed into extreme poverty in 2022 relative to pre-pandemic baseline forecasts.  While global poverty declined marginally in 2023,  progress has been highly uneven. Average poverty rates in lower-middle-income, upper-middle-income, and high-income countries moved closer to pre-pandemic levels. By contrast, poverty rates were still well above pre-pandemic levels in low-income countries, particularly those in Africa and the Middle East.  These trends are mirrored in per capita GDP growth rates (see figure II.3): a significant deceleration across regions after 2008, and lagging performance in Africa in particular, which saw average GDP per capita increased by less than 1 per cent annually over the last 15 years. Overall, the World Bank projects that by the end of 2024, people in about one out of every four developing countries and about 40 per cent of low-income countries will still be poorer than they were in 2019.  Without significantly faster economic growth and targeted measures for supporting livelihoods, enhancing social protection and addressing inequality, poverty eradication will remain elusive in many low-income countries. 
+ 
+
+Figure II.3
+Average annual GDP per capita growth, by region, select years during 2000-2025
+Percentage 
+ 
+Source: UN/DESA, based on estimates and forecasts produced with the UN DESA World Economic Forecasting Model.
+
+Elevated food prices have been a significant driver of food insecurity in developing countries. In 2023, an estimated 238 million people experienced acute food insecurity, an increase of 21.6 million people from the previous year. The rise in food prices have disproportionately affected the poorest households, which spend a larger share of their income on food. 
+
+The overlapping crises have exacerbated inequalities between and within countries. Across countries, Governments’ capacity to provide fiscal support and roll out COVID-19 vaccines was very uneven. Within countries, there are significant disparities in households’ ability to shield themselves from job and income losses during recent crises. Education losses for disadvantaged students could have lasting effect on their future earnings and reduce intergenerational mobility.  
+3.	Deterioration in public finances
+Public finances have deteriorated over the past decade. Since the year 2000, fiscal deficits have expanded in both advanced economies as well as emerging markets and developing economies (figure II.4a), particularly during the 2008 world financial and economic crisis and the COVID-19 pandemic, as many countries increased public expenditures to cushion their economies from adverse effects of crises and stimulate growth. With fiscal revenues as a share of GDP stagnating or even falling in several regions since 2010 (figure II.4b), countries have relied on borrowing to finance their growing spending needs. Ultra-loose global financial conditions in the aftermath of the 2008 world financial and economic crisis allowed many low-income and lower-middle-income countries to access international financial markets, many for the first time, albeit at higher interest rates, and caused a significant expansion of global public debt (see Chapter III.E.). 
+
+
+Figure II.4
+Trends of public finances
+
+(a) Fiscal deficits, by country group, 2000-2023
+(Percentage of GDP)
+ 	(b) General government revenue, by region, select years during 2000-2023
+(Percentage of GDP)
+ 
+ (c) General government gross debt, by region, select years during 2000-2023
+(Percentage of GDP)
+ 
+Source: UN DESA, based on data from the IMF World Economic Outlook database, October 2023.
+Note: Regional groups follow the source.
+ 
+
+Figure II.5
+External debt stocks, by region, 2000 versus 2022
+(Billions of United States dollars)
+ 
+Source: UN DESA, based on data from the World Bank International Debt Statistics, available at https://databank.worldbank.org/source/international-debt-statistics# (accessed on 31 December 2023).
+Note: Regional groups follow the source.
+
+Developing countries’ debt challenges are compounded by high interest rates and debt service burdens. While global inflation eased significantly in 2023, major developed country central banks have signalled their intension to keep interest rates higher for longer; real policy interest rate may remain elevated for some time. A prolonged period of tighter credit conditions will keep borrowing costs for developing countries at a high level, exacerbating debt sustainability risks, and adding to debt service burdens (see figure II.5, figure II.6, and chapter III.E.). High and growing debt-service burdens could further constrain fiscal space at a time when developing countries need to mobilize financial resources to stimulate investment and growth, address climate change-related risks, and accelerate progress towards the SDGs. 
+ 
+
+Figure II.6
+Government interest expenditures in developing countries, 2010-2023
+(Number of countries) 								(Percentage)
+ 
+Source: UN DESA, based on data from the IMF World Economic Outlook database, October 2023.
+Notes: LHS = left-hand scale; RHS = right-hand scale. Net interest payments of the general Government equal the total amount of domestic and external interest expenses incurred from loans and other forms of borrowing minus any interest income received.
+4.	Monetary and financial stability risks
+Global monetary policy has seen major shifts in the past two decades amid the introduction of new frameworks and instruments. In the United States, for instance, as the world financial and economic crisis took hold in 2008, the Federal Reserve was quick to slash interest rates, taking them to nearly zero in December 2008 (figure II.7a). In the face of a systemic financial crisis at the zero lower bound, the Federal Reserve then turned to alternative and unconventional tools, particularly quantitative easing (QE),  to provide liquidity, restore confidence, and stimulate the economy. The outbreak of the COVID-19 forced it to cut rates again to near zero and conduct quantitative easing. The size of the Federal Reserve’s assets peaked at early $9 trillion in April 2022, compared with $890.7 billion in January 2008 (figure II.7b). Europe experienced similar monetary policy episodes, while in Japan, the central bank has kept interest rate low and maintained a negative rate since 2016 amid economic stagnation and deflation. Policy rates in developing countries – while at higher levels – largely tracked those of the central banks in major economies (figure II.8).   
+
+The prolonged period of “easy money” came to an end as major central banks responded to the return of high inflation in 2021. Major developed country central banks began to raise interest rates in 2021 and 2022.  Although inflation slowed considerably in 2023, major central banks have signalled their intention to keep interest rates “higher for longer”. In addition to rate hikes, major developed country central banks have also started selling off assets on their balance sheets – pursuing a process known as quantitative tightening (QT) – to reduce liquidity in the financial market. 
+
+
+
+
+Figure II.7
+Monetary policies in selected major developed countries
+(a) Policy rates, 2000-2023
+(Percentage)
+ 	(b) Assets of central banks’ balance sheets, 2008-2023
+(Trillions of United States dollar)
+ 
+Source: Panel (a): UN DESA, based on Trading Economics (accessed on 1 January 2024). Panel (b): UN DESA, based on based on data from the Federal Reserve, European Central Bank, Bank of England, Bank of Japan, CEIC and Trading Economics (accessed on 30 October 2023).
+Note: Panel (b): All assets of the Bank of England, Bank of Japan and European Central Bank are converted into United States dollars by using the exchange rates on 31 August 2023.
+
+Monetary policies in major developed countries have significant spillover effects on developing countries, with synchronized tightening since 2022 constraining policy space for developing country central banks. Low interest rates and ultra-loose monetary policies after 2008 prompted large capital flows to developing countries, lowering sovereign spreads during this period (figure II.9).  However, capital flows remained very volatile throughout this period, experiencing significant fluctuations and later a downward trend, with significant outflows during and since the pandemic, amidst the tightening of global financing conditions. The resulting rising interest rate spreads and currency weakness have exacerbated debt sustainability risks for many developing countries in 2022-2023, and are limiting monetary policy space. Higher interest rates in developed countries will continue to increase the debt-servicing burden of developing countries, particularly those with high levels of dollar- or euro-denominated public debt. And many developing country central banks may be restricted in lowering interest rates to support growth even when inflation pressures ease, as that could lead to capital outflows, currency depreciations, increased risk premia, and further heightened debt sustainability risks. 
+ 
+
+Figure II.8
+Policy rates in developing economies (median), 2000-2023
+(Percentage) 
+ 
+Source: UN DESA, based on CEIC data (accessed on 2 January 2023). 
+Notes: The last observation of the data is November 2023. 54 developing country central banks are covered. However, country coverage may differ between years due to data availability.
+
+Figure II.9
+Capital flows to developing countries, Q1 2000-Q2 2023
+(Billions of United States dollar)
+ 
+Source: UN DESA, based on the IMF Balance of Payments and International Investment Position Statistics, available at https://data.imf.org/?sk=7a51304b-6426-40c0-83dd-ca473ca1fd52 (accessed on 2 January 2024).
+Note: 33 developing countries are covered based on available data. 
+5.	Weak investment prospects
+Investment growth – a key driver of long-term productivity – has slowed over the past two decades, particularly in developing countries. As figure II.10 shows, growth of gross fixed capital formation in the world accelerated during the first half of the 2000s but declined thereafter, in both developed and developing countries. Amidst the series of crises and shocks described above, economic uncertainties increased, which discouraged firms’ investment activities. Global investment growth is projected to grow by only 2 per cent in 2024, only a marginal improvement from the 1.9 per cent estimated for 2023, and significantly below its 2011–2019 average growth rate of 4 per cent. 
+
+Figure II.10
+Growth of gross fixed capital formation in the world, developed and developing economies, 2000-2023
+(Percentage)
+  
+Source: UN DESA, based on estimates and forecasts produced with the UN DESA World Economic Forecasting Model.
+Notes: Growth rates for 2023 are partially estimated. 
+
+The ultra-loose monetary environment in the aftermath of the 2008 world financial and economic crisis did not successfully boost investment growth. In developed economies, commercial banks were reluctant to fund fragile businesses during uncertain economic times and, instead, kept the additional resources in their reserve accounts at the central banks. In the United States, for instance, excess reserves of depository institutions held in the Federal Reserve surged from $1.6 billion in January 2008 to $2.7 trillion in August 2014.  In developing economies, deceleration of investment growth in the decade leading up to the COVID-19 pandemic reflects the significant drop in commodity prices during 2014-2016 and the associated deterioration of terms of trade, weak growth in advanced economies and high corporate leverage.  Moreover, while loose global financial conditions in the decade after the 2008 world financial and economic crisis encouraged capital inflows, these flows predominantly came through portfolio channels, with no clear effect on investment and growth.  
+
+Productivity growth – largely driven by productive investments – declined considerably in the developing countries in the past two decades. Annual total factor productivity (TFP) growth, a key measure of economic efficiency and productivity, fell from 1.6 per cent during the period 2000–2007 to 0.2 per cent during the period 2011-2019 in the developing economies. In sub-Saharan Africa, annual TFP growth declined by an even larger margin, falling from 2.1 per cent during the period 2000–2007 to -0.2 per cent during the period 2011–2019. A multitude of factors, including constrained investment, inadequate research and development activities, limited technology spillovers, weak institutions, and decelerated international trade growth, have contribute to the decline in TFP growth.
+
+Investment is expected to remain subdued globally. In 2023, residential investment fell significantly in most developed economies amid rising mortgage interest rates and construction costs. The United States saw a particularly severe decline, with residential fixed investment in the first three quarters of 2023 down 14 per cent in comparison with the same period in 2022. In contrast, investment in intellectual property remained robust (see figure II.11). Prospects in most developing countries are also weak, due to softer external demand, volatile commodity prices, high borrowing costs, and fiscal consolidation pressures. High levels of debt amid subdued growth continue to constrain fiscal space, making it harder for Governments to borrow and invest. Conflicts hamper investment in parts of Africa and Western Asia. By contrast, investment in South Asia, particularly in India, remains strong. India is benefiting from growing interest from multinationals, which see the country as an alternative manufacturing base in the context of developed economies’ supply chain diversification strategies. 
+
+Figure II.11
+Annual investment growth in selected developed economies, by asset type, 2010-2023H1
+(Percentage) 
+ 
+Source: UN DESA, based on data from based on data from CEIC and Eurostat.
+Notes: H1 = first half of the year. Figures are in constant prices. Data for the United Kingdom, euro area and Japan are total investment; data for the United States are private investment.
+
+6.	Labour markets
+Recent crises have adversely affected global labour markets, with recovery uneven across regions. After reaching a peak of 6.5 per cent in 2009 during the world financial and economic crisis, the global unemployment rate moderated, falling to 5.6 per cent in 2019. In the wake of the COVID-19 pandemic, the unemployment rate increased to 6.6 per cent in 2020, with the number of people unemployed increasing from 194 million to 227 million in just one year.  Young workers and workers with basic education were among the most affected. The post-pandemic recovery has been swift but uneven. Although the global unemployment rate dropped to an estimated 5.1 per cent in 2023, labour market recoveries diverged considerably between developed and developing countries. Key employment indicators in many developing countries have yet to return to pre-pandemic levels. In parts of Western Asia and Africa, for instance, unemployment rates still exceeded 2019 levels. Slowing economic growth in 2024 is expected to further weigh on employment prospects in many regions.
+
+Demographic shifts, economic development patterns, technology advances, as well as multiple crises are reshaping labour markets. Between 2000 and 2023, the world total population increased from 6.1 billion to 8 billion.  While many regions, including Europe, North America and East Asia, face ageing populations, a rapidly growing youth and working-age population challenges policymakers to generate enough productive jobs, particularly in South Asia and sub-Saharan Africa. Historically, countries shifted from low-productivity agriculture to higher-productivity activities in industrial or services sectors during the process of structural transformation. More recently, in many low-income countries, the contribution of agriculture to GDP has declined faster than the share of workers in agriculture, while the manufacturing sector has not absorbed many workers  (see also Chapter III.B and III.G). Labour productivity growth has been on a downward trend across country income groups (figure II.12), which can be partly attributed to weaker investment and – for many developing countries – diminishing productivity gains from allocations of labour towards more productive sectors.  In addition, limited employment opportunities in the formal sector and the absence of unemployment benefits in many developing countries have contributed to widespread informal employment, which is typically associated with poor working conditions, limited access to social protection, and little or no income security.
+
+Figure II.12
+Labour productivity growth, by country income group, 2000-2022
+(Percentage) 
+(a) High-income countries
+
+ 	(b) Upper-middle-income countries
+ 	(c) Lower-middle-income countries
+ 	(d) Low-income countries
+
+ 
+Source: UN DESA, based on data from ILO STAT, available at https://www.ilo.org/shinyapps/bulkexplorer40/?lang=en&id=SDG_A821_NOC_RT_A (accessed on 30 December 2023).
+Note: A liner trend line is added on each panel.
+
+Rapid technological change could bring further disruptions, while also creating new job opportunities (see also chapter III.G). When firms adopt new methods of production, workers with low-skilled jobs engaged in routine tasks are often put at risk, as these occupations are most susceptible to automation. The launch of ChatGPT in November 2022 marked the beginning of a new era for artificial intelligence (AI), which may accelerate the substitution of some lower- and medium-skilled jobs but complement and augment the work of high-skilled professions.  AI’s asymmetric effects across the skill spectrum could increase income inequality in the labour market. Women could be particularly adversely affected since they are overrepresented in occupations with higher risks of automation, although female-dominated occupations also have more potential to be complemented by technology.  The net effect of AI on labour market inequality will depend on the management of this transition and whether the shift leans more towards automation or augmentation. 
+7.	Climate risks and the global economy 
+The climate emergency and related extreme weather events have brought considerable economic and social costs, disproportionately affecting the most vulnerable countries and communities. Extreme weather events have occurred more frequently over the past few decades, while their economic and social impact has become increasingly more pronounced. The number of disasters increased from an annual average of around 310 from 2000 to 2020   to over 340 between 2020 and 2023. The year 2023 saw a surge in extreme weather events and the hottest summer since global records were first kept in 1880.   These extreme weather events take a significant human and economic toll: during the period 2000-2023, about 2.6 per cent of the world population lost their lives, were injured, or became homeless due to climate disasters, including 3.2 per cent of the population in low-income countries, compared with 0.5 per cent in high-income countries (figure II.13a). An additional 68 to 135 million people could be pushed into poverty by 2030 because of climate change.  Global annual economic damage from disasters stood at over $173 billion between 2020 and 2023, up from an annual average of $108 billion during the first decade of the century (figure II.13b). 
+
+Small island developing States (SIDS) have been particularly vulnerable. From 2010 to 2019, SIDS lost $94.3 billion due to weather, climate, and water-related hazards - compared to the total SIDS GDP of $874 billion in 2019.  Climate vulnerability is also linked with higher borrowing cost and – when countries are hit by extreme weather events – weaker recovery (see Chapter III.E). Disruption to economic activities and livelihoods and damages to infrastructures affect countries’ ability to mobilize domestic and external resources and elevate creditors’ perception of country risks, which translate into even higher borrowing cost and debt vulnerability. 
+
+While climate change impacts are increasingly macro-relevant, global macro-economic conditions in turn affect countries’ abilities to invest in climate mitigation and adaptation. Many countries have increased investment in renewable energy to reduce carbon emissions; however, these actions are not yet sufficient. In 2023, global investment in renewable power generation reached $658 billion, almost doubling investment of $331 billion in 2015. Developed countries and China accounted for 90 per cent of this increase. China alone was responsible for 41 per cent of global investment in renewable energy in 2023, with the rest of the developing countries accounting for only 16 per cent. Increased investment in renewables does not however indicate a reduction of investment in fossil fuels: investment in fossil fuels rebounded in recent years, surpassing pre-pandemic levels in 2022 and 2023. Global coal production has surged due to its much lower capital intensity compared to oil and gas.  High interest rates and increased capital costs discourage investments in green transitions, as they make financing capital-heavy renewable energy projects costlier, thereby diminishing their appeal relative to more affordable, non-renewable alternatives. This can slow down the shift towards sustainable energy solutions.
+ 
+
+Figure II.13
+Economic and social costs of natural disasters in the world and by country income groups, 2000-2023
+(a) Annual average share of people affected by natural disasters 
+(Percentage)
+ 
+
+(b) Annual average economic damage caused by natural disasters 
+(Billions of United States dollars)                                 (Percentage)
+ 
+Source: UN DESA calculation based on the International Disaster Database, available at https://www.emdat.be/ (accessed on 24 December 2023).
+Note: Natural disasters include drought, extreme temperature, flood, glacial lake outburst flood, storm, and wildfire.
+ 
+
+8.	Conclusion 
+The global economy has become progressively less ‘enabling’ for mobilizing financing and investment for development over the last 25 years. The financing for development outcomes recognized the critical role that an enabling international economic environment plays in achieving development outcomes. The subsequent chapters of this report will show how the major crises in 2008/09 and since 2020 – and the broader deceleration in global growth and investment – have significantly impeded the mobilization of public and private resources. This is mirrored in less dynamic trade and cross-border investment trends, contributing to a less benign economic environment. 
+
+Improving this global enabling environment will be a central challenge in the pursuit of the SDGs and energy transitions. Achieving the SDGs and the large-scale transitions needed to avoid catastrophic climate change will require investments at unprecedented scale. Such an investment push is not conceivable unless countries and the international community as a whole find ways to address key macroeconomic challenges and constraints, which include deteriorating public finances, fiscal constraints and debt overhangs in many developing countries, monetary and financial stability risks that impact the cost of capital, and the dearth of productive and sustainable investment that is crucial for improving longer-term growth and resilience to climate and other adverse shocks. Proposals put forward in the rest of this report aim not only to advance implementation of the respective action areas, but also to form a package of domestic reforms and reforms to the international financial architecture that together could help steer the post-COVID-19 economy towards a path of sustained, sustainable, and inclusive growth. 

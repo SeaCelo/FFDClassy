@@ -1,0 +1,687 @@
+IV.	Data, monitoring and follow-up 
+1.	Key messages and recommendations
+Investments in data pay a dividend. Underinvestment in public data systems and statistical activities continues to undermine the pursuit of sustainable development. Despite the potential for substantial economic returns, Member States have not been able to capitalise on the power of data due to a lack of political prioritisation; fragmentation; inadequate and siloed investment; and shortfalls in capacity. Fully using data and unlocking the data dividend for the SDGs will require both political leadership and financial commitments.
+
+Excessive focus of income per capita and GDP levels obscures progress on all three dimensions of sustainable development. Efforts to move beyond GDP have gathered steam. The development of the SDG indicator framework, and many well-being and environmental indicators frameworks at national and international levels, show that there is a growing richness of data covering human progress and environmental sustainability. Member States can take the opportunity of summits in 2024 and 2025 to agree to advance a consolidated set of a limited number of indicators that go beyond GDP and can be used as measures of progress. Member States can also decide how they would like to incorporate vulnerability and other factors into allocation criteria for concessional finance.
+
+Financial data is essential in risk mitigation and policy making but lacks a single overarching framework that unites different parts of the international system. The SDG indicator framework has concentrated efforts and brought much coordination to the international statistical communities’ work, with international and regional organizations and national statistical offices working together to elaborate a complex but useful set of indicators. While the SDG indicators still have some data gaps and challenges, the world of financing data has much more heterogeneity and inconsistency. The Financing for Development outcomes never mandated work on an indicator framework, and different international institutions continue on different tracks in data development. The fourth international conference on Financing for Development is an opportunity for Member States to mandate the development of a financing indicator framework if they think that will assist efforts to finance sustainable development.
+
+Innovative sources of data can complement traditional data sources but access to data remains a challenge. Technological progress and the use of electronic devices have led to creation of an ever-increasing amount of digital data, including from social media, mobile phone records, point-of-sale terminals, global positioning system devices, and satellite imagery. There is an increasing use of administrative data sources and a growing trend in the collection and use of citizen-generated data for developing policy relevant information. These and other innovative data sources, if harnessed and utilized effectively, represent an opportunity to generate information in real-time, complementing official statistics that bring depth of detail and representation through validated surveys and censuses. While these innovative sources can provide rich evidence for economic and financial policy making, they also have potential applications in humanitarian work, peacekeeping, and human rights. At the fourth international conference on financing for development, Member States may want to consider strengthening data governance mechanisms which enable Member States to systematically engage with partners, such as the private sector, academia, and civil society to access relevant frontier sources of data while maintaining relevant privacy protections.
+
+Funding for data and statistical systems needs to focus on producing actionable insights that can help advance progress on the SDGs. A coordinated global financing architecture is emerging to help unlock the potential of data for development and risk analysis at scale. Member States can agree on priorities and pooling resources through coordinated financing structures at the Fourth International Conference on Financing for Development.
+2.	Data frameworks for sustainable development
+Data, including data on financing, are critical for assessing progress and correcting course to achieve agreed goals, but there remain shortcomings in data, including its coverage and quality. The Addis Ababa Action Agenda underlines the importance of data as well as investment in data and statistical systems. Digital technologies have ensured that the world is awash with data, but this data can only be useful if structured as information with clear context and applicability for decision makers and other users. Some types of data can be structured into official statistics which are consistent and comparable over time and also across countries. Despite the significant progress in improving data, information, and statistical systems, there remain many areas with information gaps. Throughout this report, this Task Force has presented many areas where data is lacking, and boxes 2-6 in this chapter crystalize a few of the most pertinent areas in the Financing for Development agenda where there are data and informational challenges.
+2.1	Beyond GDP
+
+While the measurement of GDP is useful for economic analysis, it is not a comprehensive measurement of progress that fully aligns with the 2030 Agenda for Sustainable Development. Gross domestic product (GDP) is the most widely used benchmark to measure a country’s economic progress and the value of its domestic production of goods and services. However, GDP has also been used in unintended ways. Importantly, it is not a good measure of sustainable development or welfare. An over-reliance on GDP can result in the pursuit of development with little concern for equality, resilience, and sustainability in all its dimensions. Discussion of the need for broader measures of progress beyond GDP goes back to the 1987 Report of the World Commission on Environment and Development, known as the Brundtland report. The topic received fresh attention in a 2009 report on the measurement of economic performance prepared by a commission led by Joseph Stiglitz, Amartya Sen and Jean-Paul Fitoussi. It was further bolstered by the publication of a multidimensional poverty index in 2010. Some countries have already moved ahead to explore frameworks that look beyond GDP (see Box 1). Subsequently, in the outcome of the Rio+20 United Nations Conference on Sustainable Development in 2012 and in the Addis Ababa Action Agenda, countries recognized the need for broader measures of progress to complement GDP in order to better inform policy decisions. The SDGs and their targets and indicators, universally adopted by Member States, are one response to this need.
+
+Despite its narrow focus, GDP continues to serve as a benchmark in important national and international policy decisions, in particular for development finance. GDP per capita impacts eligibility for official development assistance, decisions on debt relief and concessional financing, and the status of least developed country. As a result, key dimensions of sustainable development are not sufficiently considered in the functioning of the international financial architecture, with serious consequences for the sustainable development of all countries, in particular middle-income countries and small island developing States (SIDS). As the disconnect has grown between economic growth and perceptions of peaceful society, wellbeing and living conditions, people have lost trust in governments and institutions. The need for a framework to measure progress Beyond GDP became a political and policy imperative.
+
+
+BOX IV.1
+The use of Beyond GDP measures in Bhutan
+
+Bhutan is globally recognized as a leader in moving beyond GDP through its gross national happiness (GNH) approach, which was introduced in 1979 and takes a holistic view of social development. The measures underpinning GNH were developed over a 3-year period in a participatory and inclusive way, involving a wide range of groups from government to local communities. 
+
+The current GNH index is made up of nine domains which are intended to reflect normative values embedded in the culture and traditions of Bhutan (see figure). Under these nine domains, there are 33 indicators, which aim to provide a complete picture of well-being, taking into account economic, environmental and social factors. The latest GNH report was published in 2023.
+
+
+
+The GNH index forms the quantitative bedrock of national policy development, implementation and monitoring. It is linked to the Government’s 12th Five-Year Plan through the incorporation of GNH indicators into its results-based approach framework. Each new policy proposal is assessed using a GNH Policy Screening Tool, which provides a framework for the systematic assessment of the potential consequences of the policy against the GNH index. Efforts are also underway to use the GNH index as a criterion for resource allocation.
+
+Bhutan's development initiatives emphasize advancing renewable energy options and safeguarding biodiversity because of the application of the GNH index. The preservation of culture and the environment also serves as significant motivations for Bhutan's strategy of "high value, low volume" tourism. Since 2015, the Sustainable Development Goals have also been integrated in the index and the accompanying policy development and monitoring process. 
+
+Source: GNH 2022.
+
+There is now political momentum to develop Beyond GDP metrics. In the 2021 Our Common Agenda report, and as part of his vision for the future of global cooperation, the Secretary-General emphasized the need “to correct a glaring blind spot in how we measure economic prosperity and progress.” In May 2023 the Secretary General published a call to action in the form of a policy brief on the topic and suggested that Member States move to measure what they truly value. It proposed the elaboration of a robust technical and scientific process, informed by sound and disaggregated data, resulting in a United Nations value dashboard of a limited number of key indicators that go beyond GDP, and a major capacity-building and resourcing initiative to enable Member States to use the new framework effectively. In September 2023, Member States responded with the SDG Summit political declaration confirming the political commitment “to explore measure of progress on sustainable development that complement or go beyond GDP to have a more inclusive approach to international cooperation”, including in the consideration of informing access to development finance and technical cooperation.  Measures of progress to go Beyond GDP is one of the global governance topics being discussed in the context of the Summit of the Future, which will be held in September 2024.
+
+Measurement and consideration of vulnerability is important for countries that face complex development pathways. Countries facing a high risk of external shocks and stressors often lack economic and social resilience. Yet, there exists no universally accepted standard for quantifying structural vulnerability at the national level and across the multiple dimensions of sustainable development. Addressing this gap, a High-Level Panel of experts developed the Multidimensional Vulnerability Index (MVI) and submitted its final report to the President of the General Assembly in September 2023. According to the MVI, small island developing States (SIDS), least developed countries (LDCs), and landlocked developing countries (LLDCs) emerge as the most vulnerable groups, on average, highlighting their structural vulnerability and lack of resilience. Furthermore, MVI scores were not correlated with income, implying that the MVI can be a useful complement to GDP.
+
+The MVI should be a living tool, with robust governance arrangements and common approach to its use across the international system. The MVI uses indicators of high quality, predominantly sourced from United Nations data. Still, the MVI was conceived as a living instrument, subject to regular updates to incorporate advancements in data quality and availability, vulnerability measurement methodologies, and understanding of the causes and consequences of vulnerability. In particular, external debt service data could be incorporated if missing data and data quality issues could be resolved (see box 6 and Chapter III.E). An intergovernmental process is now deliberating on the Panel’s report and the MVI, including its applicability, scope, custodianship, governance, and ways to further improve it. The Panel itself called for donors and international financial institutions to incorporate MVI into existing policies and practices, pursuing a common approach to the extent possible, for example on concessional finance allocation criteria (see Chapter III.C).
+2.2	Development indicator frameworks 
+
+The Millenium Development Goals (MDGs) marked the first time that the UN System built quantitative targets into a political agreement on global norms. Building on the United Nations global conferences of the 1990s, the Millennium Declaration of 2000 included eight Millennium Development Goals, including 18 time-bound targets. Those targets formed the basis for the development of 48 quantitative indicators by an inter-governmental process agreed at the General Assembly in 2001. The MDGs established measurable objectives for priorities for developing countries. For 15 years, measurement against the MDG indicators gave the world information on development progress.
+
+The 2030 Agenda for Sustainable Development marked a step change in ambition, including on the efforts to quantify the progress towards sustainable development. The Sustainable Development Goals (SDGs) contained in the 2030 Agenda are a set of universal goals that meet the urgent environmental, political and economic challenges facing the world. In August 2015, Member States adopted the 2030 Agenda, including the 169 specific targets set out under the SDGs. While each country has the freedom to establish a national framework in achieving the SDGs, in July 2017, the General Assembly adopted a universal global indicator framework that had been developed by an Inter-Agency and Expert Group on Sustainable Development Goal Indicators (IAEG-SDGs). It had already been approved by the Statistical Commission in March 2017, as a voluntary and country led instrument that included an initial set of indicators to be refined annually. The indicator framework also is subject to comprehensive reviews every five years, the first being concluded in 2020 with 36 major changes of the indicator framework. 
+
+
+Box IV.2
+Revenue statistics
+
+The availability – and quality – of cross-country data on government revenues (tax, non-tax, social contributions, and grants) has improved vastly over the past decade. Historically, the go-to source for such information was the IMF’s Government Finance Statistics (GFS) but many low- and middle-income countries did not provide the IMF with comprehensive data. Today, the situation is much improved; not only is the IMF coverage better, but efforts by other organisations complement the IMF work. The IMF’s World Revenue Longitudinal Dataset (WoRLD), launched in 2015, brings together data from the GFS with estimates from other databases. The OECD’s Revenue Statistics now incorporates vastly improved data for Africa, and the Asia Pacific regions. The UNU-WIDER Government Revenue Dataset (GRD) synthesises data from across the IMF and OECD datasets, as well as harnessing the rich revenue data contained in IMF Article IV assessments. These global databases have enabled analyses and research regarding the role of tax in development. There are also regional efforts, with data hosted by ECLAC, ATAF and ADB providing insights into revenue collection in Latin America, Africa and Asia respectively. Finally, data that accounts for revenue accruing from the activity of extractive industries has greatly improved, with disaggregated data reported by the Extractive Industries Transparency Initiative (EITI) as well as the OECD Revenue Statistics and the GRD. Despite these improvements, challenges remain in closing data gaps and improving the comparability of data. 
+
+There are still many low- and middle-income countries where we do not have a full picture of revenue collection on an annual basis. Whilst for most countries available data will provide (at least) an annual estimate of total government revenue or tax, a fuller picture of revenue collection – for example disaggregated across different types of income – can sometimes remain missing. Furthermore, many countries only report revenue data collected by the central government, missing data on potentially significant amounts of revenue that are collected by local governments. Local government revenue data is available in the World Observatory on Subnational Government Finance and Investmentbut its comparability with data on central government revenues is unexplored and coverage for many low-income countries is lacking.
+
+On the comparability of available data, most often, data reported to the GFS or OECD Revenue Statistics is, broadly, comparable, save for a few different classification choices. However, this is not always the case, and where data differs in magnitude across sources, users are left with a challenge to understand exactly which figure is ‘correct’ for a given country. A difference of half of a percentage point of GDP is significant in low-income countries, where tax-to-GDP ratios remain perilously low. A better understanding – and documentation - of why these differences emerge would be invaluable. 
+
+
+
+Figure IV.1
+SDG indicator data records, 2016-2023
+(number of records)
+
+Source: UN DESA.
+Figure IV.2
+SDG indicators by tier, 2016-2023
+(percentage)
+
+Source: UN DESA.
+
+The adoption of the Global SDG indicator framework led to strong efforts by the statistical community to develop internationally established methodologies or standards for all indicators and to produce data. The SDG indicator database had over 2.7 million records in time for the SDG Summit in September 2023 (see Figure 1). The percentage of Tier 1 indicators that have an established methodology and for which data are regularly produced increased from 36 per cent to over 70 per cent between 2016 and 2023 (see figure 2). Since 2020, all indicators have an internationally established methodology, meaning there are no longer Tier 3 indicators. For example, important improvements to the indicator tracking financial resources mobilized for developing countries from multiple sources, including an initial conceptual framework on South-South cooperation measurement, were adopted in 2022 (see Chapter III.C). Figure 3 shows the overall progress but also the gaps in data availability of the country level data. There are major gaps and lack of progress in key priority areas of gender (Goal 5, see below), climate change (Goal 13) and governance (Goal 16). The timeliness of data is often a challenge as well. Not all indicators have or require new data every year, but for 35 per cent of indicators there is no data for the 3 years preceding the current year, making data less useful to policymakers. 
+
+The SDG indicator framework is complemented by additional data frameworks to delve deeper into specific topics. Member States have recognized the power of data to drive progress and since 2015, adopted additional indicator frameworks. Strong accountability is one of the cornerstones of the Sendai Framework for Disaster Risk Reduction, and a set of 38 indicators, recommended by an Open-ended Intergovernmental Expert Working Group, are used to track progress in implementing the seven targets of the Sendai Framework. The Kunming-Montreal Global Biodiversity Framework is accompanied by a detailed monitoring framework, adopted in December 2022, comprised of a set of agreed indicators for tracking progress towards the goals and targets of the Framework.
+
+
+Figure IV.3
+Member States that have data for SDG indicators, by goal, 2019-2023
+(percentage of countries)
+
+Source: UN DESA.
+Note: Data for at least two years since 2015, weighted average across indicators. Diamond shows December 2019, arrowhead shows December 2023.
+2.1.	Financial data frameworks
+
+Global standards on financial data were first created in the 1990s and have been updated to address developments and gaps in coverage. A financial crisis in Mexico in 1994 underscored the role that information deficiencies could play in contributing to market turmoil and prompted an effort at the IMF to codify existing good practices in dissemination of economic and financial data. In December 1997, the IMF Executive Board approved the general data dissemination standards (GDDS) as a general framework to guide countries in developing sound systems to support eventual dissemination of data to the public. In the wake of the Asian Financial Crisis, the special data dissemination standard (SDDS) launched coverage of foreign currency liquidity and external debt.
+
+
+Box IV.3
+Measuring government spending on essential services 
+
+Tracking and reporting domestic pro-poor social spending is central to the achieving the Sustainable Development Goals (SDGs). Research suggests that spending on health, education and social protection in low- and middle-income countries remains below the recommended minimum levels required to meet the Sustainable Development Goals (SDGs). SDG indicator 1.a.2 aims to track the proportion of total government spending on essential services (education, health and social protection). However, progress on improving consolidated, comparable, publicly available and up-to-date sector specific data is limited.
+
+The main sources of data for education, health and social protection expenditure differ. UNESCO compiles education expenditure data, with government spending as a percent of GDP reported for 166 countries within the past five years, although only 90 countries have data for 2022. UNESCO also has spending data in US dollars for 90 countries between 2019 - 2021; here just 19 out of 90 have data for 2022 or later. The World Health Organisation compiles health expenditure data for 217 countries, with details on health expenditure as a percent of GDP and as a percent of government expenditure, as well as in US dollars. Within the past five years, 186 countries have reported health expenditure data, but none have data for 2022 or later. For social protection, the World Bank ASPIRE database has social assistance expenditure as a percent of GDP for 51 countries up to 2019, but no more recent data. The latest ILO World Social Protection Report has collected social protection expenditure data for 185 countries between 2020-22.
+
+However, recent SDG reporting is based on a sample of approximately 100 countries who report to the IMF’s government finance statistics (GFS) database. The manuals for compiling the government finance statistics take an institutional approach to expenditure categorization, while classification for different public purposes were described in a UN Statistical Commission-agreed standard in 2000 called the Classification of the Functions of Government (COFOG). The GFS includes COFOG breakdowns for only selected functions and a limited number of mostly advanced countries. Work remains to be done to integrate the data collected by UNESCO, WHO, World Bank, ILO and regional bodies and ensure consistency with the data provided to the IMF. There are also considerable time lags in the data production process, as agencies collect data only after allowing a considerable period for finalization of budgets and closing of accounts at the national level.
+
+The 2008 global financial crisis highlighted gaps in key financial sector data, leading to the launch of a Data Gaps Initiative (DGI) in 2009. While some signs of economic and financial instability could be seen in the official data in the run up to 2008, there were significant gaps in the data relevant for financial stability analysis. At the time, the economic and financial data did not fully capture risks in domestic financial sectors, the cross-border financial linkages, and the vulnerabilities and exposure of certain sectors of the economy to shocks. The G20 finance ministers and central bank governors endorsed 20 recommendations to address data gaps related to tail risks within the financial sector, leverage and maturity mismatches, linkages between individual financial institutions and cross-border capital flows, and distribution of income, consumption, and wealth. The first phase of the DGI successfully concluded in September 2015, however, there were gaps remaining in some areas.
+
+Amidst remaining data gaps, coupled with growing concerns that the digital revolution was introducing new risks to the financial system and sustainable equitable growth, the G20 launched a second phase of the DGI. The key objective of the DGI-2 was to implement the regular collection and dissemination of comparable, timely, and high-quality statistics for policy use. Similar to DGI-1, DGI-2 encompassed 20 new or revised recommendations, focusing on statistics that supported: (i) monitoring of risk in the financial sector; and (ii) analysis of vulnerabilities, interconnections and spillovers, both domestic and cross-border, and other emerging policy needs.
+Box IV.4
+Data on public development banks
+
+Governments have long used public development banks (PDBs) as important financing tools to implement their national economic and social policies to foster economic growth and reduce poverty.  While they have been active in many sectors, they have been especially important to efforts to finance large infrastructure. PDBs have a large array of different mandates and governance structures in different contexts, including channelling blended finance and other forms of alternative finance alongside the private sector. Frequent mandates include supporting small and medium sized enterprises, supporting exports, financing housing, and agricultural sector financial support.
+
+However, there have been limited efforts to produce comparable global data on the spread, size, and impact of national and subnational PDBs. The World Bank, in conjunction with the World Federation of Development Financial Institutions, conducted surveys in 2012 and 2017, which covered 90 and 64 development banks, respectively. Those surveys covered mandate, business model, governance, funding, size, profitability, and regulation, among other topics. While those surveys provided a rich and deep dataset for analysis on many of the largest national development banks, coverage was limited. A global research program was launched by the Finance in Common Sumit in 2020 to increase the data and knowledge on PDBs. The most recent dataset identified 533 PDBs - distributed across every region, operating at local, national, regional, international, or multilateral levels (see Chapter III.A). The broad dataset provides a comprehensive mapping of PDBs worldwide, including information on the ownership structure, size of assets, and official mandate. 
+
+Given the importance of PDBs as instruments to deliver on public goals, especially in helping to address market failures related to climate change mitigation and climate change adaptation, more comprehensive and regular cross-country information on the operations of PDBs could help countries better structure their institutions and ensure they are delivering on their goals.
+
+DGI-2 concluded in December 2021, however, despite the progress made during the initiative, some participating economies have not fully closed data gaps related to some DGI-2 recommendations. Challenges remained on securities financing transaction statistics, securities statistics, sectoral accounts, international investment position, international banking statistics, cross-border exposures of non-bank financial corporations, public sector debt statistics, and commercial property price indices. Participating economies and international organizations continue to work on closing these remaining DGI-2 data gaps. 
+
+In 2022, in the face of the accelerating climate crisis, increasing economic polarization, and large-scale digital transformation, policymakers were facing a new wave of complex and multidimensional policy challenges that required new data on sustainable development challenges. A third phase of DGI was launched to address the data gaps in these areas, with the G20 endorsing 14 recommendations that cover four main priority policy areas: (1) climate change mitigation and adaptation; (2) creating more equitable distributions of income and wealth; (3) addressing the risks and leveraging the opportunities of financial innovation to ensure financial stability and improve financial inclusion; and (4) improved data access and data sharing. The initiative, launched by the G20 finance ministers, aims to create timely official statistics that allows them to address current policy issues. The IMF, in close cooperation with the Financial Stability Board (FSB) and the Inter-Agency Group on Economic and Financial Statistics (IAG), and in consultation with countries, will coordinate the implementation of the 14 recommendations. Similar to DGI-1 and DGI-2, the goal of DGI-3, is for the participating economies to catalyze the development of these statistics and equip all other countries with the tools and methodologies they need to navigate these crises. Compared with previous DGI phases, DGI-3 includes a range of new stakeholders, including environmental-economic statisticians, as well as the private sector holders of data. For most of the DGI-3 recommendations, there are existing agreed methodologies, but a need to increase attention to data development and production. 
+2.4	Gender data
+
+Data and statistics are indispensable tools for devising evidence-based policies and programmes on gender equality and women’s empowerment, assessing their impact and promoting accountability. 
+A dearth of sex-disaggregated data and insufficient multidimensional gender statistics pose major constraints for policymakers and gender equality advocates. Among countries with recent official statistics on monetary poverty, only 42 per cent have poverty data disaggregated by sex. Where data are disaggregated, large gender gaps are evident. Among countries producing multidimensional poverty indicators, only 20 per cent disaggregated these indicators by sex or sex of the head of household. While full disaggregation would not be possible given the nature of some SDG indicators, only 27 of all the SDG indicators have sex disaggregated data for more than 95 per cent of countries (see figure 4).
+
+Box IV.5
+Environmental, social, and governance data on private enterprise
+
+Measuring the private sector’s contribution to the SDGs and the Paris Agreement is essential to paint an exhaustive picture of progress. To do so, robust environmental, social, and governance (ESG) data (synonymous to non-financial, or sustainability data) needs to be produced by private entities. Fit-for-purpose ESG data is also necessary for investors to make informed decisions towards transition-aligned investments and to monitor their performance. Regulators and supervisors may also need this data.
+
+In contrast to centuries-old financial accounting, standards for the production of information on non-financial issues have emerged relatively recently and so far are mostly voluntary. The Global Reporting Initiative (GRI) was established in 1997. Although data availability has increased over time due to requests by asset owners — with 98 per cent of S&P 500 companies now publicly disclosing sustainability data — coverage remains limited. Data gaps still exist for companies in developing countries, for non-listed entities, and for asset classes beyond listed equities and corporate bonds. Additionally, data quality is constrained across the board, with ongoing issues related to reliability, consistency, and comparability, exacerbating greenwashing concerns (see Chapter III.B). Moreover, disclosure of data alone is insufficient to steer capital towards sustainability, unless better data also impacts on decision making.
+
+Efforts are underway to standardize voluntary reporting standards, exemplified by the establishment of the IFRS International Sustainability Standards Board (ISSB) (See Chapter III.B). Legislation is being enacted at regional and national levels to bolster the sustainable finance information ecosystem, addressing definitions (e.g., taxonomies), data availability (e.g., disclosure legislation), reliability (e.g., investment and consumer product labels), and comparability (e.g., regulating ESG ratings). Without global harmonization, private businesses will face fragmentation and higher reporting burdens. Furthermore, some existing standards do not employ a double materiality perspective, looking only at the impact of the environment on a business and not providing insight on the enterprise’s impact on the wider environment, including the SDGs and the Paris Agreement. 
+
+Figure IV.4
+Availability of sex-disaggregated data, by SDG indicator, 2015-2023
+(percentage of countries)
+Goal 1
+Goal 2
+Goal 3
+Goal 4
+Goal 5
+Goal 6
+Goal 7
+Goal 8
+Goal 9
+Goal 10
+Goal 11
+Goal 12
+Goal 13
+Goal 14
+Goal 15
+Goal 16
+Goal 17
+1.1.1
+2.1.1
+3.1.1
+4.1.1
+5.1.1
+6.1.1
+7.1.1
+8.1.1
+9.1.1
+10.1.1
+11.1.1
+12.1.1
+13.1.1
+14.1.1
+15.1.1
+16.1.1
+17.1.1
+1.2.1
+2.1.2
+3.1.2
+4.1.2
+5.2.1
+6.2.1
+7.1.2
+8.2.1
+9.1.2
+10.2.1
+11.2.1
+12.2.1
+13.1.2
+14.2.1
+15.1.2
+16.1.2
+17.1.2
+1.2.2
+2.2.1
+3.2.1
+4.2.1
+5.2.2
+6.3.1
+7.2.1
+8.3.1
+9.2.1
+10.3.1
+11.3.1
+12.2.2
+13.1.3
+14.3.1
+15.2.1
+16.1.3
+17.2.1
+1.3.1
+2.2.2
+3.2.2
+4.2.2
+5.3.1
+6.3.2
+7.3.1
+8.4.1
+9.2.2
+10.4.1
+11.3.2
+12.3.1
+13.2.1
+14.4.1
+15.3.1
+16.1.4
+17.3.1
+1.4.1
+2.2.3
+3.3.1
+4.3.1
+5.3.2
+6.4.1
+7.a.1
+8.4.2
+9.3.1
+10.4.2
+11.4.1
+12.4.1
+13.2.2
+14.5.1
+15.4.1
+16.2.1
+17.3.2
+1.4.2
+2.3.1
+3.3.2
+4.4.1
+5.4.1
+6.4.2
+7.b.1
+8.5.1
+9.3.2
+10.5.1
+11.5.1
+12.4.2
+13.3.1
+14.6.1
+15.4.2
+16.2.2
+17.4.1
+1.5.1
+2.3.2
+3.3.3
+4.5.1
+5.5.1
+6.5.1
+
+8.5.2
+9.4.1
+10.6.1
+11.5.2
+12.5.1
+13.a.1
+14.7.1
+15.5.1
+16.2.3
+17.5.1
+1.5.2
+2.4.1
+3.3.4
+4.6.1
+5.5.2
+6.5.2
+
+8.6.1
+9.5.1
+10.7.1
+11.5.3
+12.6.1
+13.b.1
+14.a.1
+15.6.1
+16.3.1
+17.6.1
+1.5.3
+2.5.1
+3.3.5
+4.7.1
+5.6.1
+6.6.1
+
+8.7.1
+9.5.2
+10.7.2
+11.6.1
+12.7.1
+
+14.b.1
+15.7.1
+16.3.2
+17.7.1
+1.5.4
+2.5.2
+3.4.1
+4.a.1
+5.6.2
+6.a.1
+
+8.8.1
+9.a.1
+10.7.3
+11.6.2
+12.8.1
+
+14.c.1
+15.8.1
+16.3.3
+17.8.1
+1.a.1
+2.a.1
+3.4.2
+4.b.1
+5.a.1
+6.b.1
+
+8.8.2
+9.b.1
+10.7.4
+11.7.1
+12.a.1
+
+
+15.9.1
+16.4.1
+17.9.1
+1.a.2
+2.a.2
+3.5.1
+4.c.1
+5.a.2
+
+
+8.9.1
+9.c.1
+10.a.1
+11.7.2
+12.b.1
+
+
+15.a.1
+16.4.2
+17.10.1
+1.b.1
+2.b.1
+3.5.2
+
+5.b.1
+
+
+8.10.1
+
+10.b.1
+11.a.1
+12.c.1
+
+
+15.b.1
+16.5.1
+17.11.1
+
+2.c.1
+3.6.1
+
+5.c.1
+
+
+8.10.2
+
+10.c.1
+11.b.1
+
+
+
+15.c.1
+16.5.2
+17.12.1
+
+
+3.7.1
+
+
+
+
+8.a.1
+
+
+11.b.2
+
+
+
+
+16.6.1
+17.13.1
+
+
+3.7.2
+
+
+
+
+8.b.1
+
+
+
+
+
+
+
+16.6.2
+17.14.1
+
+
+3.8.1
+
+
+
+
+
+
+
+
+
+
+
+
+16.7.1
+17.15.1
+
+
+3.8.2
+
+
+
+
+
+
+
+
+
+
+
+
+16.7.2
+17.16.1
+
+
+3.9.1
+
+
+
+
+
+
+
+
+
+
+
+
+16.8.1
+17.17.1
+
+
+3.9.2
+
+
+
+
+
+
+
+
+
+
+
+
+16.9.1
+17.18.1
+
+
+3.9.3
+
+
+
+
+
+
+
+
+
+
+
+
+16.10.1
+17.18.2
+
+
+3.a.1
+
+
+
+
+
+
+
+
+
+
+
+
+16.10.2
+17.18.3
+
+
+3.b.1
+
+
+
+
+
+
+
+
+
+
+
+
+16.a.1
+17.19.1
+
+
+3.b.2
+
+
+
+
+
+
+
+
+
+
+
+
+16.b.1
+17.19.2
+
+
+3.b.3
+
+
+
+>95% coverage
+
+
+
+
+
+
+
+
+
+
+3.c.1
+
+
+
+>50% coverage
+
+
+
+
+
+
+
+
+
+
+3.d.1
+
+
+
+>5% coverage
+
+
+
+
+
+
+
+
+
+
+3.d.2
+
+
+
+No disaggregation
+
+
+
+
+
+
+
+
+Source: UN DESA.
+Note: Data for at least one year since 2015, coverage by the percent of countries. Some indicators would not be possible or relevant to disaggregate by sex.
+
+Greater efforts need to be made specifically on producing data and tracking progress on SDG 5 on gender equality. As of 2022, Member States have crossed the symbolic 50 per cent mark in terms of gender data availability on 82 gender-specific SDG indicators and sub-indicators, with 51 per cent of SDG gender data now available (up from 26 per cent in 2016). A similar analysis on a subset of 50 gender-related indicators found that countries reported on average on 31 per cent of these indicators in at least one year from 2016 to 2020. Still, only 3 of the 18 indicators and sub-indicators on SDG 5 have sufficient data to assess progress over time across all regions and in 5 out of the 18 indicators and sub-indicators, global data remain insufficient to assess current levels. Gender data gaps arise due to a combination of reasons and cannot be tackled by isolated, disjointed efforts. However, external funding for gender statistics has been stagnant since 2015.
+2.1.	Innovative sources of data
+
+The integration of innovative data sources has transformed official statistics over the past decade. The use of innovative data such as big data (usually sourced from the private sector), geospatial data, citizen-generated data and data science promises more timely, more disaggregated and more relevant information, filling gaps in existing official statistics when new information needs arise, or existing statistics falls short of providing the required information. The use and integration of new data sources can be more cost-efficient than traditional data sources such as surveys. According to a comprehensive review by the Committee of Experts on Big Data and Data Science for Official Statistics approximately 80 per cent of national statistical offices have incorporated references to modernization, innovation, data science, and alternative data sources into their strategic visions. The survey highlights the shift towards collecting diverse data sources, including from the private sector, emphasizing collaboration between national statistical offices and public/private sector institutes to navigate challenges related to privacy, access, and integration. The drive towards the use of innovative data sources has led to the creation of new institutions, including the establishment of regional and global hubs for big data and data science.
+
+The vision for innovative data use is meeting real-world challenges related to data access and privacy. For example, the use of privately held data must have a proper legal basis as a prerequisite for statistical agencies to obtain such data. Individuals’ privacy rights must be protected and issues of data quality and appropriate use addressed. The survey results indicate that statistical agencies are addressing these challenges in a strategic way. Access to private-sector data, coupled with data privacy protection, emerged as a major focus in innovation strategies, leading to updates in statistical legislation by more than 80 per cent of offices. How official statistics are produced is changing, but not universally, as not all methods are applicable across countries (e.g., the use of scanner data for producing price statistics). A Collaborative on Citizen Data was established in April 2023 during the fourth United Nations World Data Forum. This Collaborative developed the draft Copenhagen Framework on Citizen Data that defines the possible types of citizen data and offers a common understanding of how to leverage the responsible production and curation of citizen data. One set of data adopted very widely is geospatial information, driven by the demands for the global monitoring of the SDGs. It is the data source for multiple global SDG indicators on land cover and land use such as the average share of the built-up area of cities that is open space for public use for all (SDG indicator 11.7.1). 
+
+Innovative data sources can also generate information for policy makers and stakeholders outside the statistical system. Not all data for use by policymakers will be held in the statistical system, with notable real-time data and information efforts conducted by central banks and financial regulators (see above). Administrative data sources are particularly useful for disaggregation, including by sex and location, but there are challenges, including the need for effective collaboration among different parts of government, and to manage data quality concerns and respect confidentiality. Citizen-generated data also provides an alternative that can complement and enhance official data, supporting policies, programs, and projects to achieve the SDGs. It is a low-cost, real- or near-real-time data source and is also typically more disaggregated. Collection and use of citizen-generated data can reveal intersectional inequalities, make data and policy more inclusive, and can also help empower people, boosting ownership and the social contract. 
+3.	National statistical systems and funding
+3.1	Trends in performance of statistical systems
+
+Cross-country comparison of statistical systems became possible early in the 2000s and has recently improved with the creation of statistical performance indicators. In 2004, the World Bank launched the Statistical Capacity Indicators (SCI), comprised of three dimensions (methodology, sources, and periodicity). The SCI drew on publicly available international databases and national statistical organization websites to populate the indicators and contributed to SDG monitoring (see figure 5). In 2021 the World Bank inaugurated the Statistical Performance Indicators (SPI) to build on and replace the SCI. It better reflects the changing global data landscape to focus on development outcomes. Incorporating an assessment of the maturity of national statistical systems, the average overall SPI score across countries increased by 12 points between 2016 and 2022 and reached a score of 70 measured on a scale from 0 to 100, marking significant progress in short time (see figure 6). For countries where data is available under both indices, SPI performance far exceeds the improvements achieved in the period from 2005 to 2015, as measured by the SCI, when much less progress was made. 
+
+Box IV.6 
+Sovereign debt data
+
+Improving collection and access to sovereign debt data is crucial for addressing the debt challenges that many countries are facing. For borrowers, it helps to assess fiscal risks and make informed decisions to ensure debt remains sustainable, which could help to lower borrowing costs. For creditors, it supports risk assessments for their lending decisions and can help address debt distress when needed, for example more accurately estimating the scale of debt relief required to restore debt sustainability.   
+
+Progress has been made in improving sovereign debt transparency and data in the past two decades. The World Bank’s International Debt Statistics – the most comprehensive external debt database – has increased its coverage significantly, which can be partly attributed to the World Bank’s new lending policy that promotes the disclosure of public debt data and the reconciliation undertaken with several key creditors. The G20 Operational Guidelines for Sustainable Financing promote information sharing between creditors and borrowers, and the IMF and World bank have developed a diagnostic tool to help their implementation. The OECD Debt Transparency Initiative has set up a data repository on private sector lending to low-income countries. UNCTAD and the Commonwealth Secretariat’s debt management and recording systems help improve countries’ ability to record, monitor, and report public debt information and to submit loan-level information to the World Bank’s Debtor Reporting System. The Institute of International Finance developed a template for carveouts from confidentiality clauses that allows submission of debt data to the OECD.  
+
+Despite the progress, debt data challenges persist and more needs to be done. A review of the domestic legal frameworks in 60 developing countries found that less than half require the preparation of key debt-related publications. Of IDA-eligible countries, 23 per cent do not disclose any debt data, though the number came down from 40 per cent three years ago. On the creditor reporting side, very few private banks have disclosed loan data under the aforementioned OECD Debt Transparency Initiative. G7 countries have started publishing information regarding every official sector loan to other countries on their own websites, but with varied levels of detail.
+
+
+
+Figure IV.5 
+Statistical performance over time, 2006-2022
+(index)
+
+Source: World Bank SPI.
+Note: Data for 145 countries with both SCI and SPI scores. The SPI extended series was constructed to show changes in statistical performance using data in the SPI that are available historically.
+
+Figure IV.6
+Global average scores for statistical performance, 2016-2022
+(index)
+
+Source: UNSD calculations based on World Bank SPI.
+Note: Data for all pillars and all years (2016-2022) are available for 167 Member States.
+
+Progress in statistical systems has been concentrated on expanding available data, but improvements to data sources remains a weak area. The SPI has 5 pillars covering data use, data services, data products, data sources, and data infrastructure, with 22 specific dimensions. Progress has been greatest on data services (pillar 2) and data products (pillar 3) between 2016 and 2022 (see figure 6). Moderate improvements were made on data infrastructure (pillar 5). However, very limited progress was made on improving data sources (pillar 4) and on data use (pillar 1), though data use is already at a high level. Several countries achieved large improvements and increased their overall SPI score by at least 25 points between 2016 and 2022, driven by improvements in the individual pillars (see figure 7). While many countries improved their data services (pillar 1), there were also many countries where those services deteriorated.
+
+Figure IV.7
+Changes in country scores of statistical performance, 2016-2022
+(index)
+
+Source: WB data with UNSD calculations. 
+Note: Data for all pillars and all years (2016-2022) are available for 167 Member States.
+Figure IV.8
+Statistical performance, by country income group, 2016-2022
+(index)
+
+Source: UNSD calculations on World Bank SPI. 
+
+
+Statistical system performance is driven by the capacity of staff and funding provided. Higher income countries have systemically better performing statistical systems, though improvements in the SPI between 2016 and 2022 were very similar across different income groups (see figure 8). It appears that improvements in the infrastructure for producing official statistics (pillar 5) is driving the overall progress of the SPI. This may be related to higher financing provided to data infrastructure development. As a result of the proliferation of data initiatives and monitoring frameworks, more attention is being paid to developing statistical systems. However, the challenge is to turn the increased attention, and funding, into more useful data that yields more actionable information that helps policymakers.  
+3.1.	Trends in funding for data and statistics 
+
+Funding is a critical factor for many countries that want to improve their data and statistics, including financial data. There is no systematic tracking of national financing for data and statistics, not least because the efforts are often spread across national statistical offices, line ministries, central banks, and financial regulators. Over the last 5 years the percentage of countries having a national statistical plan fully funded has been declining regardless of their income level. Lack of national funding for statistics is especially a challenge for low- and middle-income countries. In 2021, not a single low-income country had a fully funded national statistical plan. National Statistical Offices consistently report shortages in financial resources as one of their major challenges in producing the statistical outputs needed for the monitoring of the SDGs.
+
+External financing can be relevant for many developing countries. In 2021, the most recent year for data, total disbursed external funding – including official development assistance, non-concessional official lending, and private sector assistance – for data and statistics rebounded and reached a new peak of $799 million, a 14 per cent increase over 2020 (see figure 9). In 2021 multilateral channels emerged as the predominant source of funding for the first time. In 2021, loans for data and statistics also reached their highest level ever, at $240 million, while the volume of grants declined for the third consecutive year. The World Bank has scaled up concessional lending to developing countries to strengthen statistical systems and help close core data gaps in 5 areas: (i) household surveys; (ii) enterprise surveys; (iii) agricultural data; (iv) price data; and (v) administrative data. 
+
+International development and national statistics communities have created new partnerships to promote funding for data and statistics. Significant effort had gone into financing the production of data related to the MDG indicators, but as the MDG era came to a close external funding declined. In 2016, the United Nations, chief statisticians of national statistical agencies, and data experts from around the world launched the Cape Town Global Action Plan for Sustainable Development Data, which championed both a country-led investment blueprint as well as a call for better global coordination of development financing for data on SDG progress.  Similar calls to action have emerged from recent UN Data Forums, including the Bern Data Compact for the Decade of Action on the Sustainable Development Goals and the Hangzhou Declaration: Accelerating progress in the implementation of the Cape Town Global Action Plan for Sustainable Development Data, both of which call for more and better investment in countries’ data systems, data capacity, and data capital. 
+
+Figure IV.9
+External funding for data and statistics, by donor type, 2010-2021
+(millions of US dollars)
+
+Source: Paris21 PRESS dataset.
+Note: Disbursements in constant 2021 prices. 
+
+Despite increasing international and domestic investments, large gaps remain. A 2022 investment case calculated that for every $1 invested, data has delivered an average economic return of $32 in developing countries.  Historic investment levels for data and statistics are less than half of what is needed to deliver on data for the SDGs. Investments in data from external sources have remained relatively static for several years, suffering from fragmentation and duplication of effort.
+
+Countries are now moving toward a more coordinated global financing architecture for data and statistics.  New commitments featuring stronger international cooperation to support data and statistics are materializing, though additional key action is needed in the immediate term to maximize opportunities across regions to achieve the SDGs.  Donors are pooling resources, which are leveraging significant additional funds from development banks, such as World Bank IDA or IBRD resources. This includes the launch of new, complementary funds to support countries’ data systems, data capital, and risk analytics in a more coordinated way: for example the World Bank’s Global Data Facility and the UN’s Complex Risk Analytics Fund (CRAF’d). The institutions launched a high-level effort designated “Data With Purpose”, and hope to jointly mobilize at least $500 million through the GDF and CRAF’d. These types of investments can unlock sustained investment of domestic resources for data and statistics.
+

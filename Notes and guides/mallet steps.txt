@@ -1,0 +1,40 @@
+step 1:
+rm /Users/mlafleur/Desktop/themes/test/.DS_Store
+
+step 2:
+mallet import-dir --input /Users/mlafleur/Desktop/themes/inputs/wess/  --output /Users/mlafleur/Desktop/themes/mallet_out/topic-input.mallet --keep-sequence --remove-stopwords --extra-stopwords /Users/mlafleur/Desktop/themes/extra-exclude-words.txt --gram-sizes 1 --keep-sequence-bigrams TRUE
+
+————————————————————————	
+step 2b (optional, after import-dir):
+Mallet requires that you specify number of topics. Either trial and error, or you can try to use hlda to give you some information on a “tree” of topics. Read some info here: http://people.cs.umass.edu/~mahadeva/papers/IJCAI-2009-TD.pdf
+and here: “Legal Documents Clustering and Summarization using Hierarchical Latent Dirichlet Allocation” by kumar and raghuveer.
+Mallet command used:
+mallet hlda --input /Users/mlafleur/Desktop/themes/mallet_out/topic-input.mallet --output-state /Users/mlafleur/Desktop/themes/mallet_out/topic-state.gz --num-levels 4 
+
+Take a look to see the hierarchy of topics and count how many make sense. change num-levels if needed to see more or less.
+—————————————————————————————	
+
+step 3:
+mallet train-topics --input /Users/mlafleur/Desktop/themes/mallet_out/topic-input.mallet --output-state /Users/mlafleur/Desktop/themes/mallet_out/topic-state.gz     --output-doc-topics /Users/mlafleur/Desktop/themes/mallet_out/doc-topics  --output-topic-keys /Users/mlafleur/Desktop/themes/mallet_out/topic-keys  --use-ngrams true  --optimize-interval 10 --num-topics 150 
+
+*note: using ngrams runs out of memory. I tried giving 3gb to /usr/local/Cellar/mallet/2.0.7/libexec/bin/mallet  and it runs out of memory half way through. 8gb seems to work, and lets os x manage any paging and vm
+
+https://programminghistorian.org/en/lessons/topic-modeling-and-mallet#typing-in-mallet-commands
+
+New usage of ngrams:
+In mallet version 2.0.8 you would use:
+
+bin\mallet import-file --input ovary.txt --output ovary2.mallet --keep-sequence-bigrams --remove-stopwords   --gram-sizes 1,2
+
+bin\mallet train-topics --input ovary2.mallet --output-topic-keys ovary_keys2_2.txt  --num-topics 15
+You an see the available options at:
+
+bin\mallet import-file  --help
+
+bin\mallet train-topics --help
+
+
+Note on interpreting topic keys:
+From stackoverflow: https://stackoverflow.com/questions/45162186/mallet-topic-modeling-topic-keys-output-parameter
+"With hyperparameter optimization on, these values can vary. Usually what you will find is that a topic with a large value will contain "near stopwords" that are frequent in most documents and don't have much content. Topics with very small values are often unusual and distinctive documents. Topics in the middle are often the most interesting."
+It is not weight of importance. It is more akin to uniqueness of the topic.

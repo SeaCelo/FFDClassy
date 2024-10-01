@@ -1,0 +1,132 @@
+Chapter II. Financing investment in selected SDGs
+1. Overview
+The Addis Ababa Action Agenda calls for increased investment in sustainable and resilient infrastructure, including for energy, water and sanitation for all, as prerequisites for achieving the Sustainable Development Goals (SDGs). Closing the global infrastructure gap has become a major priority for the international community. Several new initiatives have been launched, including the Global Infrastructure Forum called for in the Addis Agenda, other infrastructure platforms and facilities, and new development banks and finance institutions. Yet, major challenges remain to scale up SDG investments in infrastructure and beyond. To support countries in this effort, this chapter examines the financing challenges in the SDGs under in-depth review at the 2018 United Nations High-level Political Forum on Sustainable Development, namely: SDGs 6 (water and sanitation), 7 (affordable and clean energy), 11 (sustainable cities and communities), 12 (sustainable production and consumption patterns) and 15 (terrestrial ecosystems). 
+While the financing models for each of these SDGs draws on all seven chapters of the Addis Agenda, a key question underlying many of the international debates is what roles public, private and blended financing should play. The Addis Agenda stresses that all sources of financing are needed, and that they are complementary, with different objectives and characteristics making them more or less suitable in different contexts and sectors. The Addis Agenda also underlines the potential of blended finance instruments, while calling for careful consideration of their appropriate structure and use. 
+Because the sectors covered in this chapter in large part address public services and goods, national and sub-national public authorities are ultimately responsible for service delivery. Public policies and actions must thus be the driving force. An examination of the SDG sectors under review highlighted several policy priorities. These include: 
+• Enhancing institutional and regulatory frameworks: Strong institutions and the rule of law are the starting point for effective economic governance. They need to be coupled with transparent, consistent and quality regulatory frameworks to guide private operators in each sector, manage natural monopolies, encourage innovation, limit red tape, and promote universal access to infrastructure services. Without this enabling environment, investment risks will remain particularly high, and neither public nor private financing or operation is likely to satisfy public need in a cost-efficient manner. A stable international macroeconomic environment is also required to support sustainable long-term investments in the targeted sectors (chapter III.F). 
+• Developing infrastructure plans: Plans should integrate financing frameworks and align with country development strategies. They should provide a long-term vision (beyond the political cycle), include adequate stakeholder consultations, and incorporate climate impact and resilience as well as gender assessments. They should also serve to coordinate across sectors, given synergies and interconnections (e.g. hydro-power plants impact energy, water and ecosystems).
+• Translating plans into quality project pipelines: This calls for sufficient human and financial resources, adequately prepared projects, and effective procurement and frameworks for public-private partnerships (PPP) as applicable. In this context, governments can benefit from multilateral development bank platforms that support the development of replicable and scalable infrastructure projects, such as SOURCE and the Global Infrastructure Facility (GIF). 
+• Strengthening public finance: Equity, social inclusion, and other public good considerations provide a rationale for public engagement through direct financing, subsidies, guarantees or other incentives, and/or regulation. However, in many countries, public balance sheets and fiscal space are constrained, and debt sustainability is a major concern. This underscores the need for boosting public financial resources, both domestically largely through improved taxation, and internationally through official development assistance (ODA). South-South cooperation and other official development finance can play complementary roles (Chapters III.A, III.C, and III.E).
+• Mobilizing the private sector: The private sector may be involved in the ownership, operation and finance of projects, depending on country and sector priorities (with most deals focused on finance or operation, and not on privatization per se). While the private sector can bring cost-efficient solutions, it is also often associated with higher financing costs because most investors demand a competitive return for the risk they assume. To effectively contribute to many SDGs, private financing flows need to be stable and long-term oriented (chapter III.B).
+• Getting prices right: Where socially feasible, price signals can address externalities (“polluter pays principle”) and support sustainable consumption and production patterns, for example through carbon pricing or phasing out harmful subsidies, taking fully into account the specific needs and conditions of developing countries and minimizing possible adverse impacts on their development in a manner that protects the poor and the affected communities, as called for in the Addis Agenda. 
+• Strengthening International Cooperation: Developing countries need significant capacity building support to make progress in these areas and create institutions capable of delivering the ambitious SDG agenda (chapter III.C). 
+These policy priorities can guide stakeholders as they scale up SDG financing. Previous IATF reports have also highlighted several factors to consider in determining combinations of private and public ownership, operation and financing of projects, including: (i) whether investments can be sufficiently profitable to compensate private investors for the risks they bear; (ii) whether investments produce goods or services that can be effectively supplied by the market, or whether they have public-good properties (including positive or negative externalities) that require public involvement; (iii) more specifically, whether public intervention is warranted for social equity reasons; and (iv) whether private investors can bring efficiency gains through the profit incentive. 
+For example, investments in ecosystems will largely be publicly financed due to the public good nature of the sector, though private initiatives sometimes play a role, often through philanthropy or impact investing (chapter III.B). Private financing is most likely to be appropriate in sectors where projects can generate sufficient returns, such as in the energy sector, though with public oversight and often public support. The use of private finance is more challenging in areas where equity considerations and large financing gaps reduce profit prospects, such as water where various financing models have been utilized (see Figure 1, which provides a rough breakdown of the roles of public and private financing across sectors, each of which depends on an overall enabling environment). 
+Figure 1: Continuum of public and private finance
+
+As noted above, the domestic and international enabling environments are critical factors for investment. When the perceived risk of project failure is high, the cost of private finance, in particular, is likely to be prohibitive. Financing strategies need to consider how to avoid locking in high financial costs that reflect domestic risks for the entire duration of infrastructure projects (often 20 years or more). This is particularly relevant for countries that are in the process of strengthening institutions and thus reducing risks. Development banks could assist countries in building such financing strategies. This also underscores the importance of public finance, either through direct financing or blending strategies (chapter III.C). However, blended strategies can also create contingent liabilities that need to be carefully managed (chapter III.E). 
+The scale of financing in these sectors requires mobilizing both domestic and international sources. International financing is often a critical complement to domestic resources, but might generate currency risks that are difficult to manage at a country level. This calls for examining whether global approaches allowing the diversification of currency risks could be developed, for instance by development banks. 
+To examine how public and private firms can contribute in the sectors under review, it is also important to better understand the sources of cash flows to maintain operations and cover financing costs. They can come from three main sources: users (tariffs), public authorities (taxes) and transfers from national to sub-national governments or from external partners (see Table 1). These sources of cash-flow provide the basis to mobilize repayable finance, including concessional and non-concessional finance, necessary to realize the required investments in these sectors. Table 1 lists examples of these different financing sources across the SDG sectors under review. 
+These initial considerations provide a general framework for understanding the capital structure of some SDG investments. However, further analysis of sector specificities is necessary to better understand possible financing options and the practical reality of each sector. 
+Table 1: Examples of cash flow sources per sector 
+TYPE OF CASH FLOW
+ EXAMPLES of CASH FLOWS IN HIGHLIGHTED SECTORS 
+
+Sub-National Finance
+Water and Sanitation
+Energy
+Terrestrial ecosystem
+Tariffs / User Fees / User Investment 
+- Fees (e.g. for public transport / trash collection / parking)
+
+
+- User investment (e.g. toilets or / boreholes)
+- Fees to water utilities
+
+- User investment (e.g. clean cooking fuels / solar panels)
+- Fees to energy utilities/ energy service companies
+- Savings on energy bills (energy efficiency)
+- Payment for ecosystems services
+- Green commodities
+- Biodiversity offsets
+
+Taxes / Public Subsidies/ Domestic Transfers
+- Local Taxes (e.g. property taxes)
+- Transfers from central governments
+- Transfers from central governments 
+- Targeted subsidies 
+
+- Public subsidies (e.g. Feed-in tariff premium)
+- Tax breaks for energy efficiency 
+- Carbon credits
+- Budget allocation
+- Agricultural subsidies with biodiversity goals
+
+Grants (Donor Assistance / Philanthropy)
+- External grants, (e.g. to public transport systems)
+- Viability Gap Funding in water projects
+-  Technical Assistance for energy audits
+- Grants channelled through NGOs
+- REDD +
+2. Sub-national finance
+SDG 11 aims to make cities inclusive, safe, resilient and sustainable in a context of unprecedented urban growth. In 2015, close to 4 billion people — 54 per cent of the world’s population — lived in cities and that number is projected to increase to about 5 billion people by 2030. In the least developed countries (LDCs), the proportion of urban population is expected to increase from 31 per cent in 2014 to 49 per cent in 2050. Such rapid growth demands significant investments at the sub-national level, including in housing, public transport, water, and waste management. In some countries, SNGs already contribute significantly to financing and delivering infrastructure, at nearly 40 per cent of public investment. It is estimated that more than 70 per cent of infrastructure will be built in urban areas, and that by 2030 these investments could be greater than the $50 trillion value of all the infrastructure in the world today. However, subnational governments, especially second-tier cities, face considerable challenges in mobilizing adequate revenue to meet recurrent expenditures and make long-term investments in support of inclusive and sustainable local development. Least developed countries (LDCs) face the steepest challenges. Addressing these challenges require a better understanding of the financing options available to SNGs. 
+2.1. Characteristics of sub-national finance
+SNGs have to finance their operational expenditures as well as a range of investments. Their financing sources include: local taxes and user fees; transferred national or state revenues; and borrowing from public and private lenders. Transfers from a higher level of government are typically the most significant source in this category, underscoring the importance of effective national / sub-national interfaces. 
+The projects they need to finance have different cash flow profiles, which influence the kind of financing they can use. While revenue generating investments (e.g. public transport systems) are more suitable for borrowing, social investments, like school buildings, are more likely to be financed out of transfers or tax financing. Subnational government’s creditworthiness also affects the type of instruments available, with stronger entities capable of accessing capital markets. The following table provides a framework to assess the range of finance options available to SNGs.
+Table 2: Illustrative financing arrangements by type of investment and SNG creditworthiness
+TYPE OF INVESTMENT
+SNG INCOME LEVEL/CREDITWORTHINESS
+
+Low
+Medium
+High
+Self-Financing
+Mix of Loans (possibly subsidized) and Transfers
+Mix of Loans (possibly subsidized) and Bonds (if feasible)
+Mix of Bonds and Loans
+Partially Revenue Generating
+Mix of Loans (likely subsidized) and Transfers
+Mix of Loans (likely subsidized) and Transfers
+Mix of Loans (possibly subsidized) and Transfers (if justified)
+Non-Self-Financing/ Social Purpose
+Transfers Only
+Mix of Loans (possibly subsidized) and Transfers
+Mix of Loans (possibly subsidized) and Transfers (if justified)
+Source: Smoke, Paul (2017), “Policies, Reforms and Strategies for Enhancing Subnational Development Finance”, paper commissioned by UCLG, UNCDF and UN-HABITAT for the expert group meeting of the Inter-Agency Task Force on Financing for Development (IATF) on subnational finance, UN Headquarters, 29 November 2017.
+2.2. Action Areas
+Action areas for sub-national financing include raising domestic revenues through user fees and taxes, including defining the most appropriate types of taxation for SNGs, and fostering sustainable access to long-term finance. 
+Reforms and actions will, however, depend on specific country conditions, such as the existing experience of a country with decentralization, the legal systems in place, the levels of institutional development and capacity.
+2.2.1. Promoting revenue raising authorities
+In many countries, SNGs have limited fiscal authority and capacities to raise their own revenues. Intergovernmental transfers are dominant because central governments have an inherent advantage in revenue generation. Nonetheless, SNGs are often in a better position to plan and manage a range of local public services in a more holistic manner since local governments are more likely to think about the linkages among service sectors compared to national governments, where sectoral ministries tend to focus on the services they are directly concerned with. The ability of SNGs to raise resources depends on the extent to which they have adequate fiscal powers as well as capacity and incentives to use them. This requires both a clear de jure legal framework as well as de facto autonomy and independence at appropriate levels. One lesson from experiences with sub-national taxation is that it is important not to let sources of revenue, or some types of taxes, create disproportionate administrative costs compared to the collected revenues.
+Empowering sub-national authorities
+As noted above, two common revenue sources for sub-national governments are user fees and local taxes. User fees helps establishing accountability for service delivery, though they can also render some services too expensive for the poor. Regarding taxes, surcharges and property taxes are particularly useful on the sub-national level.
+Surcharges (known as piggyback taxes) allow SNGs to add a usually small, but sometimes significant, percentage onto the same tax base and through the same collection system as taxes at the national level (e.g. sale and income taxes), thus exploiting more efficient centralized revenue administration. As such, they are easier to implement than other forms of taxation.
+Property taxes are harder to avoid than many other types of taxes because real estate is not moveable. However, property taxes require developing a cadastral system for tracking ownership, along with continued update of real estate valuations. 
+Capitalizing on the revenue potential of municipal assets
+SNGs should consider whether they could better utilize the real estate they own and enhance the performance of utilities and commercial assets they control. Land is one of the most valuable municipal assets and SNGs may use land value capture mechanisms as a financial tool, in particular for cities. These mechanisms follow the basic logic that enhanced accessibility to new infrastructure, such as mass transit systems, adds value to land and real estate. As this value premium results from public investments, SNGs should try to capture the surplus, for example by using taxes or other mechanisms. Land exchange or land concessions need to be carefully managed to ensure transactions remain in the public interest. Also, environmental considerations need to be factored in as “undeveloped lands” may provide important ecosystem services. In this respect, transparency around land ownership and permits for development is paramount to avoid conflict of interest and corruption. 
+2.2.2. Strengthening institutional frameworks for national / sub-national interface
+To make sub-national finance a powerful instrument of development, strengthening the coherence and collaboration between central and subnational authorities is critical. Sub-national development finance does not exist in a vacuum and there are a number of fundamental conditions that must be in place or developed over time. 
+• SNGs cannot play a developmental role unless they are empowered to act autonomously. A good institutional framework is expected to include formal and clear assignment of functions and revenue generation responsibility as well as systems and processes to support implementation. 
+• SNG operations should be sufficiently transparent and accountable. This includes downward accountability to citizens through elections and non-electoral means, and upward accountability to ensure that basic financial management procedures are followed and legitimate national goals and standards adhered to.
+• SNGs need the capacity and incentives to function effectively (for example, to strengthen SNG financial and asset management systems and administer SNG taxes and fees). 
+• Intergovernmental transfers should be made more predictable and transparent. Stability will help local authorities to plan while reasonable flexibility on the use of transfers will allow SNG to respond to local needs. 
+• Transfers should contribute to global, national, and local developmental goals, such as reducing disparities among SNGs and creating incentives to focus on SDGs. For example, it is possible to incorporate gender equality objectives into the transfer system of national funds to lower levels of government, to stimulate local governments’ commitment to incorporating gender-oriented goals in public policies.
+2.2.3. Fostering access to sustainable long-term finance
+Borrowing can be challenging for many SNGs. Capital markets in many developing countries are underdeveloped, and many SNGs are not creditworthy, so that interest rates charged by domestic and international lenders are often unaffordable. The World Bank estimated that less than 20 percent of the largest 500 cities in developing countries are deemed creditworthy in their local context, severely constricting their capacity to finance investments in public infrastructure, with only a fraction of the creditworthy cities able to issue municipal bonds. Despite challenges, there are means to promote and support SNG access to long-term finance. Many countries have developed, or are developing, SNG borrowing and fiscal responsibility frameworks, which aim to provide a foundation for credible borrowing. The following table presents a variety of instruments, ranging from public to private, which SNG’s may use, depending on national and local conditions, and levels of investor confidence. 
+Table 3: Subnational lending mechanisms / External source revenue
+MANAGEMENT AND FINANCE
+OWNERSHIP
+
+Government Agency
+Government Owned
+Mixed Public-Private
+Private Entity
+Lead Institution
+Ministry of Finance or Local Government
+Development Bank, Fund or Utility
+Development Bank or Fund
+Commercial Banks, Financial Markets, Private Investors
+Source(s) of Finance
+National Budget or External Donors
+National budget, SNG contributions, External donors or financial institutions
+National budget, SNG Contributions, Private Investors, Depositors, External Investors
+Private Finance 
+Source: Smoke, Paul (2017), “Policies, Reforms and Strategies for Enhancing Subnational Development Finance”, paper commissioned by UCLG, UNCDF and UN-HABITAT for the expert group meeting of the Inter-Agency Task Force on Financing for Development (IATF) on subnational finance, UN Headquarters, 29 November 2017.
+International public finance
+Multilateral and National Development Banks can lend more widely to SNGs through innovative and responsible instruments (e.g. innovative credit enhancement for subnational loans and reduction of foreign exchange risks). Other initiatives are also desirable, such as means to improve the access of SNGs to climate-change financing mechanisms to facilitate investments in resilient and sustainable infrastructure. Development cooperation among SNGs, also known as “Decentralised Development Co-operation (DDC)”, is also emerging. From 2005 to 2015, DDC volumes grew by 1 percemt per year to USD 1.9 billion in 2015 and represents 6 percent of bilateral ODA among members reporting on these volumes.
+Enhancing access to commercial finance 
+As noted above, a sound legal framework, careful planning, transparency, good governance, and financial sustainability are prerequisites to enabling SNG’s borrowing capacity. SNGs may create a separate legal entity, such as special purpose vehicle (SPV), to borrow money for public infrastructure investments, as the vehicle might have a higher credit rating than the SNG since ownership of the municipal quality assets are typically transferred to it, such as public land and shares of public utilities. The risk, however, is that these entities can accumulate unsustainable amount of debt and evade public oversight. Hence, transparency is critical to ensure that debt levels are carefully monitored. (See chapter III.E.) There should also be explicit clarity given about the level of sovereign guarantee provided by the national authorities for any subnational government borrowing.
+Ultimately, and with the right conditions in place, SNGs may be able access capital markets and issue municipal bonds. Development banks can support municipalities in this process by issuing guarantees that can help lower the cost of financing and/or lengthen the maturity of issuances. 
+Public-Private Partnerships (PPP)
+Public-private partnerships (PPPs) could potentially help SNGs secure expertise and funds from the private sector, particularly for revenue generating projects. City-level PPPs are common in sectors such as public transport, water and housing. However, PPP projects tend to be complex and local authorities often lack the necessary capacity to both negotiate PPP deals and effectively regulate private operators. At the central level, many governments have created PPP units to address this issue. Reinforcing the linkages between the central PPP unit and SNGs is a way to better support local authorities with their PPP projects. 
+Safeguards need to be in place to ensure the fiscal sustainability of these projects and preserve public interests, while guaranteeing access for the more vulnerable to public services. Enhancing the transparency of these deals should help strengthen accountability. A higher level of disclosure in PPP projects should also go hand in hand with more disclosure of publicly financed infrastructure projects (actual costs vs. budget) as this will support decision making between PPP and traditional procurement in the future.

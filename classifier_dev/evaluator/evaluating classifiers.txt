@@ -1,0 +1,71 @@
+Testing the performance of a classifier. 
+The statistics below come from the 'train-classifier' command and are not available in the 'train-topics' command that we use to build the inferencer. 
+So use this manually before creating the final inferencer.
+Here are some notes and steps
+
+
+Evaluation 1:
+1) run the script: ./test_classifier.sh  
+	i) note the list of classifiers to compare
+	ii) run it on a testing dataset such as SDG 14 texts (oceans)
+2) compare the results (see sdg14-cl_base_new-versus-cl_base_new_gpt.xlsx)
+	i) look at the confusion in levels and percentages
+	ii) See which classifier is more precise
+	iii) in this example, using the gpt training dataset improves on the cl_base_new as it reduces confusion in levels and percentages
+
+
+Evaluation 2 (in draft): 
+#source: http://mallet.cs.umass.edu/classification.php
+Note: the individual files must be in directories labeled by each SDG (not as a single long text file)
+
+mallet import-dir --input /Users/mlafleur/Desktop/themes/play/sdg-classifier/* --output /Users/mlafleur/Desktop/themes/play/test/sdg.mallet
+
+mallet train-classifier --input /Users/mlafleur/Desktop/themes/play/test/sdg.mallet --output-classifier /Users/mlafleur/Desktop/themes/play/test/sdg.classifier
+
+#The results seem similar. It seems that it needs a lot of data in each label to train the classifier in this way. May not be feasible in this exercise.
+
+#actually, reading the tests reported with option --training-portion 0.9  gives what I think are good results. Look at the sparse matrix (the table). The off-diagonal are mistakes in classification. There are mostly good classification results with a few mistakes. 
+
+#here is the output: accuracy: 86%. Seems to over-predict label 1
+--------------------------------------------------------------------------------
+Trial 0 Trainer NaiveBayesTrainer training data accuracy = 0.9021739130434783
+Trial 0 Trainer NaiveBayesTrainer Test Data Confusion Matrix
+Confusion Matrix, row=true, column=predicted  accuracy=0.8571428571428571 most-frequent-tag baseline=0.19047619047619047
+ label   0   1   2   3   4   5   6   7   8   9  10  11  12  13  14  15  16  |total
+  0  1   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  |0
+  1 10   .   1   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  |1
+  2 11   .   .   2   .   .   .   .   .   .   .   .   .   .   .   .   .   .  |2
+  3 12   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  |0
+  4 13   .   1   .   .   1   .   .   .   .   .   .   .   .   .   .   .   .  |2
+  5 14   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  |0
+  6 15   .   .   .   .   .   .   2   .   .   .   .   .   .   .   .   .   .  |2
+  7 16   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  |0
+  8 17   .   .   .   .   .   .   .   .   4   .   .   .   .   .   .   .   .  |4
+  9  2   .   .   .   .   .   .   .   .   .   2   .   .   .   .   .   .   .  |2
+ 10  3   .   .   .   .   .   .   .   .   .   .   1   .   .   .   .   .   .  |1
+ 11  4   .   1   .   .   .   .   .   .   .   .   .   3   .   .   .   .   .  |4
+ 12  5   .   .   .   .   .   .   .   .   .   .   .   .   1   .   .   .   .  |1
+ 13  6   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  |0
+ 14  7   .   1   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  |1
+ 15  8   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  |0
+ 16  9   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   1  |1
+
+-----------------------------------------------------------------------------------
+
+#More tests:
+mallet train-classifier --input /Users/mlafleur/Desktop/themes/play/test/sdg.mallet --output-classifier /Users/mlafleur/Desktop/themes/play/test/sdg.classifier --training-portion 0.9 --num-trials 10 --cross-validation 10
+
+#look at the summary at the end. 
+Summary. train accuracy mean = 0.8926938895417157 stddev = 0.010653472150762325 stderr = 0.0033689236985581677
+Summary. test accuracy mean = 0.7073809523809523 stddev = 0.09470954523797312 stderr = 0.029949787911074888
+
+#other algorithms (some give error):
+mallet train-classifier --input /Users/mlafleur/Desktop/themes/play/test/sdg.mallet --output-classifier /Users/mlafleur/Desktop/themes/play/test/sdg.classifier --training-portion 0.9 --trainer MaxEnt --trainer NaiveBayes --trainer C45 --trainer DecisionTree --trainer BalancedWinnow
+
+#this seems to work well:
+mallet train-classifier --input /Users/mlafleur/Desktop/themes/play/test/sdg.mallet --output-classifier /Users/mlafleur/Desktop/themes/play/test/sdg.classifier --training-portion 0.9  --num-trials 10 --cross-validation 10
+
+#now apply to data
+mallet classify-dir --input /Users/mlafleur/Desktop/themes/play/all_desa --output /Users/mlafleur/Desktop/themes/play/test/output.txt --classifier /Users/mlafleur/Desktop/themes/play/test/sdg.classifier
+
+#note the format is: doc class1 score1 class2 score2 ...etc...

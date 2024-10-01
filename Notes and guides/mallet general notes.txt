@@ -1,0 +1,27 @@
+Installation
+
+As of this note, using version 2.0.8 from here: http://mallet.cs.umass.edu/download.php
+
+Might want to add Mallet to the $PATH. In Terminal:
+	echo $PATH    #this will print the current path, to check. 
+	nano .bash_profile		#to edit
+	##include this line somewhere:
+	# MALLET
+	export PATH=$PATH:/Users/mlafleur/mallet-2.0.8/bin
+
+write out and exit
+If you don't have this, just navigate to the /mallet-2.0.8/bin and run the command from there.
+
+See file "mallet steps.txt" for running it
+
+
+
+*note: using ngrams runs out of memory. Give 8gb to mallet seems to work, and lets os x manage any paging and vm 
+editing the binary:
+rocket:cd /Users/mlafleur/Desktop/themes/mallet-2.0.8/bin 
+(Note: the binary is not in /Applications/
+rocket:bin mlafleur$ nano mallet
+	edit the line to read MEMORY=8g
+
+
+https://programminghistorian.org/en/lessons/topic-modeling-and-mallet#typing-in-mallet-commands

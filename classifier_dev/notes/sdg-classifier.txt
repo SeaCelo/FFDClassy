@@ -1,0 +1,289 @@
+New classifier
+Want to use the supervised classification instead of the semi-supervised method.
+In past attempts, there was an error about loading java classes. This is an attempt to fix the procedure. “Test notes.txt” has some of the previous attempts.
+################################################
+
+Objective: Learn to use classifier:
+	http://mallet.cs.umass.edu/quick-start.php
+	http://mallet.cs.umass.edu/classification.php
+
+Using a playground folder in .../themes/play/
+Using the data here: ~/Desktop/themes/play/sdg-classifier
+Each folder is a “label”. 
+
+Beware: icloud drive may be messing with files by adding invisible .icloud extensions.
+
+
+NOTE: it seems that this works by having documents (files) of a single class (topic?) in a directory. Each class is a separate directory. I guess the directories are the labels that we want to divide into classes. I should try this. 
+https://www.cs.cmu.edu/afs/cs.cmu.edu/project/cmt-40/Nice/Urdu-MT/code/Tools/POS/postagger/mallet_0.4/doc/command-line-classification.html
+"The files should be organized in directories, such that all documents with the same class label are contained within a directory. (MALLET does not directly support classification tasks in which individual documents have multiple class labels. We recommend handling this as a series of binary classification tasks.)"
+
+Example here: /Users/mlafleur/Desktop/themes/play/sdg-classifier
+
+I’m following the step-by-step in that site
+
+########
+step 1:
+cd /Users/mlafleur/Desktop/themes/play
+rm /Users/mlafleur/Desktop/themes/play/.DS_Store
+
+
+Recursively Remove .DS_Store
+ cd to/your/directory
+find . -name '.DS_Store' -type f -delete
+
+This snippet will remove .DS_Store files from the selected folder, as well as all of the folders that it contains. All of them. At once.
+
+
+#####
+mallet train-classifier --input ~/Desktop/themes/play/test/sdg-classifier.mallet --output-classifier ~/Desktop/themes/play/test/sdg.classifier --trainer MaxEnt --training-portion 0.9
+
+Error: 
+Trial 0 Training MaxEntTrainer,gaussianPriorVariance=1.0 with 15 instances
+Exception in thread "main" java.lang.ClassCastException: class cc.mallet.types.FeatureSequenceWithBigrams cannot be cast to class cc.mallet.types.FeatureVector (cc.mallet.types.FeatureSequenceWithBigrams and cc.mallet.types.FeatureVector are in unnamed module of loader 'app')
+	at cc.mallet.classify.MaxEntOptimizableByLabelLikelihood.<init>(MaxEntOptimizableByLabelLikelihood.java:109)
+	at cc.mallet.classify.MaxEntTrainer.getOptimizable(MaxEntTrainer.java:142)
+	at cc.mallet.classify.MaxEntTrainer.getOptimizable(MaxEntTrainer.java:131)
+	at cc.mallet.classify.MaxEntTrainer.getOptimizer(MaxEntTrainer.java:185)
+	at cc.mallet.classify.MaxEntTrainer.train(MaxEntTrainer.java:248)
+	at cc.mallet.classify.MaxEntTrainer.train(MaxEntTrainer.java:242)
+	at cc.mallet.classify.MaxEntTrainer.train(MaxEntTrainer.java:52)
+	at cc.mallet.classify.tui.Vectors2Classify.main(Vectors2Classify.java:431)
+
+##STUCK ON THIS ERROR
+
+
+#It seems to be related with --keep-sequence options. The same error happens below. Don't use that option
+
+###############################################################################
+####trying new method
+
+text2vectors --input /Users/mlafleur/Desktop/themes/play/sdg-classifier/* --output /Users/mlafleur/Desktop/themes/play/test/sdg.vectors --remove-stopwords --extra-stopwords ~/Desktop/themes/sdg_final/workshop/extra-exclude-words.txt --gram-sizes 1,2 
+
+#note the input is a list for each folder, where each is one label.
+--keep-sequence doesn't work. Don't use
+
+
+vectors2classify --input /Users/mlafleur/Desktop/themes/play/test/sdg.vectors --trainer NaiveBayes --training-portion 0.9 --num-trials 2
+
+#works, but the stats are terrible. Probably need more documents in each label/folder
+
+
+#this also works: http://mallet.cs.umass.edu/classification.php
+
+mallet import-dir --input /Users/mlafleur/Desktop/themes/play/sdg-classifier/* --output /Users/mlafleur/Desktop/themes/play/test/sdg.mallet
+
+mallet train-classifier --input /Users/mlafleur/Desktop/themes/play/test/sdg.mallet --output-classifier /Users/mlafleur/Desktop/themes/play/test/sdg.classifier
+
+#The results seem similar. It seems that it needs a lot of data in each label to train the classifier in this way. May not be feasible in this exercise.
+
+#actually, reading the tests reported with option --training-portion 0.9  gives what I think are good results. Look at the sparse matrix (the table). The off-diagonal are mistakes in classification. There are mostly good classification results with a few mistakes. 
+
+#here is the output: accuracy: 86%. Seems to over-predict label 1
+--------------------------------------------------------------------------------
+Trial 0 Trainer NaiveBayesTrainer training data accuracy = 0.9021739130434783
+Trial 0 Trainer NaiveBayesTrainer Test Data Confusion Matrix
+Confusion Matrix, row=true, column=predicted  accuracy=0.8571428571428571 most-frequent-tag baseline=0.19047619047619047
+ label   0   1   2   3   4   5   6   7   8   9  10  11  12  13  14  15  16  |total
+  0  1   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  |0
+  1 10   .   1   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  |1
+  2 11   .   .   2   .   .   .   .   .   .   .   .   .   .   .   .   .   .  |2
+  3 12   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  |0
+  4 13   .   1   .   .   1   .   .   .   .   .   .   .   .   .   .   .   .  |2
+  5 14   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  |0
+  6 15   .   .   .   .   .   .   2   .   .   .   .   .   .   .   .   .   .  |2
+  7 16   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  |0
+  8 17   .   .   .   .   .   .   .   .   4   .   .   .   .   .   .   .   .  |4
+  9  2   .   .   .   .   .   .   .   .   .   2   .   .   .   .   .   .   .  |2
+ 10  3   .   .   .   .   .   .   .   .   .   .   1   .   .   .   .   .   .  |1
+ 11  4   .   1   .   .   .   .   .   .   .   .   .   3   .   .   .   .   .  |4
+ 12  5   .   .   .   .   .   .   .   .   .   .   .   .   1   .   .   .   .  |1
+ 13  6   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  |0
+ 14  7   .   1   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  |1
+ 15  8   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  |0
+ 16  9   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   1  |1
+
+-----------------------------------------------------------------------------------
+
+#More tests:
+mallet train-classifier --input /Users/mlafleur/Desktop/themes/play/test/sdg.mallet --output-classifier /Users/mlafleur/Desktop/themes/play/test/sdg.classifier --training-portion 0.9 --num-trials 10 --cross-validation 10
+
+#look at the summary at the end. 
+Summary. train accuracy mean = 0.8926938895417157 stddev = 0.010653472150762325 stderr = 0.0033689236985581677
+Summary. test accuracy mean = 0.7073809523809523 stddev = 0.09470954523797312 stderr = 0.029949787911074888
+
+#other algorithms (some give error):
+mallet train-classifier --input /Users/mlafleur/Desktop/themes/play/test/sdg.mallet --output-classifier /Users/mlafleur/Desktop/themes/play/test/sdg.classifier --training-portion 0.9 --trainer MaxEnt --trainer NaiveBayes --trainer C45 --trainer DecisionTree --trainer BalancedWinnow
+
+#this seems to work well:
+mallet train-classifier --input /Users/mlafleur/Desktop/themes/play/test/sdg.mallet --output-classifier /Users/mlafleur/Desktop/themes/play/test/sdg.classifier --training-portion 0.9  --num-trials 10 --cross-validation 10
+
+#now apply to data
+mallet classify-dir --input /Users/mlafleur/Desktop/themes/play/all_desa --output /Users/mlafleur/Desktop/themes/play/test/output.txt --classifier /Users/mlafleur/Desktop/themes/play/test/sdg.classifier
+
+#note the format is: doc class1 score1 class2 score2 ...etc...
+
+#Conclusion: this seems like a good way to identify small snippets (paragraphs?) as to each SDG. Or maybe another decision (language, good/bad, etc). 
+#STICK TO TOPIC MODEL METHOD for the paper. 
+#next step: perhaps improve the model using the new data downloaded for each SDG that uses the eHandbook from statistics for various targets. See here: 
+~/Desktop/themes/play/sdg-classifier
+
+
+##################################################################################
+
+
+ 
+
+#########
+step 2: (note: need full path) -DELETE?
+
+mallet import-dir --input ~/Desktop/themes/play/sdg-classifier  --output ~/Desktop/themes/play/test/sdg-classifier.mallet --keep-sequence --remove-stopwords --extra-stopwords ~/Desktop/themes/sdg_final/workshop/extra-exclude-words.txt --keep-sequence-bigrams --gram-sizes 1,2
+
+
+
+
+mallet train-topics \
+	--input ~/Desktop/themes/play/web.mallet \
+	--output-state ~/Desktop/themes/play/web-topic-state.gz     \
+	--output-doc-topics ~/Desktop/themes/play/web-doc-topics  \
+	--output-model ~/Desktop/themes/play/web-model.lda \
+	--output-topic-keys ~/Desktop/themes/play/web-topic-keys  
+
+
+
+
+########	
+step 2b: trying classifier as per example
+mallet train-classifier \
+	--input /Users/mlafleur/Desktop/themes/play/web.mallet \
+	--output-classifier my.classifier
+	--trainer MaxEnt --trainer NaiveBayes  --training-portion 0.9 --num-trials 10
+
+
+##ok, something happened. Now how to interpret and use
+
+##instructions are using a .vector file. I'm interpreting that this is to be used when a single file with the corpus is used. I'm using folders, so ignoring this. I'll try just input as above.
+—————————————————————————————	
+
+#########
+step 2c: http://mallet.cs.umass.edu/ge-classification.php
+
+*****It looks like I can run mallet on the constraints directly, by feeding it a constraints file with probabilities. 
+But if I want to create the constraints, I can run the java code. 
+So do the second of these first, then run the train-classifier
+
+mallet code (note the --trainer  option):
+mallet train-classifier \
+--training-file   baseball-hockey.unlabeled.vectors \
+--testing-file    baseball-hockey.test.vectors \
+--trainer "MaxEntGETrainer,gaussianPriorVariance=0.1,
+  constraintsFile=\"baseball-hockey.constraints\"" \
+--report test:accuracy
+
+Obtaining constraints via code (need java -cp syntax as below): 
+java cc.mallet.classify.tui.Vectors2FeatureConstraints \
+--input baseball-hockey.train.vectors \
+--output baseball-hockey.features \
+--feature-selection lda \
+--lda-file baseball-hockey.train.lda \
+--targets none \
+--num-constraints 10 
+
+
+
+
+java -cp "/Users/mlafleur/Desktop/themes/mallet-2.0.8/class:/Users/mlafleur/Desktop/themes/mallet-2.0.8/lib/mallet-deps.jar" \
+	cc.mallet.classify.tui.Vectors2FeatureConstraints \
+  	--input /Users/mlafleur/Desktop/themes/play/web.mallet \
+	--output /Users/mlafleur/Desktop/themes/play/constraints.constraints \
+	--features-file /Users/mlafleur/Desktop/themes/play/constraints.labeled_features \
+	--targets heuristic 
+
+
+
+To run these classes, the syntax is as follows: 
+I need the command "java -cp" (-cp is class path)
+
+see example of usage here: 
+http://mallet.cs.umass.edu/sequences.php
+hough@gobur:~/tagger-test$ java -cp  "/home/hough/mallet/class:/home/hough/mallet/lib/mallet-deps.jar" cc.mallet.fst.SimpleTagger --train true --model-file nouncrf  sample
+
+https://stackoverflow.com/questions/19219351/mallet-simpletagger-classpath
+C:\mallet> java -cp "C:\mallet\class;C:\mallet\lib\mallet-deps.jar" cc.mallet.fst.SimpleTagger --model-file G:\test1-model G:\test2-feats.txt
+	Actually, what is done with this code is that two different paths are determined as the classpath, one is the folder which includes .class files of mallet (C:\mallet\class) and the other one includes all required jar files (C:\mallet\lib\mallet-deps.jar) and you need to separate them with ";".
+
+
+
+Let's see how to do "Machine-provided Candidate Features"
+
+
+##this works!
+java -cp "/Users/mlafleur/Desktop/themes/mallet-2.0.8/class:/Users/mlafleur/Desktop/themes/mallet-2.0.8/lib/mallet-deps.jar" \
+	cc.mallet.classify.tui.Vectors2FeatureConstraints \
+	--input ~/Desktop/themes/play/web.mallet \
+	--output ~/Desktop/themes/play/web.features \
+	--feature-selection lda \
+	--lda-file ~/Desktop/themes/play/web-model.lda \
+	--targets none \
+	--num-constraints 100 
+
+
+Note: The lda-file is a serialized LDA model file, output from training the model with option --output-model [FILENAME]. 
+
+
+Let's keep going down the examples on the webpage:
+Oracle method (above is "unsupervised")
+
+note: I think I need a split between training and testing dataset. I'll ignore this for now and use the same dataset
+
+java -cp "/Users/mlafleur/Desktop/themes/mallet-2.0.8/class:/Users/mlafleur/Desktop/themes/mallet-2.0.8/lib/mallet-deps.jar" \
+	cc.mallet.classify.tui.Vectors2FeatureConstraints \
+	--input ~/Desktop/themes/play/web.mallet \
+	--output ~/Desktop/themes/play/web-oracle.features \
+	--feature-selection infogain \
+	--targets none \
+	--num-constraints 100 
+##some error. Need to fix this. The heuristic option brakes things in the previous code. Something about Machine-provided Target Expectations isn't working
+I had to reinstall java completely. See online. Also, remove jdk from here cd /Library/Java/JavaVirtualMachines
+
+
+
+java -cp "/Users/mlafleur/Desktop/themes/mallet-2.0.8/class:/Users/mlafleur/Desktop/themes/mallet-2.0.8/lib/mallet-deps.jar" \
+	cc.mallet.classify.tui.Vectors2FeatureConstraints \
+	--input ~/Desktop/themes/play/web.mallet \
+	--output ~/Desktop/themes/play/constraints2.constraints \
+	--features-file ~/Desktop/themes/play/web.features \
+	--targets heuristic 
+##same error
+
+	
+NOTE: it seems that this works by having documents (files) of a single class (topic?) in a directory. Each class is a separate directory. I guess the directories are the labels that we want to divide into classes. I should try this. https://www.cs.cmu.edu/afs/cs.cmu.edu/project/cmt-40/Nice/Urdu-MT/code/Tools/POS/postagger/mallet_0.4/doc/command-line-classification.html
+"The files should be organized in directories, such that all documents with the same class label are contained within a directory. (MALLET does not directly support classification tasks in which individual documents have multiple class labels. We recommend handling this as a series of binary classification tasks.)"
+
+Example here: /Users/mlafleur/Desktop/themes/play/sdg-classifier
+
+#############################################
+
+
+
+I think I need to use train-classifier (not train-topics) to save the classifier and use it. Never tried it. Lets see
+
+
+##training a classifier
+using this as guide: http://mallet.cs.umass.edu/classification.php
+
+mallet train-classifier --input /Users/mlafleur/Desktop/themes/play/test/topic-input.mallet --output-classifier /Users/mlafleur/Desktop/themes/play/test/sdg.classifier
+
+
+
+
+##Applying a Saved Classifier to New Unlabeled Data: 
+
+mallet classify-dir --input datadir --output --output-doc-topics /Users/mlafleur/Desktop/themes/play/test/classified --classifier classifier
+Using the above commands, classifications are written to standard output. Note that the input for these commands is a raw text file, not an imported Mallet file. This command is designed to be used in "production" mode, where labels are not available.
+
+mallet classify-dir --input /Users/mlafleur/Desktop/themes/inputs/wess --output /Users/mlafleur/Desktop/themes/play/test/sdg-classified --classifier /Users/mlafleur/Desktop/themes/play/test/sdg.classifier
+
+
+
+

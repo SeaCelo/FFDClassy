@@ -1,0 +1,10 @@
+Step by step to replicate results
+
+1) prepare training and target data. sdg-pre-hlpf and alldesa
+
+2) run training and infer scripts (see "final-steps" for notes):
+cd ~/Desktop/themes/sdg_final
+./train_sdg_classifier.sh     (only needed if updating model)
+./infer_sdg_wess.sh
+./infer_sdg_rwss.sh
+./infer_sdg_alldesa.sh

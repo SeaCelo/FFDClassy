@@ -1,0 +1,339 @@
+III.D.	International trade as an engine for development
+1.	Key messages and recommendations
+In the past two decades, international trade has acted as an engine for development for many developing countries, contributing to economic growth, poverty reduction and a narrowing of the development gap with developed countries; yet export-based development may become more difficult to pursue. While world merchandise trade nearly quadrupled in nominal terms over this timeframe, the pace of this trade expansion has been highly uneven. A decade of rapid export growth until the 2008-2009 great recession was followed by a period of weaker trade dynamism. The recent slowdown in world trade growth and declines in trade openness poses challenges for many developing countries, making traditional export-based development model, which a number of developing countries successfully implemented, much harder to pursue.
+
+The vision of an open and integrated global economy with freer trade, economic interdependence, and international cooperation, is increasingly threatened, as increased fragmentation and an erosion of multilateralism as well as rising inequalities have prompted counter-pressures to reverse globalization and move away from existing practices. These trends have coincided with an increased focus on so-called “friendshoring” and “nearshoring” in value chains. Strong leadership and collective actions are needed in seeking to curb efforts to impose measures that are trade-restrictive and undermine global cooperation on trade. 
+
+There are also continued challenges in integrating vulnerable developing countries into global trade of both goods and services, with digital trade threatening to further exacerbate inequalities. Despite the increased participation of developing countries as a group, the vulnerable developing economies have largely remained marginalized in international trade. For example, the growth in services trade has largely benefitted developed countries and a number of developing countries in Asia. The distribution of benefits of digital trade has also been highly uneven, with countries with weak connection to networks particularly disadvantaged. This highlights the need to redouble efforts to accelerate digitalization and technology policy as well as facilitating investment in necessary infrastructures to benefit from digital trade. 
+
+LDCs, as well as SIDS and LLDCs, remain largely marginalized in international trade. This underlines the need to continue to strengthen the participation of countries in special situations in global trade. This may include agreeing on a possible follow-up to SDG target 17.11, which calls for doubling the LDC share in global trade, including through accelerated efforts towards building trade and productive capacities so that the provision of preferential market access to LDCs can contribute more to export growth as well as economic diversification. It also requires redoubled efforts to put in place supportive mechanisms such as Aid for Trade. A fourth international conference on financing for development should consider these and other mechanisms that can facilitate a productive integration of developing countries into the global economy.
+
+An important impediment to an acceleration is the global trade financing gap, which has increased sharply in recent years. Global unmet demand for trade financing is estimated to be $ 2.5 trillion annually. 80 per cent or more of global merchandise trade depends on the provision of trade financing. As private sector commercial banks will not be able to substantially narrow the trade finance gap, the role of other providers of trade financing becomes fundamentally important. Multilateral development banks play an important role in the provision of SCF in emerging markets. MDBs have provided trade financing in support of developing economies.
+
+Moreover, the multilateral trading system, as well as regional trade agreements (RTAs) and international investment agreements (IIAs), have an important role to play in providing enabling conditions for sustainable development. These agreements can be geared towards enhancing coherence between trade, investment, and sustainable development, including on gender equality, human rights, and environmental sustainability, particularly climate actions. There is significant scope for these agreements, once modernised, to help countries make inroads into the SDGs, as well as promote a more equitable and inclusive sharing of the gains from trade. 
+This chapter will give a concise overview of trade trends in the past two decades, including a discussion of the impact of technological changes and digitalization on trade. It then highlights the evolution in multilateral trade cooperation under the WTO as well as developments relating to regional trade agreements and international investment agreements. Lastly, it will discuss trade and sustainable development in the context of a complex global landscape as well as trends in trade and development financing.
+2.	Trade trends: Long-term trends in trade since Monterrey
+2.1.	Trade growth since Monterrey: Rapid, yet uneven
+
+Since Member States convened in Monterrey in 2002, the pace of trade expansion has been rapid - yet uneven - with the 2008/09 financial crisis acting as an inflection point. A decade of rapid export growth, driven particularly by developing countries in Asia and the multilateral market opening between 1995 to 2005, was followed by weaker trade dynamism and a decline in trade openness (figure 1). The main drivers of slower trade growth in the past decade include a slowdown in the expansion of GVCs, a rise in national strategies prioritizing domestic consumption and developing domestic supplier bases, as well as a diminishing impact of technological advances in reducing production and transport costs. The special effect of the opening of economies in transition in the 1990s has also levelled off.  Food and agricultural products showed a similar patter, stagnating since the 2008 crisis, after an expansion in the early 2000s.
+
+Trade in services saw an even greater expansion than merchandise exports over the past two decades, with growth rates also slowing markedly since the great recession. A key driver of the expansion in services trade has been the dynamic growth of trade in digitally deliverable services, which more than doubled between 2010 and 2022. 
+
+Figure 1: Average Export Growth Rate Before and After the Great Recession by development status
+Merchandise
+Services
+
+
+Source: UNCTAD calculations based on UNCTADStat.
+
+The geographical distribution of trade growth during this period has also been uneven, with some developing countries, particularly in Asia, seeing rapid trade growth while many vulnerable countries remained largely marginalized. Most of the increase in the share of developing countries in world merchandise trade is accounted for by Asia. The shares of the other two developing regions, Africa and America, remained muted throughout this period. LDCs and LLDCs increased their share in world trade only marginally, while it remained constant for SIDS, suggesting no meaningful progress in integrating these countries into global trade flows. Indeed, more recent trends over the past ten years saw LLDCs’ share of world merchandise trade in goods and trade in services decline.  For commodity-dependent developing countries, the diversification of exports has continued to be a pressing challenge, as these countries have exported, on average, less than a third of the number of products exported by other countries, with the gap slightly increasing over time. As commodity price indices almost quadrupled between 2000-2022, commodity-dependent developing countries have been faced by significant price variability across boom-and-bust cycles, including during the COVID-19 pandemic. 
+
+Developing country trade growth over the past two decades was driven largely by their increased participation in global value chains (GVCs). The value of trade in intermediate goods, a proxy of trade in GVCs, grew more than threefold since the early 2000s. Asia has been central in GVC trade, accounting now for slightly less than half of total intermediate exports (see figure 2). The increased participation of developing countries in international trade, leveraging upon the expansion of GVCs is corroborated by trends in seaborne trade, where the participation of developing countries has seen a constant increase.
+
+Figure 2: Share of world exports by region and category of products (2002-2022)
+
+
+Source: UNCTAD secretariat calculations based on UN COMTRADE database
+
+South-South trade was the most dynamic trade route in the world in the past two decades, supporting the expansion of trade within GVCs. The value of South-South trade increased eightfold during the period, yet most of the rise has happened during the first decade, as growth decelerated considerably after 2012. South-South trade now accounts for 54 per cent of total developing country exports, and its share in world exports almost doubled from 2000 to 2022. South-South trade is even more significant in manufactured products, particularly technology-intensive products, and supported export diversification and upgrading. Most of South-South trade involves Asia, as intra-regional trade intensified throughout the value chains. South-South trade in the other two developing regions remained rather muted in value terms but is growing fast in Africa in particular, underlining the potential of South-South trade for the region.
+
+A more recent trend, contributing to the slowing of GVC expansion, has been the significant shift towards de-risking supply chains and diversifying suppliers and markets, including through so-called “friendshoring” and “nearshoring”. This change, depicted in Figure 3, is driven by heightened trade policy tensions, the disruption caused by COVID-19, and geopolitical events like the war in Ukraine. Supply chain configuration has become a primary concern for policymakers and industries, especially in the context of building resilience and self-sufficiency. Recent analysis by UNCTAD (2023) shows that, while geographical proximity of international trade did not experience any major changes, there is a substantial rise in political proximity of trade (“friendshoring”) starting in the third quarter of 2022.  In addition, since 2010, there has been a decline in distances per tonne of containerized trade (figure 4), mainly due to increased intraregional maritime trade supporting manufacturing activities in China and neighbouring countries, particularly in East Asia. The increase in the average distance travelled by containers in 2024 comes amid rising tensions in the Red Sea. However, a decrease in the distance travelled by containers is forecasted for 2025.
+
+Figure 3: Recent trends in trade concentration, “friendshoring” and “nearshoring”
+
+Source: UNCTAD estimates based on national statistics
+
+Figure 4: Average distance travelled per tonne of cargo, nautical miles
+
+Source: UNCTAD Secretariat calculations, based on Clarksons Research seaborne trade dataseries
+
+Overall, trade has played an important role as engine of development and convergence for a number of developing countries, as envisaged in Monterrey. Trade has been making multifaceted contributions to development finance, generating revenue, fostering economic growth, and facilitating the flow of both financial and non-financial resources. A number of developing countries, particularly in Asia, have successfully followed an export-led development model, in which exports of manufactured goods play a key role in foreign exchange generation and progressive technological upgrading. 
+
+Yet, such development trajectories are increasingly difficult to pursue. The recent slowdown in world trade growth and declines in trade openness point to a persistent shift in international trade dynamism, which may reduce the appeal of export promotion development models based on manufacturing. As stressed in Chapter III.B, development models that are heavily reliant on exports of manufactured goods have become increasingly difficult to pursue amid a shift towards digital business models, asset-light production and an associated slow-down in manufacturing trade growth rate. In addition, the post-war vision of an open and integrated global economy with freer trade, economic interdependence, and international rules is increasingly coming under threat. Challenges such as increased fragmentation and an erosion of multilateralism as well as rising inequalities have prompted counter-pressures to reverse globalization and return to a more divided world of regional blocs.
+2.2.	Impact of technological changes and digitalization on trade
+
+Technological changes and digitalization have profoundly impacted trade trends since the early 2000s. Digitally delivered services have become an important component of trade, with services that can be digitally delivered over information and communications technology (ICT) networks benefitting from cost efficiencies and higher reach and tradability. Digital technologies have also facilitated the direct cross-border trade of certain services, such as consulting, education and financial services. Global exports of digitally delivered services reached $3.9 trillion in 2022, increasing almost fourfold since 2005 and accounting for 54 per cent of total global services exports and thus outpacing growth in both goods and other services export.
+
+While participation of developing countries has increased, particularly for those in Asia, services trade remains developed-country driven, particularly for knowledge-intensive and digitally delivered services. Developing countries in Asia were able to increase their share of service exports (from 15 per cent in 2005 to 25 per cent in 2022), even though participation of developing economies in Africa and in Latin America and the Caribbean remained low and stable, at around 2 and 3 per cent respectively (figure 5).
+
+Figure 5. Exports of services and of selected groupings of services categories by level of development and region, 2005 and 2022 (percentage)
+
+Source: UNCTADStat.
+
+The on-going digital transformations render the split between what is a service and what is a good increasingly blurry. As a result, and in value-added terms, services play a much bigger role in international trade than gross statistics suggest. Intermediate services are indispensable for production and exports in all sectors. Services have thus become an important component of the value added of goods and services exported by countries, giving rise to “servicification” of economies. Indeed, the services value-added that is contained in international goods and services exports now accounts for close to half of world exports, compared to about 30 per cent in 1980 (Heuser and Mattoo, 2017) with servicification being most prevalent in developed countries. 
+
+The ability to digitally deliver services has also played an important role in trade resilience during the COVID-19 pandemic. While tourism and other services requiring cross-border mobility declined, digitally delivered services (DDS) exports - including IT consulting - continued to rise faster than exports of goods and other services. In the period between 2010 and 2022, DDS exports grew faster than exports of all commercial services, both in developed and in all developing economies. In this trade, developing economies in Asia outpaced that of developed economies (figure 6). Driven by digital technological progress and evolving business practices, the share of services trade that can be delivered remotely over computer networks is likely to continue to increase. 
+
+Figure 6. Evolution of exports of services and digitally deliverable services, by level of development and region, 2010-2022 (index, 2010=100)
+
+Source: UNCTADstat
+
+Thus far, it has been predominantly developed economies that have tapped the potential of DDS export markets. The proliferation of online streaming platforms, e-books and downloadable software make it significantly easier and less costly to deliver a wide range of products across borders. As a result, the international trade in goods, such as books, that can be easily digitized, has stagnated as digital distribution channels offer cost savings, immediate delivery, and a broader reach. However, this is largely the case in developed countries, while digitizable goods imports continued to grow in many middle and low-income economies.
+
+Overall, the distribution of benefits of digital trade has thus been uneven, with countries with weak connection to networks particularly disadvantaged. DDS play a smaller role in commercial services exports of developing countries, with Africa and Latin America and the Caribbean furthest behind. LDCs and LLDCs still have a high untapped potential of growth, including through e-commerce which has the potential to connect remote economies to global markets and create new sources of comparative advantage. However, a lack of access to 4G networks and high connectivity costs are among the factors hindering the growth of digital trade in LDCs and LLDCs, as well as lack of digital policies due to limited availability of data and insufficient international cooperation. 
+
+3.	The multilateral trading system: changing scope and geographies
+3.1.	 Evolution in multilateral trade cooperation under the WTO
+
+The World Trade Organization (WTO) has played a central role in facilitating multilateral trade cooperation since its establishment in 1995, and over a period of rapid trade expansion. The evolution of multilateral trade cooperation under the WTO reflects the changing dynamics of the global economy, shifts in geopolitical power, and the challenges associated with achieving consensus among a diverse group of member countries with varying economic interests. The future trajectory of the WTO and multilateral trade cooperation remains a subject of ongoing discussion and negotiation among its members.
+
+The history of WTO negotiations can be delineated into distinct periods based on evolving issues, both before and after 2000. The Uruguay Round (1986–1994) marked the establishment of the WTO, replacing the GATT, and expanded the scope of trade negotiations to include services, intellectual property, and agriculture. The WTO officially commenced on January 1, 1995, introducing a more comprehensive and binding framework for trade agreements and dispute resolution. 
+
+Subsequently, the Doha Development Agenda (launched in 2001) aimed to address development-related issues, but economic shifts and divergent interests among members led to several of the important elements in the negotiations - particularly in the areas of domestic support and tariff reduction in agriculture, and non-agricultural market access - to stall and to the round not being concluded as a single undertaking. Nevertheless, some important issues raised as part of the Doha Development Agenda have led to multilateral agreements, such as the issues of trade facilitation, export competition in agriculture including the prohibition of export subsidies, and more recently an agreement to reduce harmful fisheries subsidies. 
+
+In the absence of a comprehensive multilateral agreement on certain issues, countries turned to bilateral and regional trade agreements and in some cases plurilateral negotiations, resulting in a complex web of overlapping arrangements. Challenges have also emerged in the WTO's dispute settlement mechanism, notably on the functioning and role of the WTO Appellate Body, which has led to the blockage of the appointment of new judges hindering its ability to hear appeals. This has opened the door to situations where a party in a dispute may appeal the findings of a panel and prevent its adoption by the Dispute Settlement Body. 
+
+In addition, there has been an increase in scepticism on the benefits of trade. Protectionist sentiments have also risen and have contributed to trade tensions and restrictions, challenging the multilateral landscape. Amid this, calls for WTO reform have surfaced with a focus on addressing issues like the dispute settlement mechanism, updating rules to reflect global economic changes, and reinvigorating multilateral negotiating functions.
+3.2.	Regional trade agreements
+
+The growth in the number of regional trade agreements continued into 2023, with 361 RTAs in force by the start of 2024. The number of RTAs has increased 56 per cent in the last 10 years alone. RTA activity is strongest in Europe with the European Union and the UK leading the number of RTAs in force in the region; East Asia and South America follow. However, as Figure 7 below shows, all regions in the world are actively involved in RTAs (Figure 7). There is also an emerging trend suggesting some consolidation of existing RTA relationships (such as the CPTPP, RCEP, AfCFTA and the EAEU).
+
+Over the years RTAs have become more complex, including not just tariff liberalization but also commitments to liberalize trade in services and regulatory rules on other behind the border provisions. Around two-thirds of all RTAs notified to the WTO and currently in force include provisions on trade in goods and services. RTAs also tend to regulate other areas of trade to which WTO rules apply such as trade defence, safeguards, sanitary and phytosanitary measures and technical barriers to trade, intellectual property rights as well as services rules. They also increasingly extend their coverage to other behind the border measures not or only partially covered by WTO rules such as government procurement or competition. Most recently, the trend has been to include measures which are not covered by the WTO rules such as on the environment (59% of RTAs notified have provisions on the environment), electronic commerce and labour (35% each of RTAs notified), small and medium sized enterprises (53% of all RTAs notified), and gender (27% of all RTAs notified), thus increasing the gap between trade regulations at the multilateral and regional levels (Figure 8: Key provisions in RTAs). 
+
+Figure 7 RTAs in force, by region
+
+Source: WTO Secretariat. Note: RTAs involving countries/territories in two (or more) regions are counted more than once.
+
+Figure 8: Key provisions in RTAs
+
+Source:	WTO Secretariat. Note:	Figures are based on 347 RTAs (out of 365) notified to the WTO and currently in force. For more details on these provisions: http://rtais.wto.org/.
+
+There has been notable progress and renewed interest in deepening and reinvigorating South-South trade integration and cooperation frameworks.  While some studies have pointed to highly heterogenous trade and welfare outcomes within and across regions, it is well recognized that South-South trade can have a positive effect in accelerating economic diversification and complementarities, Indeed, south-south trade can foster trade in non-traditional exports, such as higher value-added and technology-intensive manufactured goods. 
+In Africa, the African Continental Free Trade Area, the Phase II Protocols on Investment, Competition and Intellectual Property Rights as well as Digital Trade have been concluded and approved. At the inter-regional level, members of the Global System of Trade Preferences (GSTP) seeks to further deepen South-South cooperation and trade by reducing trade barriers, with a view to  addressing the most pressing challenges - such as the climate crisis or food security.
+3.3.	Emerging trends in regional cooperation
+
+New trade initiatives are putting regulatory and economic cooperation to promote supply chain agility and resilience at the center of discussions. One major initiative launched in May 2022 by the United States is the Indo-Pacific Economic Framework for Prosperity (IPEF). The IPEF partners represent 40 per cent of global GDP and 28 per cent of global goods and services trade. As distinct from traditional trade liberalizing arrangements, this framework aims at enhancing resilience, sustainability, inclusiveness and competitiveness by lowering the risk of disruptions through enhanced supply chain resilience, seeking strong labour and environmental standards, as well as effective tax cooperation in accordance with UN standards.
+
+In the context of the energy transition, there is a rising demand for critical minerals in sectors such as aerospace, automotive, renewable energy and telecommunications. They also are crucial components of low-carbon technologies such as batteries, wind turbines, electric vehicles and solar panels. With the majority of world supply concentrated in a handful of countries, there has been an increase in bilateral agreements to build supply-chain resilience and to ‘de-risk’ supply. These new partnerships on critical minerals seek to promote trade and investment opportunities, as well as research and development, including information sharing and collaboration through joint initiatives. 
+
+Another emerging trend relates to the emergence of digital economy agreements (DEA). Unlike traditional trade agreements, DEAs focus on domestic regulatory reforms and cross-border collaboration in areas including data innovation, digital identities, cybersecurity, consumer protection and digital inclusion. New Zealand, Chile, and Singapore signed the world’s first Digital Economy Partnership Agreement in June 2020. This agreement seeks to establish global standards for the digital economy and aims to benefit from the potential of the digital economy. DEAs have inspired other trade arrangements, such as the Association of Southeast Asian Nations (ASEAN), which is considering negotiating a regional digital economy agreement, the Digital Economy Framework Agreement (DEFA).
+3.4.	International investment agreements
+
+Policy making in the space of international investment agreements has been a highly dynamic space, which has seen significant change over the past twenty years. As the stock of IIAs that are signed and in force has declined markedly from its levels in the 1990s and 2000s, as shown in Figure 8, the focus of policy has shifted towards a new generation of international investment agreements. Modern agreements now often include a sustainable development orientation, a focus on preservation of regulatory space, and improvements to or omissions of investment dispute settlements. 
+
+In 2022, investment treaty terminations again exceeded the number of new treaties. Countries concluded at least 15 new international investment agreements (IIAs) in 2022: 10 bilateral investment treaties and 5 treaties with investment provisions (TIPs). At the same time, at least 58 IIAs were effectively terminated. By the end of 2022, there were a total of 3,265 IIAs of which 2,584 are in force (figure 8). The total number of effective terminations reached at least 569, with about 70 per cent of IIAs terminated in the last decade.
+
+New-generation IIAs exist in parallel with older IIAs. Recent IIAs signed in 2020–2023 feature many reformed provisions aimed at safeguarding the right of States to regulate and reforming investor–State dispute settlement (ISDS). It remains to be seen whether the reformed provisions are sufficiently robust to support and not hinder countries’ sustainable development endeavors. Moreover, most new IIAs lack provisions that proactively promote and facilitate sustainable investment and only a minority of them include investor obligations. Many new-generation IIAs overlap with an earlier IIA between the same economies, highlighting the importance of expediting the modernization and consolidation of the existing stock of treaties through amendment, replacement or termination.
+
+New types of investment-related agreements which contain proactive investment facilitation features and pay greater attention to sustainable investment are an emerging trend. In 2022, negotiations were concluded on several investment governance instruments of this type, notably the Investment Protocol to the African Continental Free Trade Area (AfCFTA) and the Angola–EU Sustainable Investment Facilitation.
+
+
+
+
+
+
+Figure 8. Stock of IIAs signed and in force, 1959–2022 (By date of signature)
+
+Source: UNCTAD, IIA Navigator. Note:  The figure does not include effectively terminated IIAs.
+
+Most new investment arbitration cases continue to be brought under old-generation IIAs. In 2022, claimants filed 46 new investor-State dispute settlement (ISDS) cases under IIAs. About 80 per cent of ISDS cases initiated in 2022 were based on BITs and TIPs signed in the 1990s or earlier. To date, 132 countries and one economic grouping are known to have been respondents to one or more ISDS claims. As of 1 January 2023, the total number of publicly known ISDS claims had reached 1,257 (figure 9). As some arbitrations can be kept confidential, the actual number of disputes is likely higher.
+
+Figure 9. Trends in known treaty-based ISDS cases, 1987–2022
+
+Source: UNCTAD, ISDS Navigator.
+
+Old-generation treaties continue to dominate the IIA landscape. About 2,300 old-generation IIAs are still in force. The continued prevalence of old-generation IIAs entails risks for climate action, energy transition and other sustainability objectives. This challenge is compounded by the rising number of ISDS cases related to the fossil fuel and renewable energy sectors that are brought based on IIAs. Investors in these sectors have been frequent claimants, together accounting for about 25 per cent of all ISDS cases. In the fossil fuel sector, investors have initiated at least 219 cases against different types of State conduct. In the renewable energy sector, the last decade has also seen the emergence and proliferation of ISDS cases, with 119 known cases. Many of these cases challenged legislative changes involving reductions in feed-in tariffs for renewable energy production. 
+
+BOX 1: UNCTAD IIA toolbox for the promotion of sustainable energy investment
+
+Various options exist to transform IIAs into tools that are conducive to sustainable energy investment and climate objectives. UNCTAD’s new toolbox presented in the World Investment Report 2023 focuses on four areas (table 1): the promotion and facilitation of investment, technology transfer, the right to regulate and corporate social responsibility. Renegotiation, amendment and termination of the large stock of old-generation IIAs are the main options to ensure that the international investment regime contributes to – and does not hinder – sustainable development.
+
+Table 1. IIA reform toolbox: promoting sustainable energy for all
+
+
+Promotion and facilitation of sustainable energy investment
+
+Incorporate IIA provisions aimed at actively promoting and facilitating sustainable energy investment
+
+
+c.	
+
+Provide for preferential treatment of sustainable energy investment
+
+
+c.	
+
+Establish institutional mechanisms for cooperation on R&D of sustainable technologies
+
+
+c.	
+
+Commit to technical assistance on the adoption of investment facilitation measures for sustainable energy
+
+
+Technology transfer and diffusion
+
+Encourage technology transfer of low-carbon and sustainable technologies, including related know-how
+
+
+c.	
+
+Make efforts to create an enabling environment for receiving technology
+
+
+c.	
+
+Allow certain kinds of performance requirements relevant to the energy transition
+
+
+c.	
+
+Ensure that the protection of intellectual property rights does not unduly impede the diffusion of technology
+
+
+Right to regulate for climate action and the energy transition
+
+Refine the content of investment protection standards and reform ISDS with regard to energy investments
+
+
+c.	
+
+Acknowledge the need for regulatory flexibility
+
+
+c.	
+
+Include general exceptions related to climate change and the energy transition
+
+
+c.	
+
+Clarify provisions on compensation and damages
+
+
+Corporate social responsibility
+
+Include binding obligations relating to corporate social responsibility
+
+
+c.	
+
+Specifically oblige energy investors to comply with requirements for sustainable investment (e.g. by requiring environmental impact assessments and maintenance of an environmental management system)
+
+
+Source: UNCTAD, World Investment Report 2023 (Overview).
+4.	Trade and sustainable development in a complex global landscape
+4.1.	 Economic development and trade
+
+The links between trade and economic development are a perennial feature of debate. An extensive empirical literature on the relationship between trade and growth generally finds a positive statistical association between the two; in the first decade of this millennium rapid trade growth indeed went hand-in-hand with a dynamic world economy. However, the strength, nature and even direction of this relationship, as well as the broader economic consequences of increased trade flows and accompanying trade policies, continue to be contested.
+
+An additional element of complexity is provided by the re-structuring of the global economy around GVCs in the last decades. Participation in GVCs is often seen as an attainable first step on the industrialization ladder and to offer a more productive integration into the global trading system (Baldwin, 2016). Rather than having to develop an entire product or break into an extremely competitive market on their own, countries can specialize in specific tasks or components of a multitude of value chains, starting at the relatively accessible bottom, leveraging the advantage of lower labour costs and steadily building up capacity in more skill intensive and higher value-added activities.
+
+However, the association between participation in GVCs and development is not straightforward but rather context specific. Studies have shown that when increases in the foreign value added of exports occur in a larger context of greater production and exports of manufactures (Figure 10), GVCs participation can complement industrialization and structural change. However, when increasing participation in GVCs reflects a reduction of domestic sourcing in a context of weak export performance of manufactures, GVCs participation may even delay structural transformation, as in the case of many developing economies in Africa and Latin America. As shown in Figure 10, the East and South-East Asian developing economies shows a clear and strong positive association between GVC participation and industrialization, while other BRICS and developing countries in other regions show the opposite relationship.
+
+Indeed, GVCs lower barriers to entry at the bottom of the value chain, making it easier for developing countries to break into global exports of manufactures than in the past, but the conditions that ease access can also act as barriers to upgrading, since more accessible parts of the value chain are associated with few forward and backward linkages, limited institutional development, and little possibility for knowledge externalities in the wider economy. Technological upgrading can be more difficult for economies that are used by transnational corporations (TNCs) primarily as bases for exports to third markets than for economies where FDI is characterised by market-seeking and tariff-jumping behaviour. Developing economies with limited productive capacities can therefore remain trapped in, and competing for, the lowest value-adding activities at the bottom of value chains, which can ultimately result in ‘thin industrialization’ and slow economic growth and do not generate those local productive capacities. These activities are also detrimental from a dynamic perspective since they do not generate those local productive capacities, which are essential to meaningful development.
+
+
+Figure 10. Changes in the shares of foreign valued added in manufacturing exports and of manufacturing value added in GDP, selected economies, 1995-2020 (percentage point changes)
+East and South-East Asian developing economies
+                     Other BRICS and developing economies
+
+
+Source: UNCTAD (2016) based on OECD-WTO TiVA database and UNSD Main Statistical Aggregates database. Note: Shares taken in current values.
+
+Participation in GVCs also carries the additional risk of specialization in only a very narrow range of production activities with a concomitantly narrow technological base and overdependence on TNCs for GVCs access (OECD, 2013). Such shallow integration manifests itself in asymmetric power relations between lead firms and suppliers and in weak bargaining positions for developing countries. For example, the experiences of Mexico and Central American countries as assembly manufacturers have been linked to the creation of an enclave economy, with few domestic linkages.  Nonetheless, studies have also shown potential benefits of supplier-buyer links between local firms and MNEs in developing countries.Meanwhile, countries able to develop productive capacities in sync with those needed by international production networks and position themselves at a relatively high level in the world distribution of tasks, are well placed to sustain a more inclusive growth process. The selection of the relevant sectors and industries for industrial policy support is critical in this respect and varies from country to country according to their pre-existing areas of strengths and potential for upgrading and dynamic comparative advantage.
+
+What is increasingly clear, is that a reversal of trade integration and deceleration of growth in trade is a threat to prosperity and economic growth for developing and developed countries alike. Recent shocks, including the global financial crisis, the COVID-19 pandemic, and the war in Ukraine, have underscored countries' reliance on each other for critical supplies and revealed common vulnerabilities to external disruptions and geopolitical conflicts. 
+
+A process of deglobalization and focus on self-sufficiency would significantly weaken the global economy and make it less efficient, and less innovative, limiting countries’ – particularly developing countries’ - ability to achieve economic growth. Fragmenting the world trade system into separate blocs, as estimated by the WTO, could cost about 5 per cent of global real income, with developing economies facing double-digit losses.
+
+Instead, trade integration has to go hand in hand with international cooperation. This so-called “re-globalization” would place international cooperation to address global challenges. Recognizing that global problems require global solutions,  international cooperation would support the re-investment in the multilateral trading system to ensure that the principles of secure, inclusive, and sustainable trade are respected. This involves active participation of economies that have yet to integrate fully into the world trading system, ensuring that more firms and workers, including women and those from low-income households, can actively engage in and benefit from trade. Measures beyond international trade cooperation, such as international collaboration in taxation and competition, support programs, and domestic policies, are also considered to enhance inclusivity. The overall aim is thus to reduce inequalities through a predictable trading environment, support global economic convergence, foster services-led development, establish e-commerce rules for inclusive globalization, provide investment facilitation for inclusive GVCs, strengthen the role of international organizations as well as complement multilateralism with deeper regional integration.
+4.2.	Environmental impact of trade
+
+Although trade can aggravate environmental problems by increasing the scale of transportation and production, trade can also lead to positive environmental outcomes by affecting the composition of goods and services traded, and by helping to develop, deploy and diffuse environmental technologies. Trade-induced innovation and investment in green technologies result from expanded market access, encouraging cleaner production processes and pollution abatement. In addition, trade plays a role in reducing pollution intensity, as less pollution-intensive exporters gain market share and invest more in pollution abatement. Studies have also shown that the inclusion of Environmental Related Provisions linked to agriculture, fisheries, and forestry sectors (Ag-ERPs) in regional trade agreements, which have increased significantly over the past 20 years, can help mitigate the environmental impacts of trade-induced production growth. There is evidence of reductions in agriculture-related greenhouse gas (GHG) emissions in countries that have RTAs with more Ag-ERPs.
+
+Figure 11. Technology and CO2 emissions, 1995-2018
+
+Source: 2023 WTO Trade Report
+
+In order to study the link between trade and climate change, trade economists have developed a three-effect conceptual framework, which highlight a scale effect, a composition effect and a technique effect. The scale effect assesses how increased economic activity resulting from trade opening may contribute to higher greenhouse gas emissions. The composition effect focuses on changes in the relative sizes of various production sectors within a country due to trade opening and shifts in relative prices. The environmental impact depends on the growth or reduction of emission-intensive sectors.  The technique effect focuses on improving production methods to reduce greenhouse gas emissions, facilitated by open trade. Access to and lower costs of climate-friendly goods and services can contribute to emissions reduction, particularly beneficial for countries lacking such resources. 
+
+Trade policies, particularly those pursued through increased global integration and cooperation of the multilateral trading system can help to protect the environment in several ways. Firstly, the increasing share of digital and services trade holds promise for reducing the environmental impact of trade. Digitally deliverable services, including information technology, finance, business services, and entertainment, exhibit lower carbon emission intensity compared to other sectors (see figure 12 below). WTO projections for a future scenario with increased international cooperation on global trade policy suggest that services trade, particularly in digitally delivered services, could exceed 30 per cent by 2040, resulting in a less carbon-intensive trade composition. Additionally, digital technologies, enabling remote trade and reducing the need for physical transportation, have the potential to decrease carbon emissions linked to international transport. Overall, digital solutions could contribute to a 15 per cent reduction in global carbon emissions. 
+
+Figure 12. Carbon emissions intensity for digitally delivered services is relatively low
+
+Source: 2023 WTO World Trade Report
+
+Overall, an integrated approach to trade and environmental policies is integral to addressing global environmental challenges like climate change, pollution and biodiversity loss due to the transboundary nature of environmental issues. Studies suggest that the potential benefits of such coordination, including a global CO2 market, could result in gains of up to USD 106 billion by 2030. Coordinated climate policies, such as carbon pricing mechanisms, could help reduce greenhouse gas emissions by reflecting the social costs of carbon emissions, thereby shifting consumption and production away from carbon-intensive activities. Complementary policies should be envisaged to  promote behavioural changes and counter the negative effects of carbon pricing on the poorest households and on developing countries, e.g., through mobilization of climate finance funds for less advanced economies. Policy coordination is essential for fostering green innovation, expediting the transition to cleaner technologies, and addressing negative externalities, particularly the implicit subsidy for CO2 emissions associated with traded goods. Multilateral efforts, including eliminating tariff escalation and addressing trade policy biases, are pivotal for advancing global environmental sustainability.
+
+Further equitable integration into the multilateral trading system can also help developing economies transition to a more sustainable growth path, while respecting their needs for economic development. New trading avenues are opening in renewable energy, particularly benefiting developing economies in Africa and the Middle East with abundant solar resources. To fully exploit renewable energy potential, access to technology through trade and technology transfer is essential. WTO simulations indicate that decarbonization could reshape energy exports, with developing economies potentially specializing in renewable energy. Additionally, there are opportunities for developing economies in the green transition by specializing in raw materials crucial for it, requiring sustainable practices and adherence to environmental regulations. Sustainable agriculture trade offers export opportunities, catering to global demands for environmentally and socially responsible products. 
+
+There is also an important role for trade-adjacent government policies in promoting climate action. Environmental tax and pricing systems, such as carbon taxes and "cap-and-trade" mechanisms, are effective policy tools to internalize the social cost of pollution emissions. These approaches aim to reduce the demand for carbon-intensive products, redirecting investments towards cleaner technologies and generating fiscal revenues for governments. A well-designed carbon pricing policy requires complementary measures to address differences in development status, distributional concerns and other market failures associated with the transition to a low-carbon economy. The global implementation of carbon pricing initiatives has seen over 70 policies covering 23 per cent of global emissions, with varying pricing levels ranging from over USD 140 per ton of CO2 emissions to less than USD 1 per tonne.
+
+The lack of coordination in environmental policies, such as carbon pricing and subsidies, can lead to more costly and less effective measures, including spillovers on trading partners. Uncoordinated environmental pricing schemes result in a patchwork of diverse regimes with varying levels of ambition, potentially hindering a cohesive response to global environmental challenges. Uncoordinated environmental policies can also have spillover impacts on trading partners, leading to rising trade concerns associated with environmental measures, particularly technical regulations and border carbon adjustment mechanisms. 
+
+Efforts to harmonize standards and mutual recognition within regional trade agreements are crucial to preventing policy fragmentation and enhancing the effectiveness of environmental policies. Unilateral environmental policies that negatively impact trading partners could lead to retaliatory measures, trade conflicts, and undermine the effectiveness of environmental policies. This lack of coordination poses systemic risks, setting a precedent of disregarding global trade rules and hindering international cooperation in addressing environmental challenges. Improved and transparent multilateral trading rules are essential to maximize positive spillovers and prevent negative consequences from environmental policies.
+4.3.	Social impacts of trade
+Inequality and trade
+
+Rising inequality in a number of countries is frequently ascribed to trade liberalization. Inequality is a product of an intricate interplay among economic, social, and political factors, with trade representing only one determinant. It has played a dual role: while it has contributed to reducing inequality among nations, it has fueled inequality within countries. The reduction of inequality among countries is due to the rise in per capita incomes, spurred by the opportunities presented by global markets, yet the benefits have not been universally shared. The exports of least developed countries (LDCs) and LLDCs, for instance, remain concentrated on commodities and low value-added goods, with no positive effect on employment and wages.
+
+Research suggests that middle classes in developed countries have benefitted the least from economic growth that took place between 1980 and 2020. As shown in figure 13, the two groups that have benefitted the most from the cumulative income growth in the 1980-2020 period are emerging middle classes in developing countries, notably China, and the top 1 per cent. At the same time, the global 1 per cent at the top of the income distribution has experienced a substantial income growth over this time frame, absorbing 23 per cent of global growth. Since the 2008/09 Financial crisis, this trend has leveled off, as there has been higher growth among the bottom 50 per cent and lower growth at the very top.
+
+Figure 13. Cumulated growth of per capita income across the global population: Elephant curve, 1980-2020  
+
+Source: World Inequality Report 2022
+
+The relationship depicted in Figure 13, sometimes referred to as Elephant curve, has been closely associated with an era of unprecedented trade acceleration and openness, particularly the 1990s and early 2000s. Trade openness has influenced inequality through diverse channels, including wages, market concentration, and geographic concentration. The fragmentation of production across nations tends to exacerbate wage disparities in both developed and developing countries. Market concentration, influenced by international trade as well as regulation, has fostered the dominance of large multinational enterprises, which leads to higher inequality because it disadvantages smaller firms and diminishes consumer leverage. Further increases in the market power of already-powerful firms could contribute to additional reductions in labor income shares. Furthermore, international trade has amplified spatial disparities by concentrating in some areas and diminishing prospects elsewhere, for example in rural areas or regions producing import competing goods. Yet, trade is not the only driver of these trends, with research pointing to skill-biased technological change acting as a major driver of inequalities. 
+
+Equalizing opportunities for people requires policies that promote the inclusion of disadvantaged groups, addressing distributional effects of trade transmitted through channels such as employment and wages, consumption, and public provision of goods and services. For instance, inclusion of labour rights in trade agreements could help extend the benefits of trade to workers in developing countries. Policy recommendations are also available for making trade beneficial for specific groups.  For example, concerning persons with disabilities, studies show the benefits of aligning trade rules with the rights of persons with disabilities, involving them actively in trade policy design and implementation, promoting targeted jobs, and facilitating the movement of assistive technologies across borders.
+
+Ensuring equal opportunities for firms, particularly small and medium-sized enterprises (SMEs), involves interventions that reduce trade costs and ease market access, for example by eliminating non-tariff barriers, promoting online trade, and removing barriers to services trade. In the agrifood sector, integrating smallholder farmers, which are largely marginalized within GVCs, into markets requires policies that will promote improved rural infrastructure and services. Effective competition laws, especially for e-commerce, are also imperative to mitigate the excessive power of large corporations, providing SMEs with a more level playing field. 
+Reducing inequality, must be complemented by domestic policies aimed at improving productivity, mitigating adjustment frictions, and compensating for losses. Governments should ensure that education and training opportunities are universally available, including to disadvantaged households, and that efficient safety nets cover those adversely affected by globalization, thus fostering equality of opportunity and social mobility. With regards to the private sector, policies promoting affordable financing and access to market information, and export promotion activities tailored to SMEs can facilitate their participation in the global market, either through exports or engagement in GVCs. 
+Gender-responsive trade policies 
+
+Making trade policies more responsive to gender issues improves gender equality in trade, supports poverty reduction and fosters sustainable growth. Recent World Bank analysis reveals that closing gender employment gaps could raise per capita GDP by almost 20 per cent, reaching 40 to 80 per cent in the Middle East, North Africa, and South Asia. Despite trade being a crucial source of economic opportunities for women, disparities persist, with male entrepreneurs being nearly twice as likely to internationalize their businesses. Recognizing this need, WTO members have increasingly incorporated gender issues into trade policies, with the creation of the Gender Research Hub in 2021, fostering a global network contributing significantly to research on women's economic empowerment in just two years.
+
+Female labour-intensive sectors face higher tariffs and greater trade costs and there are higher services trade restrictiveness in these sectors, and elevated trade costs related to face-to-face interaction in female labour-intensive industries. Studies suggest that the most effective policy solution to address this is through digitalization policies, which can substantially reduce the male wage premium by almost 1 percent, as well as service trade liberalization, which could have a modest impact. 
+
+Box 2: Gender dimension of e-commerce
+
+E-commerce promotes women’s economic empowerment through several benefits that support business growth and diversification (UNCTAD, 2023b).  E-commerce helps small businesses, among which women concentrate, increase customer numbers by making it possible to reach distant markets. E-commerce platforms lower barriers to market entry by providing an ecosystem of services, including marketing tools, payment services and logistics, that otherwise companies would need to outsource. Platforms provide also information on market access, customs procedures, shipping costs, market intelligence and data that are especially important for women entrepreneurs. A lack of such information is one of the persistent obstacles that women face in offline trade. Online trade provides both more time flexibility compared to offline trade and the ability to work from home. This i particularly valuable for women who shoulder the burden of unpaid domestic and care work. This also helps women overcome mobility constraints and reduce gender-based discrimination and violence. 
+There are also challenges for women-owned enterprises to reap the full benefits of e-commerce. Digital gender divides (figure 14) in developing and least developed countries put women entrepreneurs at a disadvantage while seeking to benefit from e-commerce. 
+
+Figure 14. Individuals using the Internet by country groups (percentage of male and female population)
+ 
+Source: UNCTAD calculation based on ITU (2022)
+
+Women entrepreneurs face obstacles such as limited business networks, lower levels of entrepreneurial skills, negative gender stereotypes and time poverty. They also face gender-based violence and harassment, common to both online and offline trade, in accessing the opportunities provided by e-commerce. They are a combination of pre-existing gender gaps compounded by gender digital divides in relation to access to technology and internet, access to education and digital skills, insufficient capital and access to finance and resulting in low profitability operating in low value-added sectors. 
+
+There are also policy-related constraints that undermine the potential benefits of e-commerce for women entrepreneurs. Several countries, especially developing ones, still lack data on how women businesses contribute to economic growth through e-commerce. Lack of data also undermines efforts to understand and address the specific obstacles that women entrepreneurs face in this area, and negatively affects the design of sound policies (UNCTAD, 2023). Most developing countries have not yet put in place comprehensive national digitalization strategies; in those countries that have developed them, gender considerations have rarely been mainstreamed.
+
+Several positive initiatives have been taken to lower the constraints faced by women entrepreneurs, as reviewed by UNCTAD (2023). For example, Jumia – a major online marketplace in Africa – developed its Women & Youth Empowerment Program to help women and youth build the local e-commerce market. WEConnect International brings large corporate, multilateral and government buyers together with women-owned suppliers around the world. UN Women has set up a digital platform – Buy from Women – that connects smallholder farmers (men and women) to the agricultural supply chain. Development partners are also active in this field. Among the many examples, UNCTAD eTrade for Women provides masterclasses that equip women entrepreneurs from developing countries with the skills necessary to operate in the digital landscape. From the policy angle, UNCTAD, through its online course on e-commerce from a gender and development perspective, supports policymakers to better understand the opportunities that e-commerce provides to women entrepreneurs, but also the challenges they face, and offers policy recommendations on how to leverage e-commerce for economic growth and women’s empowerment.   
+5.	Trade and development financing
+5.1.	Trade Finance: Trade finance gaps and instruments 
+
+Trade finance plays a crucial role in facilitating international trade, offering a low-risk mechanism where the shipped goods serve as collateral. The WTO estimates that 80 per cent or more of global merchandise trade depends on the provision of trade financing. Despite its importance, businesses in many developing countries encounter significant hurdles in obtaining trade finance, often due to exaggerated country risk perceptions. The inability to access trade finance not only hampers trading opportunities but also prevents companies from capitalizing on international markets for which they are otherwise well-prepared. 
+
+The global trade financing gap has increased sharply in recent years. The Asian Development Bank has estimated that global unmet demand for trade financing has increased to USD  2.5 trillion annually, from initial estimates eight years ago of USD 1.5 trillion per year. Moreover, current trade finance disproportionately favors established commodity exporters and bulk importers. SMEs on the other hand, especially those led by women, struggle with rejection rates exceeding 50 per cent. Many traders refrain from seeking trade finance in the first place, due to high costs, collateral requirements, and potential rejection risks. In West Africa, for instance, only 25 per cent of goods trade is covered by trade finance. Increasing this coverage to the continental average of 40 per cent could boost West Africa's annual trade flows by 8 per cent. 
+
+Figure 15. Global trade finance gap
+
+
+Trade finance serves as a crucial enabler for the dissemination of climate-related technologies and equipment. A deficiency in trade finance flows may result in delays or cancellations of significant climate-related initiatives. While data on the trade finance gap specifically for climate-related goods is limited, addressing this gap is essential to boost trade in products vital for transitioning to a low-carbon economy. The intersection of climate finance and Aid for Trade financing, particularly in renewable energy infrastructure, underscores the catalytic role of Aid for Trade and key stakeholders in mobilizing finance for green projects. Additionally, technical assistance from development agencies can focus on trade finance facilitation programs for developing economies, strengthening their financial institutions in this domain. This is particularly true for SMEs which require support in the form of climate strategy-building, for instance through the International Trade Center’s (ITC) Green performance toolkit, an online solution designed to enhance the environmental performance of small businesses.
+
+The provision of traditional trade finance has long been the purview of large international banks, yet private banks are not well positioned to narrow the trade finance gap for underserved firms, creating a key role for public actors. It is firms in developing and emerging markets, and SME suppliers that face the greatest challenges in accessing trade financing. These constituencies are most likely to be reached by institutions whose mandates are at least partly defined on the basis of policy or public good. These include some export credit agencies and multilateral development banks (MDBs). Multilateral development banks already play an important role in the provision of supply chain financing (SCF) in developing countries. MDBs are also uniquely positioned to respond to crisis situations such as trade and supply chain disruptions related to Covid-19. To further strengthen their role, there are several cross-MDB efforts to collaborate on issues of global and mutual interest in trade financing, including in collaboration with the WTO (box 3), including on issues such as risk sharing, co-financing, and capacity building. 
+
+5.2. Aid for trade
+
+Aid for Trade aims to support developing countries, particularly LDCs, to expand trade by building capacity and necessary infrastructure to implement and benefit from WTO agreements. Since 2006, commitments and disbursements of Aid for Trade have grown steadily (see Figure 16). In 2020, the most recent year for which data are available, global disbursements of Aid for Trade increased to $48.7 billion from $47.3 in 2019. Commitments have increased sharply to $64.6 billion, from their 2019 levels of $54.8 billion in 2019. 
+
+
+Figure 16. Trends in aid for trade
+
+Source: OECD/WTO data
+
+The 2022 Aid for Trade Monitoring and Evaluation (M&E) exercise took place amidst simultaneous crises of unprecedented magnitude, including the war in Ukraine, high food and energy prices, tighter monetary policies, supply chain disruptions and COVID-19.  Responses to the joint OECD-WTO M&E questionnaires, indicate a rise in the perceived importance of Aid for Trade, for both developing countries and donors. The next Aid-for-Trade Global Review, entitled Mainstreaming Trade, will be held at the WTO in Geneva in mid-2024. 
+
+In the face of various recent crises, Aid for Trade can act as a key facilitator of economic resilience and export diversification. Various studies have identified diversification as an important source of supply chain and economic resilience. Indeed, studies show that the degree of concentration of suppliers and products can amplify or dampen international shocks and that Aid for Trade can promote export diversification in order to advance economic growth through lower trade costs and higher diversification. A recent empirical study on the impact of Aid for Trade on export diversification, focusing on Sub-Saharan exports, concluded that Aid for Trade was conducive to export diversification. The findings suggest that Aid for Trade contributed to export diversification in Sub-Saharan Africa and imply that increasing Aid for Trade resources could be effective to promote further export diversification in order to advance economic growth through lower trade costs and higher diversification. Aid for Trade has also had positive impacts on FDI inflows, and could support more diversified inflows. 
+
+Aid for Trade increasingly takes SDG considerations into account. Responses to the 2022 Aid for Trade Monitoring and Evaluation (M&E) exercise by the OECD and WTO suggest a shift towards sustainability considerations, including climate and gender equality, pointing to the potential of Aid for Trade to further support progress towards the SDGs. This new emphasis is also partly due to growing demands embodied in international commitments, notably the Paris Agreement. In 2020, 51 per cent of Aid for Trade commitments included climate-related objectives, representing 56 per cent of total climate-related ODA commitments in 2020. LDCs and other LICs are the primary beneficiaries, accounting for 37 per cent of total climate-related commitments made in Aid for Trade sectors. 
+
+While Aid for Trade disbursements with climate objectives reached USD 15 billion in 2020, constituting 31 per cent of total Aid for Trade, only a limited portion (12 per cent) was allocated to adaptation projects. Notably, these projects focused on agriculture (54 per cent), energy, transport, banking, and forestry sectors (Figure 17). Despite the relative scarcity of funds, projects like those supported by the Enhanced Integrated Framework (EIF) showcase the potential of adaptation investments to enhance resilience and inclusivity. Strengthening the integration of trade dimensions into national adaptation strategies and fostering alignment between Aid for Trade and climate finance programs could further optimize support for climate change adaptation in developing countries. 
+
+Figure 17. Aid for Trade Disbursements, Climate Change Adaptation and Agriculture
+
+Source: WTO, 2022
+
+
+

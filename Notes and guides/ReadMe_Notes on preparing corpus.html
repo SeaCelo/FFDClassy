@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/><meta name="exporter-version" content="Evernote Mac 6.5 (453172)"/><meta name="keywords" content="mallet, topic model"/><meta name="altitude" content="11.39499568939209"/><meta name="author" content="Marcelo"/><meta name="created" content="2015-06-17 17:50:13 +0000"/><meta name="latitude" content="40.74940604839433"/><meta name="longitude" content="-73.96745829585061"/><meta name="source" content="desktop.mac"/><meta name="updated" content="2016-03-10 21:27:39 +0000"/><title>Steps to run topic model using mallet and others</title></head><body>
+<div>Following this guide: <a href="http://mallet.cs.umass.edu/topics.php">http://mallet.cs.umass.edu/topics.php</a></div>
+<ol>
+<li>download all files</li>
+</ol>
+<div>           <span style="font: 12.0px 'Andale Mono'; font-variant-ligatures: no-common-ligatures; color: #29f914; background-color: #000000">wget -r -np -k -A.pdf <a href="http://www.un.org/en/development/desa/policy/">http://www.un.org/en/development/desa/policy/</a></span></div>
+<ol>
+<li>convert to .txt</li>
+</ol>
+<div>          use automator action.</div>
+<div>          Ensure that file encodings are utf-8. This is important, it seems.</div>
+<div>               <span style="color: rgb(0, 51, 153); font-family: 'Trebuchet MS', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, Arial, Helvetica, Geneva, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(250, 250, 250); float: none;">textutil -convert txt -encoding UTF-8 *.txt    &lt;&lt;&lt;note the need to be in the right path</span></div>
+<ul>
+<li>filter files (language, etc)
+<ul>
+<li>note the file “extra-exclude-words.txt” that has a space separated list of terms I want to exclude. This was created for DPAD topics. Edit or create another as needed and include in the import-dir command.</li>
+</ul>
+</li>
+</ul>
+<div><span style="font-size: 18px;"><br/></span></div>
+<div><span style="font-size: 18px;">To clean up the text:</span></div>
+<div><i>Note: The steps below are a collection of all commands and steps used. They were <u>not</u> applied to all texts. This should serve as a compilation of useful commands. It should not be applied blindly as text may (will!) be lost in some cases (some of the regex commands are destructive and need care)</i></div>
+<div><br/></div>
+<div>TextWrangler is useful for some of these since it has batch feature</div>
+<div>
+<div><u>IMPORTANT</u>: sed seems to not like -cr- line endings. Need to convert them to -crlf- (or just -lf-?). I used the -tr- command, but there are other options. </div>
+<div>                          <span style="font: 10.0px Monaco; font-variant-ligatures: no-common-ligatures; color: #29f914; background-color: #000000">tr '\r' '\n' &lt; WDR_2014.txt  &gt; WDR_2014_crlf.txt </span></div>
+<div>          For all files in a directory:</div>
+<div>                         <span style="font: 10.0px Monaco; font-variant-ligatures: no-common-ligatures; color: #29f914; background-color: #000000">for f in *.txt; do tr '\r' '\n' &lt; $f &gt; "$(basename $f .txt)-out.txt" ; done</span></div>
+</div>
+<ul>
+<li>Need to remove initial and end text (title, isbn, etc). </li>
+<li>Remove Index and other text</li>
+<li>In TextWranger: “normalize line endings"</li>
+<li>There are some bad ascii characters also. Some search terms using the grep method:
+<ul>
+<li>ascii 0 (null): \x{0}</li>
+<li>page numbers:  \d(plus a line ending return)  ; \d\d(plus a line ending return)  ; etc for &gt;99 pages</li>
+<li>need to remove hyphens and hyphens with line breaks</li>
+</ul>
+</li>
+<li>Run sed if needed to batch change text files. careful to ensure you only impact the right parts of the text. Sed is greedy.  
+<ul>
+<li><span style="font: 12.0px 'Andale Mono'; font-variant-ligatures: no-common-ligatures; color: #29f914; background-color: #000000">for i in *.txt; do  sed -i .bk '1,/\/papers/ d' $i;done</span>     &lt;&lt;this will replace from beginning “1” until it finds “/papers” and delete “d” the line.</li>
+<li><span style="font: 12.0px 'Andale Mono'; font-variant-ligatures: no-common-ligatures; color: #29f914; background-color: #000000">sed -i .bk '/Bibliography/,$d' conflict.txt </span>  &lt;&lt;this will delete from “Bibliography” until the end “ ,$”  and delete “d” </li>
+<li>   <span style="background-color: rgb(0, 0, 0);"><font color="#29F914" face="Andale Mono" size="2">sed -i .bk '/Contents/,/Chapter 1/d’</font></span>     &lt;&lt;this will delete everything between "Contents" and “Chapter 1”, inclusive.</li>
+<li>Table[\w\W]*?Source:    &lt;&lt; select text between strings in TextWrangler (careful)</li>
+<li>[\w\W]*?(?=^\d{2}\s\w*\s\d{4})    &lt;&lt; Select all text from beginning until (not-including) date string with this pattern. Can change regex to match any pattern.</li>
+<li><span style="color: rgb(34, 34, 34); font-family: Consolas, Menlo, Monaco, 'Lucida Console', 'Liberation Mono', 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Courier New', monospace, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: left; text-indent: 0px; text-transform: none; white-space: pre-wrap; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(238, 238, 238); float: none;">(?&lt;=[a-z])\r</span>            &lt;&lt; select new line (\r or \n as needed) that is not preceeded by a period (to join broken lines) in TextWrangler (careful). Still needs to check for a capital letter in next line</li>
+<li>(?&lt;=[a-z])\r(?=^[a-z])    &lt;&lt; this matches crlf that is followed by new line in lowercase. In TextWrangler the option to make it case sensitive is important</li>
+<li>-\r(?=^[a-z])                &lt;&lt;find hyphenated end of lines followed by lowercase next lines.</li>
+<li>Prepared by:(\s|.)*    &lt;&lt;match from “Prepared by:” until the end of file in TextWranger. Useful for the policy briefs</li>
+<li>^Source(:|s:)[\w\W]*?$      &lt;&lt; removes lines that start with “Source:” or “Sources:"</li>
+<li>^[A-Z\s]+$                         &lt;&lt;remove lines where all words are uppercase </li>
+<li>^[A-Z\s]+\d\d\d$                &lt;&lt;if the line ends with a 3-digit page number</li>
+<li>^[-A-Z\s]+\d\d\d$             &lt;&lt;same, with hyphens</li>
+<li>^See\s.*$                           &lt;&lt;delete line that starts with “See “</li>
+<li>^[a-z]\s.*$                          &lt;&lt;delete lines that start with a single lower case. These are notes and footnotes  </li>
+<li>URL regex:    </li>
+</ul>
+</li>
+</ul>
+<div>
+<div>(?i)\b((?:[a-z][\w-]+:(?:\/{1,3}|[a-z0-9%])|www\d{0,3}[.]|[a-z0-9.\-]+[.][a-z]{2,4}\/)(?:[^\s()&lt;&gt;]+|\(([^\s()&lt;&gt;]+|(\([^\s()&lt;&gt;]+\)))*\))+(?:\(([^\s()&lt;&gt;]+|(\([^\s()&lt;&gt;]+\)))*\)|[^\s`!()\[\]{};:'".,&lt;&gt;?«»“”‘’]))</div>
+</div>
+<div><br/></div>
+<ul>
+<li style="display:inline;list-style:none;">
+<ul>
+<li>\(([^)]+)\)      &lt;&lt;parenthesis to delete references, etc. Careful with notes and comments</li>
+</ul>
+</li>
+</ul>
+<div>
+<hr/></div>
+<div><br/></div>
+
+</body></html>

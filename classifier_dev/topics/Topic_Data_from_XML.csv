@@ -1,0 +1,601 @@
+Topic ID,Titles,Type,Text,Weight,Count
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",word,trade,0.034696554,291
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",word,services,0.005126982,43
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",word,exports,0.004411589,37
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",word,aid,0.0033385,28
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",word,aid_trade,0.003219268,27
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",word,economies,0.003100036,26
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",word,export,0.002980804,25
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",word,agreements,0.002980804,25
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",word,goods,0.002742339,23
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",word,women,0.002742339,23
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",word,iias,0.002623107,22
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",word,environmental,0.002623107,22
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",word,gvcs,0.002503875,21
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",word,growth,0.002503875,21
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",word,commerce,0.002384643,20
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",word,cooperation,0.002265411,19
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",word,unctad,0.002265411,19
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",word,rtas,0.002146179,18
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",word,carbon,0.002146179,18
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",word,developing_economies,0.002026946,17
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",word,renewable,0.002026946,17
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",word,participation,0.002026946,17
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",word,multilateral,0.002026946,17
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",word,trade_finance,0.001907714,16
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",word,international_trade,0.001788482,15
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",word,generation,0.001788482,15
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",word,trading,0.00166925,14
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",word,facilitation,0.00166925,14
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",word,diversification,0.00166925,14
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",word,provisions,0.00166925,14
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",phrase,trade aid_trade,0.005908419,8
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",phrase,international_investment agreements,0.003692762,5
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",phrase,greenhouse_gas emissions,0.002215657,3
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",phrase,level_development region,0.001477105,2
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",phrase,share_world trade,0.001477105,2
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",phrase,greenhouse reduce_greenhouse,0.001477105,2
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",phrase,investor_state dispute state_dispute settlement,0.001477105,2
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",phrase,rising_inequalities prompted inequalities_prompted,0.001477105,2
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",phrase,marginalized_international trade,0.001477105,2
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",phrase,trade provision_trade,0.001477105,2
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",phrase,trade regional_trade agreements,0.001477105,2
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",phrase,impact_technological digitalization,0.001477105,2
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",phrase,benefits_digital trade,0.001477105,2
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",phrase,corporate_social responsibility,0.001477105,2
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",phrase,diversification_order advance order_advance,0.001477105,2
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",phrase,latin economies_latin,0.001477105,2
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",phrase,integrated_economy freer economy_freer trade,0.001477105,2
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",phrase,trade_depends provision,0.001477105,2
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",phrase,trade_finance gap,0.001477105,2
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",phrase,growth_declines trade declines_trade openness trade_openness,0.001477105,2
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",phrase,increased_fragmentation erosion,0.001477105,2
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",phrase,deceleration_growth trade,0.001477105,2
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",phrase,gvcs manufactures_gvcs participation,0.001477105,2
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",phrase,growth_lower trade lower_trade,0.001477105,2
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",phrase,women_economic empowerment,0.001477105,2
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",phrase,digitally trade_digitally deliverable digitally_deliverable services,0.001477105,2
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",phrase,gender_discrimination violence,7.39E-04,1
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",phrase,sustainable_investment facilitation,7.39E-04,1
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",phrase,growth_evidence reductions,7.39E-04,1
+0,"trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias",phrase,evolution_exports services,7.39E-04,1
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",word,rural,0.002289902,20
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",word,inflation,0.002060911,18
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",word,industrial_policy,0.001946416,17
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",word,water,0.001602931,14
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",word,industrial_transformations,0.001488436,13
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",word,sng,0.001488436,13
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",word,international_support,0.001488436,13
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",word,urban,0.001373941,12
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",word,action_sdgs,0.001373941,12
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",word,risk_insurance,0.001259446,11
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",word,fiscal_capacity,0.001259446,11
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",word,achieving,0.001259446,11
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",word,public_finances,0.001030456,9
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",word,cloud,0.001030456,9
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",word,policy_options,0.001030456,9
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",word,medium,0.001030456,9
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",word,prevention_risk,9.16E-04,8
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",word,reaffirm,9.16E-04,8
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",word,societies,9.16E-04,8
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",word,managed,9.16E-04,8
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",word,agro,8.01E-04,7
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",word,disbursing,8.01E-04,7
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",word,subsidized,8.01E-04,7
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",word,industrial_development,8.01E-04,7
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",word,nationally,8.01E-04,7
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",word,risk_return,8.01E-04,7
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",word,clean,8.01E-04,7
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",word,sudden,8.01E-04,7
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",word,policy_space,8.01E-04,7
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",word,skilled,8.01E-04,7
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",phrase,suspension service_suspension,0.00511509,2
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",phrase,cloud technologies_cloud,0.00511509,2
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",phrase,subsidizing_production inputs,0.00511509,2
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",phrase,benign managing_benign,0.00511509,2
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",phrase,determining important_determining,0.00511509,2
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",phrase,areas_spending mobilized,0.002557545,1
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",phrase,services_inputs procured,0.002557545,1
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",phrase,hit_shocks akin,0.002557545,1
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",phrase,downward fluctuations_downward,0.002557545,1
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",phrase,countercyclical_measures aimed,0.002557545,1
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",phrase,risk_correlations thin,0.002557545,1
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",phrase,infectious crises_infectious,0.002557545,1
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",phrase,sng developing_sng,0.002557545,1
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",phrase,clean domestic_clean,0.002557545,1
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",phrase,stagnant combined_stagnant productivity,0.002557545,1
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",phrase,law_remains expensive,0.002557545,1
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",phrase,investments_suffers mentioned,0.002557545,1
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",phrase,access_credit micro,0.002557545,1
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",phrase,cooperatives_farmers networks,0.002557545,1
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",phrase,external_interest expenses interest_expenses incurred,0.002557545,1
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",phrase,macroeconomic_constraints expensive,0.002557545,1
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",phrase,desirable adoption_desirable,0.002557545,1
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",phrase,lending_msmes hindered,0.002557545,1
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",phrase,covid_response subregional,0.002557545,1
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",phrase,engage_market arbitrage,0.002557545,1
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",phrase,developed_proportion urban proportion_urban,0.002557545,1
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",phrase,sector_promote rural,0.002557545,1
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",phrase,destruction_carefully managed,0.002557545,1
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",phrase,stabilization fluctuations_stabilization,0.002557545,1
+1,"rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance",phrase,technological_organizational managerial,0.002557545,1
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",word,sngs,0.002492685,23
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",word,structural_transformation,0.002384307,22
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",word,risk_informed,0.002275929,21
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",word,public_investment,0.002275929,21
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",word,reduction_resilience,0.002059174,19
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",word,enabling_environment,0.001734041,16
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",word,political_risk,0.001517286,14
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",word,resilient_infrastructure,0.001408909,13
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",word,investments_sustainable,0.001300531,12
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",word,computing,0.001192153,11
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",word,private_investments,0.001192153,11
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",word,hazard,0.001192153,11
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",word,digital_economy,0.001192153,11
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",word,good_governance,0.001192153,11
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",word,risk_landscape,0.001083776,10
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",word,unemployment,0.001083776,10
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",word,policy_space,0.001083776,10
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",word,levels_debt,9.75E-04,9
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",word,miga,9.75E-04,9
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",word,finances,9.75E-04,9
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",word,investments_prevention,9.75E-04,9
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",word,ppp,9.75E-04,9
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",word,financial_returns,9.75E-04,9
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",word,preparedness,9.75E-04,9
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",word,inclusive_sustainable,9.75E-04,9
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",word,fiscal_policy,9.75E-04,9
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",word,shared_priorities,8.67E-04,8
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",word,stimulate,8.67E-04,8
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",word,public_balance,8.67E-04,8
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",word,understood,8.67E-04,8
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",phrase,hazard multi_hazard,0.007407407,3
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",phrase,dampening aimed_dampening,0.004938272,2
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",phrase,divide finance_divide,0.004938272,2
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",phrase,governments_risk bearer,0.004938272,2
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",phrase,computing cloud_computing,0.004938272,2
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",phrase,devices_internet things,0.004938272,2
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",phrase,famous kuznets_famous proposition,0.004938272,2
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",phrase,countercyclical play_countercyclical,0.004938272,2
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",phrase,desired_direction underpinned,0.004938272,2
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",phrase,informed risk_informed,0.004938272,2
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",phrase,ultimate deviations_ultimate,0.002469136,1
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",phrase,spotlight_dur valverde,0.002469136,1
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",phrase,levels_debt downside,0.002469136,1
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",phrase,policy_long plagued,0.002469136,1
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",phrase,national_local developmental,0.002469136,1
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",phrase,european_bank converted,0.002469136,1
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",phrase,powerful_actors protect,0.002469136,1
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",phrase,disruptions_drove food,0.002469136,1
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",phrase,goods_represented bits,0.002469136,1
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",phrase,unique_properties characterize properties_characterize,0.002469136,1
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",phrase,sngs potentially_sngs,0.002469136,1
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",phrase,historically_including ceilings,0.002469136,1
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",phrase,market_failures routine,0.002469136,1
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",phrase,promote_national youth,0.002469136,1
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",phrase,nested images_nested,0.002469136,1
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",phrase,share_lending sovereigns,0.002469136,1
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",phrase,partially_estimated ultra,0.002469136,1
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",phrase,related_risk aversion,0.002469136,1
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",phrase,harder_governments borrow,0.002469136,1
+2,"sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing",phrase,replicable provide_replicable,0.002469136,1
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",word,data,0.022209291,229
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",word,sustainable,0.005140142,53
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",word,esg,0.004558239,47
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",word,sustainability,0.004558239,47
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",word,indicators,0.004170304,43
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",word,sustainable_finance,0.003879352,40
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",word,statistical,0.003879352,40
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",word,statistics,0.003879352,40
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",word,standards,0.003491417,36
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",word,companies,0.003006498,31
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",word,investing,0.00281253,29
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",word,legislation,0.002715547,28
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",word,progress,0.002424595,25
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",word,goal,0.002327611,24
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",word,private_sector,0.002327611,24
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",word,fdi,0.002230627,23
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",word,business,0.002230627,23
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",word,disclosure,0.00203666,21
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",word,gdp,0.00203666,21
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",word,asset,0.001745708,18
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",word,gaps,0.001648725,17
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",word,impact,0.001648725,17
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",word,goal_goal,0.001551741,16
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",word,dgi,0.001551741,16
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",word,trends,0.001551741,16
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",word,bonds,0.001551741,16
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",word,indicator,0.001454757,15
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",word,materiality,0.001357773,14
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",word,sustainable_investing,0.001260789,13
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",word,spi,0.001260789,13
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",phrase,sustainable_finance legislation,0.004787552,8
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",phrase,goal_goal goal,0.004787552,8
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",phrase,materiality double_materiality,0.002393776,4
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",phrase,sector_investment lab,0.001795332,3
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",phrase,data data_data,0.001795332,3
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",phrase,statistical_performance index,0.001795332,3
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",phrase,oecd_revenue statistics,0.001795332,3
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",phrase,government_finance statistics,0.001795332,3
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",phrase,business_sector arise,0.001196888,2
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",phrase,statistical scores_statistical,0.001196888,2
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",phrase,consolidation_voluntary standards,0.001196888,2
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",phrase,adults_remain unbanked,0.001196888,2
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",phrase,accounting_standards board,0.001196888,2
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",phrase,crafted_avoid distortions,0.001196888,2
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",phrase,statistical data_statistical,0.001196888,2
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",phrase,growing_political polarization,0.001196888,2
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",phrase,statistical national_statistical offices,0.001196888,2
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",phrase,sustainable_investment alliance,0.001196888,2
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",phrase,business_models asset,0.001196888,2
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",phrase,business private_business,0.001196888,2
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",phrase,favor continue_favor,0.001196888,2
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",phrase,statistical_performance indicators,0.001196888,2
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",phrase,data_sdg indicator,0.001196888,2
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",phrase,standards_board issb,0.001196888,2
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",phrase,note_data pillars,0.001196888,2
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",phrase,sustainability_reporting standards,0.001196888,2
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",phrase,data address_data,0.001196888,2
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",phrase,citizen_generated data,0.001196888,2
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",phrase,data_services pillar,0.001196888,2
+3,"data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies",phrase,statistics data_statistics,0.001196888,2
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",word,tax,0.028128872,227
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",word,revenue,0.01016109,82
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",word,taxes,0.004337051,35
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",word,information,0.004213135,34
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",word,carbon,0.003593556,29
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",word,international_tax,0.003469641,28
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",word,social,0.003345725,27
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",word,social_protection,0.003097893,25
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",word,systems,0.003097893,25
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",word,jurisdictions,0.002973978,24
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",word,corruption,0.002850062,23
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",word,administration,0.002726146,22
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",word,political,0.002726146,22
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",word,domestic,0.00260223,21
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",word,tax_cooperation,0.002478315,20
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",word,oecd,0.002478315,20
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",word,asset,0.002354399,19
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",word,forum,0.002354399,19
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",word,fuel,0.002354399,19
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",word,cooperation,0.002354399,19
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",word,asset_recovery,0.002230483,18
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",word,pricing,0.002230483,18
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",word,exchange,0.002230483,18
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",word,ownership,0.002106568,17
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",word,iffs,0.001982652,16
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",word,beneficial,0.001982652,16
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",word,corporate,0.001982652,16
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",word,protection,0.001982652,16
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",word,member,0.001982652,16
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",word,mobilization,0.001982652,16
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",phrase,exchange_information tax information_tax purposes,0.002542912,4
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",phrase,protection social_protection,0.001907184,3
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",phrase,forum_transparency exchange,0.001907184,3
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",phrase,international_tax cooperation,0.001907184,3
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",phrase,asset_recovery return,0.001271456,2
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",phrase,domestic_public revenue public_revenue mobilization,0.001271456,2
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",phrase,corruption anti_corruption,0.001271456,2
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",phrase,growing_importance conviction,0.001271456,2
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",phrase,corporate_income taxes,0.001271456,2
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",phrase,digital_services taxes,0.001271456,2
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",phrase,taxes_emissions trading,0.001271456,2
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",phrase,tax cooperation_tax matters,0.001271456,2
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",phrase,full_support member,0.001271456,2
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",phrase,tax administration_tax,0.001271456,2
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",phrase,financial_account information,0.001271456,2
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",phrase,international_tax norms,0.001271456,2
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",phrase,forums_jurisdictions oecd,0.001271456,2
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",phrase,flight_corruption proceeds,6.36E-04,1
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",phrase,unrelated_parties payments,6.36E-04,1
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",phrase,formation_national pdbs,6.36E-04,1
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",phrase,information_sending receiving sending_receiving,6.36E-04,1
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",phrase,trading_evolution revenues,6.36E-04,1
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",phrase,taxation_developing decade,6.36E-04,1
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",phrase,treatment_fossil fuel fossil_fuel consumption,6.36E-04,1
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",phrase,mnes_rules profit rules_profit attribution,6.36E-04,1
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",phrase,ongoing_decade yield,6.36E-04,1
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",phrase,implications_ability raise ability_raise revenue,6.36E-04,1
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",phrase,revenue specific_revenue increases,6.36E-04,1
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",phrase,estimates_multiple iff multiple_iff,6.36E-04,1
+4,"tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions",phrase,cit_important revenue,6.36E-04,1
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",word,debt,0.052740649,509
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",word,creditors,0.005802508,56
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",word,external,0.005595275,54
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",word,sovereign,0.005284426,51
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",word,service,0.004766345,46
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",word,imf,0.004559113,44
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",word,debt_service,0.004351881,42
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",word,public_debt,0.003937416,38
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",word,debt_management,0.003730183,36
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",word,restructurings,0.003212102,31
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",word,lics,0.003212102,31
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",word,restructuring,0.00300487,29
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",word,bonds,0.00300487,29
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",word,sovereign_debt,0.002797638,27
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",word,creditor,0.002797638,27
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",word,external_debt,0.002486789,24
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",word,distress,0.002383173,23
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",word,burdens,0.002279557,22
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",word,management,0.00217594,21
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",word,service_burdens,0.00217594,21
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",word,debt_restructurings,0.001968708,19
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",word,gdp,0.001865092,18
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",word,bank,0.001865092,18
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",word,vulnerabilities,0.001865092,18
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",word,domestic,0.001761475,17
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",word,debt_distress,0.001761475,17
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",word,world_bank,0.001761475,17
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",word,domestic_debt,0.001657859,16
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",word,architecture,0.001657859,16
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",word,debt_restructuring,0.001657859,16
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",phrase,debt_crisis prevention,0.004316547,6
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",phrase,calculations_world bank world_bank,0.002877698,4
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",phrase,assessed_risk debt risk_debt distress,0.002158273,3
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",phrase,creditor_coordination challenges,0.002158273,3
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",phrase,put repayments_put,0.001438849,2
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",phrase,debt_related publications,0.001438849,2
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",phrase,external service_external,0.001438849,2
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",phrase,development_centered debt centered_debt sovereign debt_sovereign workout sovereign_workout,0.001438849,2
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",phrase,creditor private_creditor,0.001438849,2
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",phrase,staff_calculations imf calculations_imf,0.001438849,2
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",phrase,financing_conditions translated,0.001438849,2
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",phrase,suspension_initiative dssi,0.001438849,2
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",phrase,current_account deficits,0.001438849,2
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",phrase,sustainability_linked bonds,0.001438849,2
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",phrase,imf_october weo october_weo database,0.001438849,2
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",phrase,external_public publicly public_publicly guaranteed publicly_guaranteed debt,0.001438849,2
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",phrase,imf_supported program,0.001438849,2
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",phrase,live_governments spend,0.001438849,2
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",phrase,debt debt_debt,0.001438849,2
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",phrase,swaps_credit enhancements,0.001438849,2
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",phrase,bank_international debt international_debt statistics debt_statistics database,0.001438849,2
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",phrase,debt developing_debt,0.001438849,2
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",phrase,mechanism_overcome creditor overcome_creditor,0.001438849,2
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",phrase,spend_interest payments,0.001438849,2
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",phrase,debt bank_debt,0.001438849,2
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",phrase,debt_climate vicious climate_vicious cycle,0.001438849,2
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",phrase,bank_international debt international_debt statistics debt_statistics,0.001438849,2
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",phrase,debt management_debt transparency,0.001438849,2
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",phrase,debt_climate vulnerabilities,0.001438849,2
+5,"debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings",phrase,sdg_stimulus ifa stimulus_ifa,7.19E-04,1
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",word,financial,0.014023882,101
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",word,imf,0.009441822,68
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",word,banks,0.006387115,46
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",word,reserves,0.00430436,31
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",word,payments,0.00416551,30
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",word,reserve,0.003054707,22
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",word,arrangements,0.003054707,22
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",word,reforms,0.003054707,22
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",word,sdrs,0.002915857,21
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",word,banking,0.002777006,20
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",word,basel,0.002638156,19
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",word,sdr,0.002638156,19
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",word,lines,0.002221605,16
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",word,lending,0.002221605,16
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",word,financial_safety,0.002082755,15
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",word,safety,0.002082755,15
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",word,member,0.002082755,15
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",word,cbdc,0.001943904,14
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",word,supervision,0.001943904,14
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",word,financial_economic,0.001943904,14
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",word,world_financial,0.001943904,14
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",word,capital_flows,0.001943904,14
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",word,financial_stability,0.001943904,14
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",word,payment,0.001943904,14
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",word,financing_development,0.001943904,14
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",word,gfsn,0.001805054,13
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",word,regulation,0.001805054,13
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",word,swap,0.001805054,13
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",word,liquidity,0.001805054,13
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",word,cross_border,0.001666204,12
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",phrase,regional_financing arrangements,0.002909796,3
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",phrase,bank_financial intermediation,0.002909796,3
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",phrase,standard_setting bodies,0.002909796,3
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",phrase,wake_world financial,0.001939864,2
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",phrase,financial_safety imf,0.001939864,2
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",phrase,banking committee_banking supervision,0.001939864,2
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",phrase,rapid_credit facility,0.001939864,2
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",phrase,larger_role sdr,0.001939864,2
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",phrase,reserve_currency issuer,0.001939864,2
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",phrase,adjustment_providing flexible,0.001939864,2
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",phrase,climate_related financial related_financial,0.001939864,2
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",phrase,mai_initiative multilateralization,0.001939864,2
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",phrase,correspondent_banking relationships,0.001939864,2
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",phrase,financial regulation_financial,0.001939864,2
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",phrase,systemically_important banks,0.001939864,2
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",phrase,drawing_rights sdrs,0.001939864,2
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",phrase,advanced_economy banks,0.001939864,2
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",phrase,bilateral_swap arrangements,0.001939864,2
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",phrase,recent_banking turmoil,9.70E-04,1
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",phrase,plumbing_economic transactions,9.70E-04,1
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",phrase,safety_size composition,9.70E-04,1
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",phrase,capital_flows cross,9.70E-04,1
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",phrase,coordination_policy coherence policy_coherence,9.70E-04,1
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",phrase,analysis_developing regulatory developing_regulatory,9.70E-04,1
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",phrase,imf_surcharges apply,9.70E-04,1
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",phrase,funds_assets tripled,9.70E-04,1
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",phrase,document_international standards,9.70E-04,1
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",phrase,bank_accounts overwhelming accounts_overwhelming,9.70E-04,1
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",phrase,floating rates_floating currency,9.70E-04,1
+6,"financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel",phrase,aims_provide financial provide_financial,9.70E-04,1
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",word,development,0.011649838,803
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",word,financial,0.008313022,573
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",word,risk,0.007457057,514
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",word,public,0.007428041,512
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",word,developing,0.007428041,512
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",word,financing,0.007355501,507
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",word,international,0.006688138,461
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",word,sustainable,0.006557567,452
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",word,investment,0.006528552,450
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",word,risks,0.005861188,404
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",word,policy,0.005759633,397
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",word,climate,0.00516481,356
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",word,economic,0.005135794,354
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",word,finance,0.004976207,343
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",word,including,0.004932683,340
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",word,support,0.004323352,298
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",word,investments,0.00378656,261
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",word,private,0.003670497,253
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",word,world,0.003583449,247
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",word,growth,0.003554434,245
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",word,policies,0.00351091,242
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",word,term,0.003336815,230
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",word,national,0.003293292,227
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",word,capital,0.003177228,219
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",word,data,0.003177228,219
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",word,digital,0.003104689,214
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",word,sector,0.003075673,212
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",word,social,0.002988626,206
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",word,sustainable_development,0.002930594,202
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",word,income,0.002858055,197
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",phrase,development public_development banks,0.002590415,26
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",phrase,conference_financing development,0.001594102,16
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",phrase,risk_reduction resilience,0.00149447,15
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",phrase,important play_important role,0.001394839,14
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",phrase,development sustainable_development goals,0.001195576,12
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",phrase,international fourth_international conference,0.001195576,12
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",phrase,term long_term investments,9.96E-04,10
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",phrase,term long_term,8.97E-04,9
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",phrase,climate_action sdgs,8.97E-04,9
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",phrase,term long_term financing,7.97E-04,8
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",phrase,development multilateral_development banks,7.97E-04,8
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",phrase,protection social_protection systems,7.97E-04,8
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",phrase,term long_term finance,6.97E-04,7
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",phrase,private public_private investments,6.97E-04,7
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",phrase,economic financial_economic crisis,6.97E-04,7
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",phrase,development sustainable_development,6.97E-04,7
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",phrase,industrial sustainable_industrial policies,6.97E-04,7
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",phrase,private public_private,6.97E-04,7
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",phrase,island small_island developing,5.98E-04,6
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",phrase,international_conference financing,5.98E-04,6
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",phrase,industrial sustainable_industrial transformations,5.98E-04,6
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",phrase,gender_equality women,5.98E-04,6
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",phrase,finance development_finance institutions,5.98E-04,6
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",phrase,pandemic pre_pandemic levels,5.98E-04,6
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",phrase,related climate_related,5.98E-04,6
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",phrase,development sustainable_development strategies,5.98E-04,6
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",phrase,term short_term incentives,5.98E-04,6
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",phrase,private public_private actors,5.98E-04,6
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",phrase,industrial sustainable_industrial transformation,5.98E-04,6
+7,"development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy",phrase,action_areas addis areas_addis agenda,4.98E-04,5
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",word,technology,0.012952159,111
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",word,ai,0.008984831,77
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",word,fintech,0.007584597,65
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",word,sti,0.007351225,63
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",word,technologies,0.006417736,55
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",word,innovation,0.00630105,54
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",word,technological,0.006067678,52
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",word,data,0.003500583,30
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",word,competition,0.002567095,22
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",word,diffusion,0.002567095,22
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",word,frontier,0.002450408,21
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",word,privacy,0.002333722,20
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",word,generative_ai,0.00210035,18
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",word,generative,0.00210035,18
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",word,science,0.001866978,16
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",word,adoption,0.001633606,14
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",word,sti_policy,0.001516919,13
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",word,knowledge,0.001516919,13
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",word,advances,0.001516919,13
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",word,cooperation,0.001516919,13
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",word,automation,0.001400233,12
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",word,mobile,0.001400233,12
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",word,technology_diffusion,0.001400233,12
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",word,personal,0.001400233,12
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",word,science_technology,0.001400233,12
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",word,platforms,0.001283547,11
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",word,consumer,0.001283547,11
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",word,female,0.001283547,11
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",word,models,0.001283547,11
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",word,fintech_firms,0.001166861,10
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",phrase,technology_innovation sti,0.001948052,3
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",phrase,market_stability competition,0.001948052,3
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",phrase,culture_social norms,0.001948052,3
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",phrase,consumer competition_consumer privacy,0.001948052,3
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",phrase,science_technology innovation,0.001948052,3
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",phrase,privacy_financial integrity,0.001948052,3
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",phrase,norms_gender transformative gender_transformative,0.001298701,2
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",phrase,frontier footprint_frontier technologies,0.001298701,2
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",phrase,erode_public trust,0.001298701,2
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",phrase,technology innovation_technology diffusion technology_diffusion,0.001298701,2
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",phrase,seed_funds venture funds_venture,0.001298701,2
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",phrase,competition_protection intellectual protection_intellectual property intellectual_property,0.001298701,2
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",phrase,formulation_international sti international_sti,0.001298701,2
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",phrase,sti development_sti,0.001298701,2
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",phrase,increasing_complexity technologies,0.001298701,2
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",phrase,safeguarding_people wellbeing,0.001298701,2
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",phrase,diminish_international technology international_technology spillover,0.001298701,2
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",phrase,technology innovation_technology diffusion,0.001298701,2
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",phrase,innovation_activities inherently activities_inherently hinder,0.001298701,2
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",phrase,innovation concentration_innovation,0.001298701,2
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",phrase,rapid_evolution technology evolution_technology frontier,0.001298701,2
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",phrase,cross_border transactions,0.001298701,2
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",phrase,privacy security_privacy online,0.001298701,2
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",phrase,fossil_fuel fired fuel_fired,0.001298701,2
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",phrase,fintech data_fintech,0.001298701,2
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",phrase,adequate_effective diffusion,0.001298701,2
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",phrase,extremely_volatility spillover volatility_spillover,6.49E-04,1
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",phrase,implications_economy technology,6.49E-04,1
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",phrase,distributed_geographies demographics,6.49E-04,1
+8,"technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion",phrase,degree_line means line_means readiness means_readiness,6.49E-04,1
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",word,development,0.009736612,78
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",word,finance,0.008613157,69
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",word,cooperation,0.008238672,66
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",word,oda,0.007739358,62
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",word,mdbs,0.005617276,45
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",word,climate,0.004993134,40
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",word,development_cooperation,0.004743478,38
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",word,humanitarian,0.004493821,36
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",word,aid,0.004368993,35
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",word,ssc,0.003620022,29
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",word,oecd,0.003620022,29
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",word,dac,0.003245537,26
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",word,climate_finance,0.003245537,26
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",word,official,0.002995881,24
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",word,biodiversity,0.002871052,23
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",word,effectiveness,0.002871052,23
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",word,funding,0.002871052,23
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",word,assistance,0.002871052,23
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",word,blended_finance,0.002621396,21
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",word,nations,0.002621396,21
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",word,concessional,0.002621396,21
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",word,blended,0.002371739,19
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",word,ida,0.00224691,18
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",word,donor,0.002122082,17
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",word,mobilized,0.001997254,16
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",word,commitments,0.001997254,16
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",word,private_finance,0.001872425,15
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",word,development_assistance,0.001872425,15
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",word,international_development,0.001872425,15
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",word,sids,0.001872425,15
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",phrase,international_development cooperation,0.004804393,7
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",phrase,official_development assistance,0.002745367,4
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",phrase,quality_impact effectiveness,0.002059025,3
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",phrase,billions_dollars constant dollars_constant,0.002059025,3
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",phrase,drawing special_drawing,0.001372684,2
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",phrase,oda_share gni,0.001372684,2
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",phrase,mobilized_developing multiple,0.001372684,2
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",phrase,private_finance mobilized,0.001372684,2
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",phrase,oda graduation_oda eligibility,0.001372684,2
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",phrase,development effectiveness_development cooperation,0.001372684,2
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",phrase,challenges_achieving sdgs,0.001372684,2
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",phrase,blended_finance mobilized finance_mobilized,0.001372684,2
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",phrase,difficult_developing sids,0.001372684,2
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",phrase,humanitarian refugees_humanitarian aid,0.001372684,2
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",phrase,met gni_met target,0.001372684,2
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",phrase,dollars_current oecd,0.001372684,2
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",phrase,refugee donor_refugee,0.001372684,2
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",phrase,effectiveness_development cooperation,0.001372684,2
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",phrase,partnership_effective development effective_development cooperation,0.001372684,2
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",phrase,investments_sustainable development,0.001372684,2
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",phrase,official mobilized_official,0.001372684,2
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",phrase,innovative_financing development,0.001372684,2
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",phrase,nations_office cooperation,0.001372684,2
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",phrase,resources_address mounting address_mounting,0.001372684,2
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",phrase,cooperation_forum dcf,0.001372684,2
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",phrase,climate_conference dubai,0.001372684,2
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",phrase,climate_finance architecture,0.001372684,2
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",phrase,nations_conference cooperation,0.001372684,2
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",phrase,exceed funding_exceed,0.001372684,2
+9,"development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc",phrase,undergo provided_undergo graduation,0.001372684,2

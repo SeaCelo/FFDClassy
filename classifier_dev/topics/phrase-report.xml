@@ -1,0 +1,623 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.0865961614595505" totalTokens="8387" titles="trade, services, exports, aid, aid_trade, economies, agreements, goods, women, iias">
+	<word weight="0.03469655419100989" count="291">trade</word>
+	<word weight="0.005126982234410397" count="43">services</word>
+	<word weight="0.0044115893644926674" count="37">exports</word>
+	<word weight="0.0033385000596160724" count="28">aid</word>
+	<word weight="0.0032192679146297843" count="27">aid_trade</word>
+	<word weight="0.0031000357696434958" count="26">economies</word>
+	<word weight="0.0029808036246572077" count="25">export</word>
+	<word weight="0.0029808036246572077" count="25">agreements</word>
+	<word weight="0.002742339334684631" count="23">goods</word>
+	<word weight="0.002742339334684631" count="23">women</word>
+	<word weight="0.0026231071896983425" count="22">iias</word>
+	<word weight="0.0026231071896983425" count="22">environmental</word>
+	<word weight="0.0025038750447120544" count="21">gvcs</word>
+	<word weight="0.0025038750447120544" count="21">growth</word>
+	<word weight="0.002384642899725766" count="20">commerce</word>
+	<word weight="0.0022654107547394778" count="19">cooperation</word>
+	<word weight="0.0022654107547394778" count="19">unctad</word>
+	<word weight="0.0021461786097531897" count="18">rtas</word>
+	<word weight="0.0021461786097531897" count="18">carbon</word>
+	<word weight="0.002026946464766901" count="17">developing_economies</word>
+	<word weight="0.002026946464766901" count="17">renewable</word>
+	<word weight="0.002026946464766901" count="17">participation</word>
+	<word weight="0.002026946464766901" count="17">multilateral</word>
+	<word weight="0.0019077143197806128" count="16">trade_finance</word>
+	<word weight="0.0017884821747943245" count="15">international_trade</word>
+	<word weight="0.0017884821747943245" count="15">generation</word>
+	<word weight="0.0016692500298080362" count="14">trading</word>
+	<word weight="0.0016692500298080362" count="14">facilitation</word>
+	<word weight="0.0016692500298080362" count="14">diversification</word>
+	<word weight="0.0016692500298080362" count="14">provisions</word>
+	<phrase weight="0.005908419497784343" count="8">trade aid_trade</phrase>
+	<phrase weight="0.003692762186115214" count="5">international_investment agreements</phrase>
+	<phrase weight="0.0022156573116691287" count="3">greenhouse_gas emissions</phrase>
+	<phrase weight="0.0014771048744460858" count="2">level_development region</phrase>
+	<phrase weight="0.0014771048744460858" count="2">share_world trade</phrase>
+	<phrase weight="0.0014771048744460858" count="2">greenhouse reduce_greenhouse</phrase>
+	<phrase weight="0.0014771048744460858" count="2">investor_state dispute state_dispute settlement</phrase>
+	<phrase weight="0.0014771048744460858" count="2">rising_inequalities prompted inequalities_prompted</phrase>
+	<phrase weight="0.0014771048744460858" count="2">marginalized_international trade</phrase>
+	<phrase weight="0.0014771048744460858" count="2">trade provision_trade</phrase>
+	<phrase weight="0.0014771048744460858" count="2">trade regional_trade agreements</phrase>
+	<phrase weight="0.0014771048744460858" count="2">impact_technological digitalization</phrase>
+	<phrase weight="0.0014771048744460858" count="2">benefits_digital trade</phrase>
+	<phrase weight="0.0014771048744460858" count="2">corporate_social responsibility</phrase>
+	<phrase weight="0.0014771048744460858" count="2">diversification_order advance order_advance</phrase>
+	<phrase weight="0.0014771048744460858" count="2">latin economies_latin</phrase>
+	<phrase weight="0.0014771048744460858" count="2">integrated_economy freer economy_freer trade</phrase>
+	<phrase weight="0.0014771048744460858" count="2">trade_depends provision</phrase>
+	<phrase weight="0.0014771048744460858" count="2">trade_finance gap</phrase>
+	<phrase weight="0.0014771048744460858" count="2">growth_declines trade declines_trade openness trade_openness</phrase>
+	<phrase weight="0.0014771048744460858" count="2">increased_fragmentation erosion</phrase>
+	<phrase weight="0.0014771048744460858" count="2">deceleration_growth trade</phrase>
+	<phrase weight="0.0014771048744460858" count="2">gvcs manufactures_gvcs participation</phrase>
+	<phrase weight="0.0014771048744460858" count="2">growth_lower trade lower_trade</phrase>
+	<phrase weight="0.0014771048744460858" count="2">women_economic empowerment</phrase>
+	<phrase weight="0.0014771048744460858" count="2">digitally trade_digitally deliverable digitally_deliverable services</phrase>
+	<phrase weight="7.385524372230429E-4" count="1">gender_discrimination violence</phrase>
+	<phrase weight="7.385524372230429E-4" count="1">sustainable_investment facilitation</phrase>
+	<phrase weight="7.385524372230429E-4" count="1">growth_evidence reductions</phrase>
+	<phrase weight="7.385524372230429E-4" count="1">evolution_exports services</phrase>
+  </topic>
+  <topic id="1" alpha="0.013052193476932249" totalTokens="8734" titles="rural, inflation, industrial_policy, water, industrial_transformations, sng, international_support, urban, action_sdgs, risk_insurance">
+	<word weight="0.002289901534234028" count="20">rural</word>
+	<word weight="0.002060911380810625" count="18">inflation</word>
+	<word weight="0.0019464163040989239" count="17">industrial_policy</word>
+	<word weight="0.0016029310739638196" count="14">water</word>
+	<word weight="0.001488435997252118" count="13">industrial_transformations</word>
+	<word weight="0.001488435997252118" count="13">sng</word>
+	<word weight="0.001488435997252118" count="13">international_support</word>
+	<word weight="0.0013739409205404168" count="12">urban</word>
+	<word weight="0.0013739409205404168" count="12">action_sdgs</word>
+	<word weight="0.0012594458438287153" count="11">risk_insurance</word>
+	<word weight="0.0012594458438287153" count="11">fiscal_capacity</word>
+	<word weight="0.0012594458438287153" count="11">achieving</word>
+	<word weight="0.0010304556904053126" count="9">public_finances</word>
+	<word weight="0.0010304556904053126" count="9">cloud</word>
+	<word weight="0.0010304556904053126" count="9">policy_options</word>
+	<word weight="0.0010304556904053126" count="9">medium</word>
+	<word weight="9.159606136936112E-4" count="8">prevention_risk</word>
+	<word weight="9.159606136936112E-4" count="8">reaffirm</word>
+	<word weight="9.159606136936112E-4" count="8">societies</word>
+	<word weight="9.159606136936112E-4" count="8">managed</word>
+	<word weight="8.014655369819098E-4" count="7">agro</word>
+	<word weight="8.014655369819098E-4" count="7">disbursing</word>
+	<word weight="8.014655369819098E-4" count="7">subsidized</word>
+	<word weight="8.014655369819098E-4" count="7">industrial_development</word>
+	<word weight="8.014655369819098E-4" count="7">nationally</word>
+	<word weight="8.014655369819098E-4" count="7">risk_return</word>
+	<word weight="8.014655369819098E-4" count="7">clean</word>
+	<word weight="8.014655369819098E-4" count="7">sudden</word>
+	<word weight="8.014655369819098E-4" count="7">policy_space</word>
+	<word weight="8.014655369819098E-4" count="7">skilled</word>
+	<phrase weight="0.005115089514066497" count="2">suspension service_suspension</phrase>
+	<phrase weight="0.005115089514066497" count="2">cloud technologies_cloud</phrase>
+	<phrase weight="0.005115089514066497" count="2">subsidizing_production inputs</phrase>
+	<phrase weight="0.005115089514066497" count="2">benign managing_benign</phrase>
+	<phrase weight="0.005115089514066497" count="2">determining important_determining</phrase>
+	<phrase weight="0.0025575447570332483" count="1">areas_spending mobilized</phrase>
+	<phrase weight="0.0025575447570332483" count="1">services_inputs procured</phrase>
+	<phrase weight="0.0025575447570332483" count="1">hit_shocks akin</phrase>
+	<phrase weight="0.0025575447570332483" count="1">downward fluctuations_downward</phrase>
+	<phrase weight="0.0025575447570332483" count="1">countercyclical_measures aimed</phrase>
+	<phrase weight="0.0025575447570332483" count="1">risk_correlations thin</phrase>
+	<phrase weight="0.0025575447570332483" count="1">infectious crises_infectious</phrase>
+	<phrase weight="0.0025575447570332483" count="1">sng developing_sng</phrase>
+	<phrase weight="0.0025575447570332483" count="1">clean domestic_clean</phrase>
+	<phrase weight="0.0025575447570332483" count="1">stagnant combined_stagnant productivity</phrase>
+	<phrase weight="0.0025575447570332483" count="1">law_remains expensive</phrase>
+	<phrase weight="0.0025575447570332483" count="1">investments_suffers mentioned</phrase>
+	<phrase weight="0.0025575447570332483" count="1">access_credit micro</phrase>
+	<phrase weight="0.0025575447570332483" count="1">cooperatives_farmers networks</phrase>
+	<phrase weight="0.0025575447570332483" count="1">external_interest expenses interest_expenses incurred</phrase>
+	<phrase weight="0.0025575447570332483" count="1">macroeconomic_constraints expensive</phrase>
+	<phrase weight="0.0025575447570332483" count="1">desirable adoption_desirable</phrase>
+	<phrase weight="0.0025575447570332483" count="1">lending_msmes hindered</phrase>
+	<phrase weight="0.0025575447570332483" count="1">covid_response subregional</phrase>
+	<phrase weight="0.0025575447570332483" count="1">engage_market arbitrage</phrase>
+	<phrase weight="0.0025575447570332483" count="1">developed_proportion urban proportion_urban</phrase>
+	<phrase weight="0.0025575447570332483" count="1">sector_promote rural</phrase>
+	<phrase weight="0.0025575447570332483" count="1">destruction_carefully managed</phrase>
+	<phrase weight="0.0025575447570332483" count="1">stabilization fluctuations_stabilization</phrase>
+	<phrase weight="0.0025575447570332483" count="1">technological_organizational managerial</phrase>
+  </topic>
+  <topic id="2" alpha="0.013058106718076598" totalTokens="9227" titles="sngs, structural_transformation, risk_informed, public_investment, reduction_resilience, enabling_environment, political_risk, resilient_infrastructure, investments_sustainable, computing">
+	<word weight="0.002492684512842744" count="23">sngs</word>
+	<word weight="0.0023843069253278422" count="22">structural_transformation</word>
+	<word weight="0.0022759293378129403" count="21">risk_informed</word>
+	<word weight="0.0022759293378129403" count="21">public_investment</word>
+	<word weight="0.0020591741627831363" count="19">reduction_resilience</word>
+	<word weight="0.0017340414002384307" count="16">enabling_environment</word>
+	<word weight="0.0015172862252086268" count="14">political_risk</word>
+	<word weight="0.001408908637693725" count="13">resilient_infrastructure</word>
+	<word weight="0.001300531050178823" count="12">investments_sustainable</word>
+	<word weight="0.0011921534626639211" count="11">computing</word>
+	<word weight="0.0011921534626639211" count="11">private_investments</word>
+	<word weight="0.0011921534626639211" count="11">hazard</word>
+	<word weight="0.0011921534626639211" count="11">digital_economy</word>
+	<word weight="0.0011921534626639211" count="11">good_governance</word>
+	<word weight="0.0010837758751490192" count="10">risk_landscape</word>
+	<word weight="0.0010837758751490192" count="10">unemployment</word>
+	<word weight="0.0010837758751490192" count="10">policy_space</word>
+	<word weight="9.753982876341173E-4" count="9">levels_debt</word>
+	<word weight="9.753982876341173E-4" count="9">miga</word>
+	<word weight="9.753982876341173E-4" count="9">finances</word>
+	<word weight="9.753982876341173E-4" count="9">investments_prevention</word>
+	<word weight="9.753982876341173E-4" count="9">ppp</word>
+	<word weight="9.753982876341173E-4" count="9">financial_returns</word>
+	<word weight="9.753982876341173E-4" count="9">preparedness</word>
+	<word weight="9.753982876341173E-4" count="9">inclusive_sustainable</word>
+	<word weight="9.753982876341173E-4" count="9">fiscal_policy</word>
+	<word weight="8.670207001192153E-4" count="8">shared_priorities</word>
+	<word weight="8.670207001192153E-4" count="8">stimulate</word>
+	<word weight="8.670207001192153E-4" count="8">public_balance</word>
+	<word weight="8.670207001192153E-4" count="8">understood</word>
+	<phrase weight="0.007407407407407408" count="3">hazard multi_hazard</phrase>
+	<phrase weight="0.0049382716049382715" count="2">dampening aimed_dampening</phrase>
+	<phrase weight="0.0049382716049382715" count="2">divide finance_divide</phrase>
+	<phrase weight="0.0049382716049382715" count="2">governments_risk bearer</phrase>
+	<phrase weight="0.0049382716049382715" count="2">computing cloud_computing</phrase>
+	<phrase weight="0.0049382716049382715" count="2">devices_internet things</phrase>
+	<phrase weight="0.0049382716049382715" count="2">famous kuznets_famous proposition</phrase>
+	<phrase weight="0.0049382716049382715" count="2">countercyclical play_countercyclical</phrase>
+	<phrase weight="0.0049382716049382715" count="2">desired_direction underpinned</phrase>
+	<phrase weight="0.0049382716049382715" count="2">informed risk_informed</phrase>
+	<phrase weight="0.0024691358024691358" count="1">ultimate deviations_ultimate</phrase>
+	<phrase weight="0.0024691358024691358" count="1">spotlight_dur valverde</phrase>
+	<phrase weight="0.0024691358024691358" count="1">levels_debt downside</phrase>
+	<phrase weight="0.0024691358024691358" count="1">policy_long plagued</phrase>
+	<phrase weight="0.0024691358024691358" count="1">national_local developmental</phrase>
+	<phrase weight="0.0024691358024691358" count="1">european_bank converted</phrase>
+	<phrase weight="0.0024691358024691358" count="1">powerful_actors protect</phrase>
+	<phrase weight="0.0024691358024691358" count="1">disruptions_drove food</phrase>
+	<phrase weight="0.0024691358024691358" count="1">goods_represented bits</phrase>
+	<phrase weight="0.0024691358024691358" count="1">unique_properties characterize properties_characterize</phrase>
+	<phrase weight="0.0024691358024691358" count="1">sngs potentially_sngs</phrase>
+	<phrase weight="0.0024691358024691358" count="1">historically_including ceilings</phrase>
+	<phrase weight="0.0024691358024691358" count="1">market_failures routine</phrase>
+	<phrase weight="0.0024691358024691358" count="1">promote_national youth</phrase>
+	<phrase weight="0.0024691358024691358" count="1">nested images_nested</phrase>
+	<phrase weight="0.0024691358024691358" count="1">share_lending sovereigns</phrase>
+	<phrase weight="0.0024691358024691358" count="1">partially_estimated ultra</phrase>
+	<phrase weight="0.0024691358024691358" count="1">related_risk aversion</phrase>
+	<phrase weight="0.0024691358024691358" count="1">harder_governments borrow</phrase>
+	<phrase weight="0.0024691358024691358" count="1">replicable provide_replicable</phrase>
+  </topic>
+  <topic id="3" alpha="0.032624668674261385" totalTokens="10311" titles="data, sustainable, esg, sustainability, indicators, sustainable_finance, statistical, statistics, standards, companies">
+	<word weight="0.02220929104839492" count="229">data</word>
+	<word weight="0.005140141596353409" count="53">sustainable</word>
+	<word weight="0.004558238774124721" count="47">esg</word>
+	<word weight="0.004558238774124721" count="47">sustainability</word>
+	<word weight="0.004170303559305596" count="43">indicators</word>
+	<word weight="0.003879352148191252" count="40">sustainable_finance</word>
+	<word weight="0.003879352148191252" count="40">statistical</word>
+	<word weight="0.003879352148191252" count="40">statistics</word>
+	<word weight="0.0034914169333721268" count="36">standards</word>
+	<word weight="0.0030064979148482205" count="31">companies</word>
+	<word weight="0.0028125303074386576" count="29">investing</word>
+	<word weight="0.0027155465037338763" count="28">legislation</word>
+	<word weight="0.0024245950926195326" count="25">progress</word>
+	<word weight="0.0023276112889147513" count="24">goal</word>
+	<word weight="0.0023276112889147513" count="24">private_sector</word>
+	<word weight="0.00223062748520997" count="23">fdi</word>
+	<word weight="0.00223062748520997" count="23">business</word>
+	<word weight="0.002036659877800407" count="21">disclosure</word>
+	<word weight="0.002036659877800407" count="21">gdp</word>
+	<word weight="0.0017457084666860634" count="18">asset</word>
+	<word weight="0.0016487246629812821" count="17">gaps</word>
+	<word weight="0.0016487246629812821" count="17">impact</word>
+	<word weight="0.0015517408592765009" count="16">goal_goal</word>
+	<word weight="0.0015517408592765009" count="16">dgi</word>
+	<word weight="0.0015517408592765009" count="16">trends</word>
+	<word weight="0.0015517408592765009" count="16">bonds</word>
+	<word weight="0.0014547570555717194" count="15">indicator</word>
+	<word weight="0.0013577732518669382" count="14">materiality</word>
+	<word weight="0.001260789448162157" count="13">sustainable_investing</word>
+	<word weight="0.001260789448162157" count="13">spi</word>
+	<phrase weight="0.0047875523638539795" count="8">sustainable_finance legislation</phrase>
+	<phrase weight="0.0047875523638539795" count="8">goal_goal goal</phrase>
+	<phrase weight="0.0023937761819269898" count="4">materiality double_materiality</phrase>
+	<phrase weight="0.0017953321364452424" count="3">sector_investment lab</phrase>
+	<phrase weight="0.0017953321364452424" count="3">data data_data</phrase>
+	<phrase weight="0.0017953321364452424" count="3">statistical_performance index</phrase>
+	<phrase weight="0.0017953321364452424" count="3">oecd_revenue statistics</phrase>
+	<phrase weight="0.0017953321364452424" count="3">government_finance statistics</phrase>
+	<phrase weight="0.0011968880909634949" count="2">business_sector arise</phrase>
+	<phrase weight="0.0011968880909634949" count="2">statistical scores_statistical</phrase>
+	<phrase weight="0.0011968880909634949" count="2">consolidation_voluntary standards</phrase>
+	<phrase weight="0.0011968880909634949" count="2">adults_remain unbanked</phrase>
+	<phrase weight="0.0011968880909634949" count="2">accounting_standards board</phrase>
+	<phrase weight="0.0011968880909634949" count="2">crafted_avoid distortions</phrase>
+	<phrase weight="0.0011968880909634949" count="2">statistical data_statistical</phrase>
+	<phrase weight="0.0011968880909634949" count="2">growing_political polarization</phrase>
+	<phrase weight="0.0011968880909634949" count="2">statistical national_statistical offices</phrase>
+	<phrase weight="0.0011968880909634949" count="2">sustainable_investment alliance</phrase>
+	<phrase weight="0.0011968880909634949" count="2">business_models asset</phrase>
+	<phrase weight="0.0011968880909634949" count="2">business private_business</phrase>
+	<phrase weight="0.0011968880909634949" count="2">favor continue_favor</phrase>
+	<phrase weight="0.0011968880909634949" count="2">statistical_performance indicators</phrase>
+	<phrase weight="0.0011968880909634949" count="2">data_sdg indicator</phrase>
+	<phrase weight="0.0011968880909634949" count="2">standards_board issb</phrase>
+	<phrase weight="0.0011968880909634949" count="2">note_data pillars</phrase>
+	<phrase weight="0.0011968880909634949" count="2">sustainability_reporting standards</phrase>
+	<phrase weight="0.0011968880909634949" count="2">data address_data</phrase>
+	<phrase weight="0.0011968880909634949" count="2">citizen_generated data</phrase>
+	<phrase weight="0.0011968880909634949" count="2">data_services pillar</phrase>
+	<phrase weight="0.0011968880909634949" count="2">statistics data_statistics</phrase>
+  </topic>
+  <topic id="4" alpha="0.028227566198443146" totalTokens="8070" titles="tax, revenue, taxes, information, carbon, international_tax, social, social_protection, systems, jurisdictions">
+	<word weight="0.028128872366790583" count="227">tax</word>
+	<word weight="0.010161090458488228" count="82">revenue</word>
+	<word weight="0.004337050805452293" count="35">taxes</word>
+	<word weight="0.004213135068153655" count="34">information</word>
+	<word weight="0.003593556381660471" count="29">carbon</word>
+	<word weight="0.003469640644361834" count="28">international_tax</word>
+	<word weight="0.003345724907063197" count="27">social</word>
+	<word weight="0.0030978934324659233" count="25">social_protection</word>
+	<word weight="0.0030978934324659233" count="25">systems</word>
+	<word weight="0.002973977695167286" count="24">jurisdictions</word>
+	<word weight="0.0028500619578686495" count="23">corruption</word>
+	<word weight="0.0027261462205700124" count="22">administration</word>
+	<word weight="0.0027261462205700124" count="22">political</word>
+	<word weight="0.0026022304832713753" count="21">domestic</word>
+	<word weight="0.0024783147459727386" count="20">tax_cooperation</word>
+	<word weight="0.0024783147459727386" count="20">oecd</word>
+	<word weight="0.0023543990086741014" count="19">asset</word>
+	<word weight="0.0023543990086741014" count="19">forum</word>
+	<word weight="0.0023543990086741014" count="19">fuel</word>
+	<word weight="0.0023543990086741014" count="19">cooperation</word>
+	<word weight="0.0022304832713754648" count="18">asset_recovery</word>
+	<word weight="0.0022304832713754648" count="18">pricing</word>
+	<word weight="0.0022304832713754648" count="18">exchange</word>
+	<word weight="0.0021065675340768276" count="17">ownership</word>
+	<word weight="0.001982651796778191" count="16">iffs</word>
+	<word weight="0.001982651796778191" count="16">beneficial</word>
+	<word weight="0.001982651796778191" count="16">corporate</word>
+	<word weight="0.001982651796778191" count="16">protection</word>
+	<word weight="0.001982651796778191" count="16">member</word>
+	<word weight="0.001982651796778191" count="16">mobilization</word>
+	<phrase weight="0.0025429116338207248" count="4">exchange_information tax information_tax purposes</phrase>
+	<phrase weight="0.0019071837253655435" count="3">protection social_protection</phrase>
+	<phrase weight="0.0019071837253655435" count="3">forum_transparency exchange</phrase>
+	<phrase weight="0.0019071837253655435" count="3">international_tax cooperation</phrase>
+	<phrase weight="0.0012714558169103624" count="2">asset_recovery return</phrase>
+	<phrase weight="0.0012714558169103624" count="2">domestic_public revenue public_revenue mobilization</phrase>
+	<phrase weight="0.0012714558169103624" count="2">corruption anti_corruption</phrase>
+	<phrase weight="0.0012714558169103624" count="2">growing_importance conviction</phrase>
+	<phrase weight="0.0012714558169103624" count="2">corporate_income taxes</phrase>
+	<phrase weight="0.0012714558169103624" count="2">digital_services taxes</phrase>
+	<phrase weight="0.0012714558169103624" count="2">taxes_emissions trading</phrase>
+	<phrase weight="0.0012714558169103624" count="2">tax cooperation_tax matters</phrase>
+	<phrase weight="0.0012714558169103624" count="2">full_support member</phrase>
+	<phrase weight="0.0012714558169103624" count="2">tax administration_tax</phrase>
+	<phrase weight="0.0012714558169103624" count="2">financial_account information</phrase>
+	<phrase weight="0.0012714558169103624" count="2">international_tax norms</phrase>
+	<phrase weight="0.0012714558169103624" count="2">forums_jurisdictions oecd</phrase>
+	<phrase weight="6.357279084551812E-4" count="1">flight_corruption proceeds</phrase>
+	<phrase weight="6.357279084551812E-4" count="1">unrelated_parties payments</phrase>
+	<phrase weight="6.357279084551812E-4" count="1">formation_national pdbs</phrase>
+	<phrase weight="6.357279084551812E-4" count="1">information_sending receiving sending_receiving</phrase>
+	<phrase weight="6.357279084551812E-4" count="1">trading_evolution revenues</phrase>
+	<phrase weight="6.357279084551812E-4" count="1">taxation_developing decade</phrase>
+	<phrase weight="6.357279084551812E-4" count="1">treatment_fossil fuel fossil_fuel consumption</phrase>
+	<phrase weight="6.357279084551812E-4" count="1">mnes_rules profit rules_profit attribution</phrase>
+	<phrase weight="6.357279084551812E-4" count="1">ongoing_decade yield</phrase>
+	<phrase weight="6.357279084551812E-4" count="1">implications_ability raise ability_raise revenue</phrase>
+	<phrase weight="6.357279084551812E-4" count="1">revenue specific_revenue increases</phrase>
+	<phrase weight="6.357279084551812E-4" count="1">estimates_multiple iff multiple_iff</phrase>
+	<phrase weight="6.357279084551812E-4" count="1">cit_important revenue</phrase>
+  </topic>
+  <topic id="5" alpha="0.04998707474057348" totalTokens="9651" titles="debt, creditors, external, sovereign, service, imf, debt_service, public_debt, debt_management, restructurings">
+	<word weight="0.052740648637446895" count="509">debt</word>
+	<word weight="0.005802507512174904" count="56">creditors</word>
+	<word weight="0.005595275101025801" count="54">external</word>
+	<word weight="0.0052844264843021444" count="51">sovereign</word>
+	<word weight="0.0047663454564293856" count="46">service</word>
+	<word weight="0.004559113045280282" count="44">imf</word>
+	<word weight="0.004351880634131178" count="42">debt_service</word>
+	<word weight="0.00393741581183297" count="38">public_debt</word>
+	<word weight="0.003730183400683867" count="36">debt_management</word>
+	<word weight="0.0032121023728111076" count="31">restructurings</word>
+	<word weight="0.0032121023728111076" count="31">lics</word>
+	<word weight="0.003004869961662004" count="29">restructuring</word>
+	<word weight="0.003004869961662004" count="29">bonds</word>
+	<word weight="0.0027976375505129004" count="27">sovereign_debt</word>
+	<word weight="0.0027976375505129004" count="27">creditor</word>
+	<word weight="0.0024867889337892445" count="24">external_debt</word>
+	<word weight="0.0023831727282146928" count="23">distress</word>
+	<word weight="0.002279556522640141" count="22">burdens</word>
+	<word weight="0.002175940317065589" count="21">management</word>
+	<word weight="0.002175940317065589" count="21">service_burdens</word>
+	<word weight="0.001968707905916485" count="19">debt_restructurings</word>
+	<word weight="0.0018650917003419335" count="18">gdp</word>
+	<word weight="0.0018650917003419335" count="18">bank</word>
+	<word weight="0.0018650917003419335" count="18">vulnerabilities</word>
+	<word weight="0.0017614754947673816" count="17">domestic</word>
+	<word weight="0.0017614754947673816" count="17">debt_distress</word>
+	<word weight="0.0017614754947673816" count="17">world_bank</word>
+	<word weight="0.0016578592891928299" count="16">domestic_debt</word>
+	<word weight="0.0016578592891928299" count="16">architecture</word>
+	<word weight="0.0016578592891928299" count="16">debt_restructuring</word>
+	<phrase weight="0.004316546762589928" count="6">debt_crisis prevention</phrase>
+	<phrase weight="0.0028776978417266188" count="4">calculations_world bank world_bank</phrase>
+	<phrase weight="0.002158273381294964" count="3">assessed_risk debt risk_debt distress</phrase>
+	<phrase weight="0.002158273381294964" count="3">creditor_coordination challenges</phrase>
+	<phrase weight="0.0014388489208633094" count="2">put repayments_put</phrase>
+	<phrase weight="0.0014388489208633094" count="2">debt_related publications</phrase>
+	<phrase weight="0.0014388489208633094" count="2">external service_external</phrase>
+	<phrase weight="0.0014388489208633094" count="2">development_centered debt centered_debt sovereign debt_sovereign workout sovereign_workout</phrase>
+	<phrase weight="0.0014388489208633094" count="2">creditor private_creditor</phrase>
+	<phrase weight="0.0014388489208633094" count="2">staff_calculations imf calculations_imf</phrase>
+	<phrase weight="0.0014388489208633094" count="2">financing_conditions translated</phrase>
+	<phrase weight="0.0014388489208633094" count="2">suspension_initiative dssi</phrase>
+	<phrase weight="0.0014388489208633094" count="2">current_account deficits</phrase>
+	<phrase weight="0.0014388489208633094" count="2">sustainability_linked bonds</phrase>
+	<phrase weight="0.0014388489208633094" count="2">imf_october weo october_weo database</phrase>
+	<phrase weight="0.0014388489208633094" count="2">external_public publicly public_publicly guaranteed publicly_guaranteed debt</phrase>
+	<phrase weight="0.0014388489208633094" count="2">imf_supported program</phrase>
+	<phrase weight="0.0014388489208633094" count="2">live_governments spend</phrase>
+	<phrase weight="0.0014388489208633094" count="2">debt debt_debt</phrase>
+	<phrase weight="0.0014388489208633094" count="2">swaps_credit enhancements</phrase>
+	<phrase weight="0.0014388489208633094" count="2">bank_international debt international_debt statistics debt_statistics database</phrase>
+	<phrase weight="0.0014388489208633094" count="2">debt developing_debt</phrase>
+	<phrase weight="0.0014388489208633094" count="2">mechanism_overcome creditor overcome_creditor</phrase>
+	<phrase weight="0.0014388489208633094" count="2">spend_interest payments</phrase>
+	<phrase weight="0.0014388489208633094" count="2">debt bank_debt</phrase>
+	<phrase weight="0.0014388489208633094" count="2">debt_climate vicious climate_vicious cycle</phrase>
+	<phrase weight="0.0014388489208633094" count="2">bank_international debt international_debt statistics debt_statistics</phrase>
+	<phrase weight="0.0014388489208633094" count="2">debt management_debt transparency</phrase>
+	<phrase weight="0.0014388489208633094" count="2">debt_climate vulnerabilities</phrase>
+	<phrase weight="7.194244604316547E-4" count="1">sdg_stimulus ifa stimulus_ifa</phrase>
+  </topic>
+  <topic id="6" alpha="0.0705250679609483" totalTokens="7202" titles="financial, imf, banks, reserves, payments, arrangements, reforms, sdrs, banking, basel">
+	<word weight="0.014023882254929187" count="101">financial</word>
+	<word weight="0.009441821716189947" count="68">imf</word>
+	<word weight="0.006387114690363788" count="46">banks</word>
+	<word weight="0.00430435990002777" count="31">reserves</word>
+	<word weight="0.004165509580672035" count="30">payments</word>
+	<word weight="0.0030547070258261596" count="22">reserve</word>
+	<word weight="0.0030547070258261596" count="22">arrangements</word>
+	<word weight="0.0030547070258261596" count="22">reforms</word>
+	<word weight="0.002915856706470425" count="21">sdrs</word>
+	<word weight="0.0027770063871146904" count="20">banking</word>
+	<word weight="0.002638156067758956" count="19">basel</word>
+	<word weight="0.002638156067758956" count="19">sdr</word>
+	<word weight="0.0022216051096917524" count="16">lines</word>
+	<word weight="0.0022216051096917524" count="16">lending</word>
+	<word weight="0.0020827547903360176" count="15">financial_safety</word>
+	<word weight="0.0020827547903360176" count="15">safety</word>
+	<word weight="0.0020827547903360176" count="15">member</word>
+	<word weight="0.0019439044709802832" count="14">cbdc</word>
+	<word weight="0.0019439044709802832" count="14">supervision</word>
+	<word weight="0.0019439044709802832" count="14">financial_economic</word>
+	<word weight="0.0019439044709802832" count="14">world_financial</word>
+	<word weight="0.0019439044709802832" count="14">capital_flows</word>
+	<word weight="0.0019439044709802832" count="14">financial_stability</word>
+	<word weight="0.0019439044709802832" count="14">payment</word>
+	<word weight="0.0019439044709802832" count="14">financing_development</word>
+	<word weight="0.0018050541516245488" count="13">gfsn</word>
+	<word weight="0.0018050541516245488" count="13">regulation</word>
+	<word weight="0.0018050541516245488" count="13">swap</word>
+	<word weight="0.0018050541516245488" count="13">liquidity</word>
+	<word weight="0.0016662038322688142" count="12">cross_border</word>
+	<phrase weight="0.002909796314258002" count="3">regional_financing arrangements</phrase>
+	<phrase weight="0.002909796314258002" count="3">bank_financial intermediation</phrase>
+	<phrase weight="0.002909796314258002" count="3">standard_setting bodies</phrase>
+	<phrase weight="0.0019398642095053346" count="2">wake_world financial</phrase>
+	<phrase weight="0.0019398642095053346" count="2">financial_safety imf</phrase>
+	<phrase weight="0.0019398642095053346" count="2">banking committee_banking supervision</phrase>
+	<phrase weight="0.0019398642095053346" count="2">rapid_credit facility</phrase>
+	<phrase weight="0.0019398642095053346" count="2">larger_role sdr</phrase>
+	<phrase weight="0.0019398642095053346" count="2">reserve_currency issuer</phrase>
+	<phrase weight="0.0019398642095053346" count="2">adjustment_providing flexible</phrase>
+	<phrase weight="0.0019398642095053346" count="2">climate_related financial related_financial</phrase>
+	<phrase weight="0.0019398642095053346" count="2">mai_initiative multilateralization</phrase>
+	<phrase weight="0.0019398642095053346" count="2">correspondent_banking relationships</phrase>
+	<phrase weight="0.0019398642095053346" count="2">financial regulation_financial</phrase>
+	<phrase weight="0.0019398642095053346" count="2">systemically_important banks</phrase>
+	<phrase weight="0.0019398642095053346" count="2">drawing_rights sdrs</phrase>
+	<phrase weight="0.0019398642095053346" count="2">advanced_economy banks</phrase>
+	<phrase weight="0.0019398642095053346" count="2">bilateral_swap arrangements</phrase>
+	<phrase weight="9.699321047526673E-4" count="1">recent_banking turmoil</phrase>
+	<phrase weight="9.699321047526673E-4" count="1">plumbing_economic transactions</phrase>
+	<phrase weight="9.699321047526673E-4" count="1">safety_size composition</phrase>
+	<phrase weight="9.699321047526673E-4" count="1">capital_flows cross</phrase>
+	<phrase weight="9.699321047526673E-4" count="1">coordination_policy coherence policy_coherence</phrase>
+	<phrase weight="9.699321047526673E-4" count="1">analysis_developing regulatory developing_regulatory</phrase>
+	<phrase weight="9.699321047526673E-4" count="1">imf_surcharges apply</phrase>
+	<phrase weight="9.699321047526673E-4" count="1">funds_assets tripled</phrase>
+	<phrase weight="9.699321047526673E-4" count="1">document_international standards</phrase>
+	<phrase weight="9.699321047526673E-4" count="1">bank_accounts overwhelming accounts_overwhelming</phrase>
+	<phrase weight="9.699321047526673E-4" count="1">floating rates_floating currency</phrase>
+	<phrase weight="9.699321047526673E-4" count="1">aims_provide financial provide_financial</phrase>
+  </topic>
+  <topic id="7" alpha="0.8018208127009238" totalTokens="68928" titles="development public_development banks, financial, risk, developing, financing, international, sustainable, investment, risks, policy">
+	<word weight="0.011649837511606314" count="803">development</word>
+	<word weight="0.008313022284122562" count="573">financial</word>
+	<word weight="0.007457056638811513" count="514">risk</word>
+	<word weight="0.007428040854224698" count="512">public</word>
+	<word weight="0.007428040854224698" count="512">developing</word>
+	<word weight="0.00735550139275766" count="507">financing</word>
+	<word weight="0.00668813834726091" count="461">international</word>
+	<word weight="0.006557567316620242" count="452">sustainable</word>
+	<word weight="0.0065285515320334265" count="450">investment</word>
+	<word weight="0.005861188486536676" count="404">risks</word>
+	<word weight="0.005759633240482823" count="397">policy</word>
+	<word weight="0.005164809656453111" count="356">climate</word>
+	<word weight="0.005135793871866295" count="354">economic</word>
+	<word weight="0.0049762070566388115" count="343">finance</word>
+	<word weight="0.0049326833797585885" count="340">including</word>
+	<word weight="0.004323351903435469" count="298">support</word>
+	<word weight="0.0037865598885793873" count="261">investments</word>
+	<word weight="0.003670496750232126" count="253">private</word>
+	<word weight="0.0035834493964716804" count="247">world</word>
+	<word weight="0.0035544336118848653" count="245">growth</word>
+	<word weight="0.0035109099350046427" count="242">policies</word>
+	<word weight="0.0033368152274837514" count="230">term</word>
+	<word weight="0.0032932915506035283" count="227">national</word>
+	<word weight="0.0031772284122562676" count="219">capital</word>
+	<word weight="0.0031772284122562676" count="219">data</word>
+	<word weight="0.0031046889507892294" count="214">digital</word>
+	<word weight="0.003075673166202414" count="212">sector</word>
+	<word weight="0.0029886258124419683" count="206">social</word>
+	<word weight="0.002930594243268338" count="202">sustainable_development</word>
+	<word weight="0.0028580547818013" count="197">income</word>
+	<phrase weight="0.0025904154627876858" count="26">development public_development banks</phrase>
+	<phrase weight="0.0015941018232539603" count="16">conference_financing development</phrase>
+	<phrase weight="0.001494470459300588" count="15">risk_reduction resilience</phrase>
+	<phrase weight="0.0013948390953472153" count="14">important play_important role</phrase>
+	<phrase weight="0.0011955763674404703" count="12">development sustainable_development goals</phrase>
+	<phrase weight="0.0011955763674404703" count="12">international fourth_international conference</phrase>
+	<phrase weight="9.963136395337252E-4" count="10">term long_term investments</phrase>
+	<phrase weight="8.966822755803527E-4" count="9">term long_term</phrase>
+	<phrase weight="8.966822755803527E-4" count="9">climate_action sdgs</phrase>
+	<phrase weight="7.970509116269802E-4" count="8">term long_term financing</phrase>
+	<phrase weight="7.970509116269802E-4" count="8">development multilateral_development banks</phrase>
+	<phrase weight="7.970509116269802E-4" count="8">protection social_protection systems</phrase>
+	<phrase weight="6.974195476736076E-4" count="7">term long_term finance</phrase>
+	<phrase weight="6.974195476736076E-4" count="7">private public_private investments</phrase>
+	<phrase weight="6.974195476736076E-4" count="7">economic financial_economic crisis</phrase>
+	<phrase weight="6.974195476736076E-4" count="7">development sustainable_development</phrase>
+	<phrase weight="6.974195476736076E-4" count="7">industrial sustainable_industrial policies</phrase>
+	<phrase weight="6.974195476736076E-4" count="7">private public_private</phrase>
+	<phrase weight="5.977881837202351E-4" count="6">island small_island developing</phrase>
+	<phrase weight="5.977881837202351E-4" count="6">international_conference financing</phrase>
+	<phrase weight="5.977881837202351E-4" count="6">industrial sustainable_industrial transformations</phrase>
+	<phrase weight="5.977881837202351E-4" count="6">gender_equality women</phrase>
+	<phrase weight="5.977881837202351E-4" count="6">finance development_finance institutions</phrase>
+	<phrase weight="5.977881837202351E-4" count="6">pandemic pre_pandemic levels</phrase>
+	<phrase weight="5.977881837202351E-4" count="6">related climate_related</phrase>
+	<phrase weight="5.977881837202351E-4" count="6">development sustainable_development strategies</phrase>
+	<phrase weight="5.977881837202351E-4" count="6">term short_term incentives</phrase>
+	<phrase weight="5.977881837202351E-4" count="6">private public_private actors</phrase>
+	<phrase weight="5.977881837202351E-4" count="6">industrial sustainable_industrial transformation</phrase>
+	<phrase weight="4.981568197668626E-4" count="5">action_areas addis areas_addis agenda</phrase>
+  </topic>
+  <topic id="8" alpha="0.028893251083956413" totalTokens="8570" titles="technology, ai, fintech, sti, technologies, innovation, technological, data, competition, diffusion">
+	<word weight="0.01295215869311552" count="111">technology</word>
+	<word weight="0.00898483080513419" count="77">ai</word>
+	<word weight="0.007584597432905484" count="65">fintech</word>
+	<word weight="0.0073512252042007" count="63">sti</word>
+	<word weight="0.006417736289381563" count="55">technologies</word>
+	<word weight="0.006301050175029172" count="54">innovation</word>
+	<word weight="0.006067677946324387" count="52">technological</word>
+	<word weight="0.003500583430571762" count="30">data</word>
+	<word weight="0.0025670945157526253" count="22">competition</word>
+	<word weight="0.0025670945157526253" count="22">diffusion</word>
+	<word weight="0.002450408401400233" count="21">frontier</word>
+	<word weight="0.002333722287047841" count="20">privacy</word>
+	<word weight="0.0021003500583430573" count="18">generative_ai</word>
+	<word weight="0.0021003500583430573" count="18">generative</word>
+	<word weight="0.0018669778296382731" count="16">science</word>
+	<word weight="0.001633605600933489" count="14">adoption</word>
+	<word weight="0.0015169194865810968" count="13">sti_policy</word>
+	<word weight="0.0015169194865810968" count="13">knowledge</word>
+	<word weight="0.0015169194865810968" count="13">advances</word>
+	<word weight="0.0015169194865810968" count="13">cooperation</word>
+	<word weight="0.0014002333722287048" count="12">automation</word>
+	<word weight="0.0014002333722287048" count="12">mobile</word>
+	<word weight="0.0014002333722287048" count="12">technology_diffusion</word>
+	<word weight="0.0014002333722287048" count="12">personal</word>
+	<word weight="0.0014002333722287048" count="12">science_technology</word>
+	<word weight="0.0012835472578763127" count="11">platforms</word>
+	<word weight="0.0012835472578763127" count="11">consumer</word>
+	<word weight="0.0012835472578763127" count="11">female</word>
+	<word weight="0.0012835472578763127" count="11">models</word>
+	<word weight="0.0011668611435239206" count="10">fintech_firms</word>
+	<phrase weight="0.001948051948051948" count="3">technology_innovation sti</phrase>
+	<phrase weight="0.001948051948051948" count="3">market_stability competition</phrase>
+	<phrase weight="0.001948051948051948" count="3">culture_social norms</phrase>
+	<phrase weight="0.001948051948051948" count="3">consumer competition_consumer privacy</phrase>
+	<phrase weight="0.001948051948051948" count="3">science_technology innovation</phrase>
+	<phrase weight="0.001948051948051948" count="3">privacy_financial integrity</phrase>
+	<phrase weight="0.0012987012987012987" count="2">norms_gender transformative gender_transformative</phrase>
+	<phrase weight="0.0012987012987012987" count="2">frontier footprint_frontier technologies</phrase>
+	<phrase weight="0.0012987012987012987" count="2">erode_public trust</phrase>
+	<phrase weight="0.0012987012987012987" count="2">technology innovation_technology diffusion technology_diffusion</phrase>
+	<phrase weight="0.0012987012987012987" count="2">seed_funds venture funds_venture</phrase>
+	<phrase weight="0.0012987012987012987" count="2">competition_protection intellectual protection_intellectual property intellectual_property</phrase>
+	<phrase weight="0.0012987012987012987" count="2">formulation_international sti international_sti</phrase>
+	<phrase weight="0.0012987012987012987" count="2">sti development_sti</phrase>
+	<phrase weight="0.0012987012987012987" count="2">increasing_complexity technologies</phrase>
+	<phrase weight="0.0012987012987012987" count="2">safeguarding_people wellbeing</phrase>
+	<phrase weight="0.0012987012987012987" count="2">diminish_international technology international_technology spillover</phrase>
+	<phrase weight="0.0012987012987012987" count="2">technology innovation_technology diffusion</phrase>
+	<phrase weight="0.0012987012987012987" count="2">innovation_activities inherently activities_inherently hinder</phrase>
+	<phrase weight="0.0012987012987012987" count="2">innovation concentration_innovation</phrase>
+	<phrase weight="0.0012987012987012987" count="2">rapid_evolution technology evolution_technology frontier</phrase>
+	<phrase weight="0.0012987012987012987" count="2">cross_border transactions</phrase>
+	<phrase weight="0.0012987012987012987" count="2">privacy security_privacy online</phrase>
+	<phrase weight="0.0012987012987012987" count="2">fossil_fuel fired fuel_fired</phrase>
+	<phrase weight="0.0012987012987012987" count="2">fintech data_fintech</phrase>
+	<phrase weight="0.0012987012987012987" count="2">adequate_effective diffusion</phrase>
+	<phrase weight="6.493506493506494E-4" count="1">extremely_volatility spillover volatility_spillover</phrase>
+	<phrase weight="6.493506493506494E-4" count="1">implications_economy technology</phrase>
+	<phrase weight="6.493506493506494E-4" count="1">distributed_geographies demographics</phrase>
+	<phrase weight="6.493506493506494E-4" count="1">degree_line means line_means readiness means_readiness</phrase>
+  </topic>
+  <topic id="9" alpha="0.04630565060036275" totalTokens="8011" titles="development, finance, cooperation, oda, mdbs, climate, development_cooperation, humanitarian, aid, ssc">
+	<word weight="0.009736612158282362" count="78">development</word>
+	<word weight="0.008613156909249782" count="69">finance</word>
+	<word weight="0.008238671826238922" count="66">cooperation</word>
+	<word weight="0.007739358382224441" count="62">oda</word>
+	<word weight="0.005617276245162901" count="45">mdbs</word>
+	<word weight="0.004993134440144801" count="40">climate</word>
+	<word weight="0.004743477718137561" count="38">development_cooperation</word>
+	<word weight="0.0044938209961303205" count="36">humanitarian</word>
+	<word weight="0.004368992635126701" count="35">aid</word>
+	<word weight="0.0036200224691049806" count="29">ssc</word>
+	<word weight="0.0036200224691049806" count="29">oecd</word>
+	<word weight="0.0032455373860941204" count="26">dac</word>
+	<word weight="0.0032455373860941204" count="26">climate_finance</word>
+	<word weight="0.0029958806640868803" count="24">official</word>
+	<word weight="0.0028710523030832606" count="23">biodiversity</word>
+	<word weight="0.0028710523030832606" count="23">effectiveness</word>
+	<word weight="0.0028710523030832606" count="23">funding</word>
+	<word weight="0.0028710523030832606" count="23">assistance</word>
+	<word weight="0.0026213955810760205" count="21">blended_finance</word>
+	<word weight="0.0026213955810760205" count="21">nations</word>
+	<word weight="0.0026213955810760205" count="21">concessional</word>
+	<word weight="0.0023717388590687805" count="19">blended</word>
+	<word weight="0.0022469104980651603" count="18">ida</word>
+	<word weight="0.0021220821370615405" count="17">donor</word>
+	<word weight="0.0019972537760579202" count="16">mobilized</word>
+	<word weight="0.0019972537760579202" count="16">commitments</word>
+	<word weight="0.0018724254150543004" count="15">private_finance</word>
+	<word weight="0.0018724254150543004" count="15">development_assistance</word>
+	<word weight="0.0018724254150543004" count="15">international_development</word>
+	<word weight="0.0018724254150543004" count="15">sids</word>
+	<phrase weight="0.004804392587508579" count="7">international_development cooperation</phrase>
+	<phrase weight="0.002745367192862045" count="4">official_development assistance</phrase>
+	<phrase weight="0.002059025394646534" count="3">quality_impact effectiveness</phrase>
+	<phrase weight="0.002059025394646534" count="3">billions_dollars constant dollars_constant</phrase>
+	<phrase weight="0.0013726835964310226" count="2">drawing special_drawing</phrase>
+	<phrase weight="0.0013726835964310226" count="2">oda_share gni</phrase>
+	<phrase weight="0.0013726835964310226" count="2">mobilized_developing multiple</phrase>
+	<phrase weight="0.0013726835964310226" count="2">private_finance mobilized</phrase>
+	<phrase weight="0.0013726835964310226" count="2">oda graduation_oda eligibility</phrase>
+	<phrase weight="0.0013726835964310226" count="2">development effectiveness_development cooperation</phrase>
+	<phrase weight="0.0013726835964310226" count="2">challenges_achieving sdgs</phrase>
+	<phrase weight="0.0013726835964310226" count="2">blended_finance mobilized finance_mobilized</phrase>
+	<phrase weight="0.0013726835964310226" count="2">difficult_developing sids</phrase>
+	<phrase weight="0.0013726835964310226" count="2">humanitarian refugees_humanitarian aid</phrase>
+	<phrase weight="0.0013726835964310226" count="2">met gni_met target</phrase>
+	<phrase weight="0.0013726835964310226" count="2">dollars_current oecd</phrase>
+	<phrase weight="0.0013726835964310226" count="2">refugee donor_refugee</phrase>
+	<phrase weight="0.0013726835964310226" count="2">effectiveness_development cooperation</phrase>
+	<phrase weight="0.0013726835964310226" count="2">partnership_effective development effective_development cooperation</phrase>
+	<phrase weight="0.0013726835964310226" count="2">investments_sustainable development</phrase>
+	<phrase weight="0.0013726835964310226" count="2">official mobilized_official</phrase>
+	<phrase weight="0.0013726835964310226" count="2">innovative_financing development</phrase>
+	<phrase weight="0.0013726835964310226" count="2">nations_office cooperation</phrase>
+	<phrase weight="0.0013726835964310226" count="2">resources_address mounting address_mounting</phrase>
+	<phrase weight="0.0013726835964310226" count="2">cooperation_forum dcf</phrase>
+	<phrase weight="0.0013726835964310226" count="2">climate_conference dubai</phrase>
+	<phrase weight="0.0013726835964310226" count="2">climate_finance architecture</phrase>
+	<phrase weight="0.0013726835964310226" count="2">nations_conference cooperation</phrase>
+	<phrase weight="0.0013726835964310226" count="2">exceed funding_exceed</phrase>
+	<phrase weight="0.0013726835964310226" count="2">undergo provided_undergo graduation</phrase>
+  </topic>
+</topics>
