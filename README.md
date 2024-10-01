@@ -75,10 +75,10 @@ unzip mallet-2.0.8.zip
 rm mallet-2.0.8.zip
 ```
 
-# Interpreting the Results of the file SDG-scores-out.txt
-* topics in the file SDG-scores-out.txt are listed in order 0-18. Each topic maps to a specific SDG, with one topic as a filter to be ignored. The mapping between topics and SDGs is available in: /classifier/topic-sdg_mapping.csv
-* Use the output in your favorite app (excel, etc) and analyze the results, using the topic-sdg mapping.
-The results include a extra category that should be ignored. Because of this the remaining 17 scores do not add to 100. You may wish to re-compute the weights if this is important in your analysis.
+# Interpreting the Results 
+* topics are listed in order 0-n (where "n" is the number of topics you specified). One topic serves as a "filter" and should be ignored. The mapping between topics and the desired themes should be done when the model is trained. It will change each time the training is done. Recommend to create a file that has the mapping. 
+* Use the output in your favorite app (excel, etc) and analyze the results, using the mapping.
+The results include a extra category that should be ignored. Because of this the remaining scores do not add to 100. You may wish to re-compute the weights if this is important in your analysis.
 		
 
 # Other notes
