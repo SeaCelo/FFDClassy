@@ -34,18 +34,25 @@ unzip mallet-2.0.8.zip
 rm mallet-2.0.8.zip
 ```
 
-## How to classify text documents using the FFDClassy model:
+## How to train the FFD classifer on a selection of representative texts:
 * Add text files (txt only, no pdf, no directories) to: /FFDClassy/classifier_dev/sources/cl_ffd/   
 * Run the classification script "train_model_inferencer_ffd.sh"
 
 ```
-./infer-scores.sh
+./train_model_inferencer_ffd.sh
 ```
-* Results will be placed in /SDGclassy/target/output/SDG-scores-out.txt
+* Results of the training will be placed in "/FFDClassy/classifier_dev/topics"
 
-### Alternative script:
-* It may be desired to run the script multiple times on different data. Rather than moving the files in and out of the /input folder, use the alternative script "infer-scores2.sh".
-* This script requires the user to specify the input and output location using this syntax:  `./infer-scores2.sh -i /path/to/inputs -o /path/to/output`
+
+## How to classify (or "infer") text documents using the FFDClassy model:
+* Add text files (txt only, no pdf, no directories) to any directory 
+* Run the inference script "infer-scores2.sh" and specify the input and output directories:
+
+```
+./infer-scores2.sh -i /path/to/inputs -o /path/to/output
+```
+* Results of the classification will be placed in the "output" directory you speficied
+
 
 ## Windows Installation and use 
 * [Install WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
@@ -67,11 +74,6 @@ wget http://mallet.cs.umass.edu/dist/mallet-2.0.8.zip -OutFile mallet-2.0.8.zip
 unzip mallet-2.0.8.zip
 rm mallet-2.0.8.zip
 ```
-
-### How to use (with alternative method):
-* Add text files (txt only, no pdf, no directories) to: /SDGclassy/target/input/   
-* Run the classification script by right-clicking infer-scores.ps1 and selecting "Run with Powershell"
-* Results will be placed in /SDGclassy/target/output/SDG-scores-out.txt
 
 # Interpreting the Results of the file SDG-scores-out.txt
 * topics in the file SDG-scores-out.txt are listed in order 0-18. Each topic maps to a specific SDG, with one topic as a filter to be ignored. The mapping between topics and SDGs is available in: /classifier/topic-sdg_mapping.csv
